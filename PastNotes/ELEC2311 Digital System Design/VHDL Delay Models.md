@@ -1,0 +1,28 @@
+
+
+|   |   |
+|---|---|
+|Created|@August 30, 2023 10:40 AM|
+|Class|Digital System Design|
+|Reviewed||
+|Materials|[https://learn-ap-southeast-2-prod-fleet01-xythos.content.blackboardcdn.com/5ddb108fe0c42/22404361?X-Blackboard-S3-Bucket=learn-ap-southeast-2-prod-fleet01-xythos&X-Blackboard-Expiration=1693375200000&X-Blackboard-Signature=sKi8gxBsVUe5DDtbcQE7gwDmrv1oveP7SWllc6WvLqA%3D&X-Blackboard-Client-Id=301603&X-Blackboard-S3-Region=ap-southeast-2&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27LECTURE06_DSD_2023_v3.pdf&response-content-type=application%2Fpdf&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkgwRgIhAPEg9yzLeKN%2FuHoVeVYghIKFiqXroU731GPGPHo4VdgbAiEAofXkJseHguE%2F2raKJ3A52lqMKhp5LApyw6gauvQbCWMqzAUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NTY5MDM4NjEzNjEiDEw7nMiEudiwm0lcqCqgBcRn7nz0TKJN2s9ejUoSzqM7tVmDIr3KrU6h%2FJFPU1nGNWeCSS92itGNtGFZDXvw2xaj69RhWBanepQTCQizPBG9mw2m4FbOjcuux7bpXm9ixw4jR3VjdLhLVtwH1y7PoBKBHf0687xpHDM67z2%2F9Z0ub%2B1QNTgdkCyW%2FAOqisNKsUx%2FN9gGNQzW%2BMD45VzhT61ZGiRmUR7x3ErL5VoIcKe4iIacuxwazu6w%2Bxk5dmCHmbUTF7i%2B1v3%2FPNnnLOw5%2FDrn8Fg5Iub6ehzLy%2FTIYr4FQmLwLUi0Ki1TvR%2B9BJt1SoLJ%2FpxC%2FnQM6OulCXLUufwdJDBwMeK9zcUOzF7dOEVgFagG9SEf8JoWnQl58CrHB8DxVBViIdPqhTX%2FTqm7OCFyN832oRF2mCsAnRrhktyxgk1gshyDBytjeDeE3yhdcuNodpe6%2FjvI8N6h2CawgExHYiKBoT%2Fi1D2bWExypY068iUJVEjuXuVz%2FnO3x8I%2FZ51feGFAVTeV1RaqJxdmaY0fleAvFUJNb8w4%2F0L3v2wb%2Fd4i1yQNao8d5uKL6LO2QWuU%2BTppUyLSRI8PB7tle55v8YyebUtQYI7yVQlVcoIJdLcraPeXyFHYFV%2BxzPI3SFwFmdWO7kbpqK51qoRcFK3%2B3hDYB9uONFF5ppeDbINlGTZLXS1VfaXpGfBahwuOceSDMFzYd9rHLsWUUlmiekdD3PEVXye06EDBRjvkdxZ%2FK2GZSS6%2FSdp23b9kj9ELXDBU8ylvPGTDEu4yECD2v9eEvcsqz%2BfgZwisesVJZtPiOWVGlqMEHVwmVYImidK1GVb9VTt4%2B9rZ%2BKyURsYBA7Ye5S4cfkdGZEbChY6TtGw0Jw78Ch7n8f6xiDYE0IykcMbZOgnR9shCZWv%2FBytxLDCBvbqnBjqwAU9c3bB3rhxn0ZHp%2FlZmLCwDNdRaODWrZMizq3Sf9fpSZ7k2RLluJkUSIneU9qxw5TKs4zScTDnYEmjmtuKge%2FNqVMIawV527WxTyktzmHgBj7p9vZmXQBHqhrJ2cdpUIgnMffdi7GLnyJSchTNBZFrRimZzYgyA0k2VtJe%2FvPShO65qaS%2FyXu1q1xc%2Frj5tOw8%2Bqt1ozGv%2F1TDtn7jHWL9C0lF%2FCdZkIYesyVl4kvF6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230830T000000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAYDKQORRYWFJHFVS3%2F20230830%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Signature=896bac22c5e78fea2152be7c8be40f9894e5a8d5100b1b4c8b71215698e2676b](https://learn-ap-southeast-2-prod-fleet01-xythos.content.blackboardcdn.com/5ddb108fe0c42/22404361?X-Blackboard-S3-Bucket=learn-ap-southeast-2-prod-fleet01-xythos&X-Blackboard-Expiration=1693375200000&X-Blackboard-Signature=sKi8gxBsVUe5DDtbcQE7gwDmrv1oveP7SWllc6WvLqA%3D&X-Blackboard-Client-Id=301603&X-Blackboard-S3-Region=ap-southeast-2&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27LECTURE06_DSD_2023_v3.pdf&response-content-type=application%2Fpdf&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkgwRgIhAPEg9yzLeKN%2FuHoVeVYghIKFiqXroU731GPGPHo4VdgbAiEAofXkJseHguE%2F2raKJ3A52lqMKhp5LApyw6gauvQbCWMqzAUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw1NTY5MDM4NjEzNjEiDEw7nMiEudiwm0lcqCqgBcRn7nz0TKJN2s9ejUoSzqM7tVmDIr3KrU6h%2FJFPU1nGNWeCSS92itGNtGFZDXvw2xaj69RhWBanepQTCQizPBG9mw2m4FbOjcuux7bpXm9ixw4jR3VjdLhLVtwH1y7PoBKBHf0687xpHDM67z2%2F9Z0ub%2B1QNTgdkCyW%2FAOqisNKsUx%2FN9gGNQzW%2BMD45VzhT61ZGiRmUR7x3ErL5VoIcKe4iIacuxwazu6w%2Bxk5dmCHmbUTF7i%2B1v3%2FPNnnLOw5%2FDrn8Fg5Iub6ehzLy%2FTIYr4FQmLwLUi0Ki1TvR%2B9BJt1SoLJ%2FpxC%2FnQM6OulCXLUufwdJDBwMeK9zcUOzF7dOEVgFagG9SEf8JoWnQl58CrHB8DxVBViIdPqhTX%2FTqm7OCFyN832oRF2mCsAnRrhktyxgk1gshyDBytjeDeE3yhdcuNodpe6%2FjvI8N6h2CawgExHYiKBoT%2Fi1D2bWExypY068iUJVEjuXuVz%2FnO3x8I%2FZ51feGFAVTeV1RaqJxdmaY0fleAvFUJNb8w4%2F0L3v2wb%2Fd4i1yQNao8d5uKL6LO2QWuU%2BTppUyLSRI8PB7tle55v8YyebUtQYI7yVQlVcoIJdLcraPeXyFHYFV%2BxzPI3SFwFmdWO7kbpqK51qoRcFK3%2B3hDYB9uONFF5ppeDbINlGTZLXS1VfaXpGfBahwuOceSDMFzYd9rHLsWUUlmiekdD3PEVXye06EDBRjvkdxZ%2FK2GZSS6%2FSdp23b9kj9ELXDBU8ylvPGTDEu4yECD2v9eEvcsqz%2BfgZwisesVJZtPiOWVGlqMEHVwmVYImidK1GVb9VTt4%2B9rZ%2BKyURsYBA7Ye5S4cfkdGZEbChY6TtGw0Jw78Ch7n8f6xiDYE0IykcMbZOgnR9shCZWv%2FBytxLDCBvbqnBjqwAU9c3bB3rhxn0ZHp%2FlZmLCwDNdRaODWrZMizq3Sf9fpSZ7k2RLluJkUSIneU9qxw5TKs4zScTDnYEmjmtuKge%2FNqVMIawV527WxTyktzmHgBj7p9vZmXQBHqhrJ2cdpUIgnMffdi7GLnyJSchTNBZFrRimZzYgyA0k2VtJe%2FvPShO65qaS%2FyXu1q1xc%2Frj5tOw8%2Bqt1ozGv%2F1TDtn7jHWL9C0lF%2FCdZkIYesyVl4kvF6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230830T000000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAYDKQORRYWFJHFVS3%2F20230830%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Signature=896bac22c5e78fea2152be7c8be40f9894e5a8d5100b1b4c8b71215698e2676b)|
+
+- A VHDL signal assignment prescribes an amount of time that must transpire before the signal assumes its new value:
+    
+    - Transport: propagation
+        
+        ```
+        Output <= TRANSPORT NOT Input AFTER 10 ns;
+        ```
+        
+        - models devices that exhibit nearly infinite frequency response
+    
+    - Inertial: propagation delay and minimum input pulse width
+        
+        ```
+        target <= [REJECT time_expression] INERTIAL waveform;
+        ```
+        
+        - current switching circuits, an input value must be stable for a certain duration, called pulse rejection limit, before the value propagates to the output
+    
+    - Delta: default if none other is specified
