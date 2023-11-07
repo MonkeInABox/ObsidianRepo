@@ -6,33 +6,39 @@
       {
         "id": "4b3bb2106aaef04b",
         "type": "tabs",
+        "dimension": 80.34379671150973,
         "children": [
           {
-            "id": "ec3cbac24d42faff",
+            "id": "cc702e5df7dbb75c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CITS1003 Cybersecurity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16688bf4c134e1ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CITS2211 Discrete Structures.md",
+                "file": "PastNotes/CITS1003 Cybersecurity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
+      },
+      {
+        "id": "3cbdf709babbd9ba",
+        "type": "tabs",
+        "dimension": 19.656203288490286,
+        "children": [
+          {
+            "id": "ddea0ba2c46fa750",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CITS2211 Discrete Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CITS2211 Discrete Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CITS2211 Discrete Structures.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16688bf4c134e1ec",
+  "active": "ddea0ba2c46fa750",
   "lastOpenFiles": [
-    "CITS1003 Cybersecurity.md",
-    "CITS2211 Discrete Structures.md",
+    "PastNotes/CITS1003 Cybersecurity.md",
+    "PastNotes/CITS2211 Discrete Structures.md",
     "Images/Pasted image 20231107134202.png",
     "Images/Pasted image 20231107142332.png",
     "Untitled",
