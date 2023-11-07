@@ -2,7 +2,7 @@
 
 # Session 1 - Quest for the Crates
 
-The ramp crunches down onto the leaf-littered floor as you walk down it, out onto the surface of [Castrovel](Castrovel%20a56427ce1c494eda8d90bbc1262cf2a2.html). The weapon crates that you have been hired to find that have fallen from a shipment to the industrial moon of [Elindrae](https://starfinderwiki.com/wiki/Elindrae), which is visible in orbit about the planet. The trees crowd in on you, in the distance you can see the elvish architecture of [Qabarat](https://starfinderwiki.com/wiki/Qabarat), suddenly you hear a beep beep beep as the comm system that you were given by the employer began to buzz.
+The ramp crunches down onto the leaf-littered floor as you walk down it, out onto the surface of [Castrovel](Castrovel). The weapon crates that you have been hired to find that have fallen from a shipment to the industrial moon of [Elindrae](https://starfinderwiki.com/wiki/Elindrae), which is visible in orbit about the planet. The trees crowd in on you, in the distance you can see the elvish architecture of [Qabarat](https://starfinderwiki.com/wiki/Qabarat), suddenly you hear a beep beep beep as the comm system that you were given by the employer began to buzz.
 
 A scrappy looking ysoki answers, someone different from who hired you. “Are you the ones we’ve hired for this job?”
 

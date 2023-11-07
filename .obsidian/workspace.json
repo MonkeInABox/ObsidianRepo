@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0da99614a06435",
+        "id": "1a61ce681281cee2",
         "type": "tabs",
         "children": [
           {
-            "id": "9ef76dcfe7bb2e06",
+            "id": "3bd02eedac6dca48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "76affa6f8098c2bb",
+  "active": "3bd02eedac6dca48",
   "lastOpenFiles": [
+    "Misc. RPG/avatar TTRPG one shot.md",
+    "Starfinder/starfinder.md",
+    "Starfinder/Session 1 - Quest for the Crates.md",
+    "Starfinder/Castrovel.md",
+    "starfinder d525d576429a402294ef03e9f7cc4bd5/Castrovel a56427ce1c494eda8d90bbc1262cf2a2.html.md",
+    "starfinder d525d576429a402294ef03e9f7cc4bd5",
+    "Session.md",
+    "Castrovel a56427ce1c494eda8d90bbc1262cf2a2.html.md",
+    "PastNotes/CITS1003 Cybersecurity/Exam Example Questions.md",
     "Misc. RPG",
     "PastNotes/CITS211 Discrete Structures/Week 1 - Propositions Intro.md",
     "Starfinder",
@@ -168,19 +169,12 @@
     "PastNotes/CITS1003 Cybersecurity/Networks Wk 3.md",
     "PastNotes/CITS1003 Cybersecurity/Intro Wk. 1.md",
     "PastNotes/CITS1003 Cybersecurity/Incidents Wk 7.md",
-    "PastNotes/CITS1003 Cybersecurity/Exam Example Questions.md",
     "PastNotes/CITS1003 Cybersecurity/Digital Forensics Wk 8.md",
     "PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
     "PastNotes/CITS1003 Cybersecurity/Cryptography Wk 2.md",
-    "Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
     "HTML import/CITS2200 1679c08abd274141b55c816ba7891346.md",
     "PastNotes/CITS1003 Cybersecurity",
     "HTML import/Assignment 1 3d735d5f794a42cfa7484773e0c6bc46.md",
-    "HTML import/CAD Assignment 3 138e44359fbf41178f21a404da95066a.md",
-    "HTML import/Hand Drawing Portfolio fac82c9c45cb46fba53f2ce09c963710.md",
-    "HTML import/Project 1 8c88d0c5ddbf4a28a5c8481f3369e374.md",
-    "HTML import/Project 2 1a5f07e536d1428dab4edade3e66be68.md",
-    "HTML import/Quiz 6d5816c1bb644302976ce31f6f00dfca.md",
     "Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
     "Images/Attachments/Untitled 33.png",
     "Images/Attachments/webb1.jpg",
@@ -193,8 +187,6 @@
     "Images/Attachments/Untitled 31.png",
     "Images/Attachments",
     "HTML import",
-    "Untitled.canvas",
-    "PastNotes",
-    "GIT/ObsidianRepo/Past Uni Notes"
+    "Untitled.canvas"
   ]
 }

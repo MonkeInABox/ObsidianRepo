@@ -1,6 +1,4 @@
- 
 
-# avatar TTRPG one shot
 
 PLAYERS:
 
