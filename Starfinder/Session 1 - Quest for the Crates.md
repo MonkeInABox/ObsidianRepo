@@ -23,9 +23,7 @@ If go into city:
 [![](Untitled%2033.png)](Session%201%20-%20Quest%20for%20the%20Crates%208b2861f89ef84e7c920ddcb150544499/Untitled.png)
 
 - DYLAN
-
 - LOUIS
-
 - ALEX
 
 - AMELIA
