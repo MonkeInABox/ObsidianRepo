@@ -11,8 +11,12 @@
             "id": "3bd02eedac6dca48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PastNotes/CITS2002 Systems Programming/Week 7 - Memory Allocation.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PastNotes/CITS2002 Systems Programming/Week 7 - Memory Allocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PastNotes/CITS2002 Systems Programming/Week 7 - Memory Allocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PastNotes/CITS2002 Systems Programming/Week 7 - Memory Allocation.md"
+              }
             }
           }
         ]
@@ -139,8 +147,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "76affa6f8098c2bb",
+  "active": "3bd02eedac6dca48",
   "lastOpenFiles": [
+    "PastNotes/CITS2002 Systems Programming/Week 9 - C & Files.md",
+    "PastNotes/CITS1003 Cybersecurity/Security Management Wk 6.md",
+    "PastNotes/CITS211 Discrete Structures/Week 3 - Proofs.md",
+    "PastNotes/CITS211 Discrete Structures/Week 7 - Funcs & Partial Orders Equivalence Relations.md",
+    "PastNotes/CITS211 Discrete Structures/Week 8 - Counting & Cardinality.md",
+    "PastNotes/CITS211 Discrete Structures/Week 9 - FSMs.md",
     "PastNotes/ELEC2311 Digital System Design/VHDL Delay Models.md",
     "PastNotes/ELEC2311 Digital System Design/Testing & Testability.md",
     "PastNotes/ELEC2311 Digital System Design/Testbenches.md",
@@ -148,7 +162,6 @@
     "PastNotes/ELEC2311 Digital System Design/Latches Flip-Flops Registers.md",
     "PastNotes/ELEC2311 Digital System Design/Design & Signals.md",
     "PastNotes/ELEC2311 Digital System Design/VHDL.md",
-    "PastNotes/CITS2002 Systems Programming/Week 9 - C & Files.md",
     "PastNotes/CITS2002 Systems Programming/Week 7 - Memory Allocation.md",
     "PastNotes/CITS2002 Systems Programming/Week 6 - Pointers.md",
     "PastNotes/CITS2002 Systems Programming/Week 2 - Operating Systems & C Functions.md",
@@ -162,13 +175,8 @@
     "PastNotes/CITS2002 Systems Programming/Week 5 - Creating Processes and OS Services.md",
     "PastNotes/CITS1003 Cybersecurity/CITS1003 Cybersecurity.md",
     "PastNotes/CITS1003 Cybersecurity/Threats Wk 4.md",
-    "PastNotes/CITS1003 Cybersecurity/Security Management Wk 6.md",
-    "PastNotes/CITS1003 Cybersecurity/Networks Wk 3.md",
-    "PastNotes/CITS1003 Cybersecurity/Incidents Wk 7.md",
-    "PastNotes/CITS1003 Cybersecurity/Digital Forensics Wk 8.md",
-    "PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
-    "Misc. RPG",
+    "Misc",
     "Starfinder",
     "PastNotes/CITS211 Discrete Structures",
     "CITS",
