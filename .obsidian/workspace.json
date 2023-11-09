@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa340736482a0c18",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +132,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md"
+                "file": "Initiative.md"
               }
+            }
+          },
+          {
+            "id": "e14ea8861c97857c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
             }
           }
         ]
@@ -144,27 +159,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "76affa6f8098c2bb",
   "lastOpenFiles": [
-    "Misc. RPG",
-    "PastNotes/CITS211 Discrete Structures/Week 1 - Propositions Intro.md",
-    "Starfinder",
-    "PastNotes/CITS211 Discrete Structures",
-    "PastNotes/CITS2002 Systems Programming/Week 1 - C Basics.md",
-    "CITS",
-    "PastNotes/CITS2002 Systems Programming",
-    "PastNotes/CITS211 Discrete Structures/CITS2211 Discrete Structures.md",
-    "PastNotes/ELEC2311 Digital System Design/Design & Signals.md",
-    "Untitled.md",
-    "PastNotes/ELEC2311 Digital System Design",
-    "PastNotes/CITS1003 Cybersecurity/Vulnerabilities Wk 5.md",
-    "PastNotes/CITS1003 Cybersecurity/Threats Wk 4.md",
-    "PastNotes/CITS1003 Cybersecurity/Security Management Wk 6.md",
-    "PastNotes/ELEC2311 Digital System Design/Latches Flip-Flops Registers.md",
+    "Starfinder/Session 1 - Quest for the Crates.md",
+    "Initiative.md",
+    "Starfinder/starfinder.md",
+    "PastNotes/ELEC2311 Digital System Design/VHDL.md",
+    "PastNotes/ELEC2311 Digital System Design/VHDL Delay Models.md",
+    "PastNotes/ELEC2311 Digital System Design/Testing & Testability.md",
+    "PastNotes/ELEC2311 Digital System Design/Testbenches.md",
     "PastNotes/ELEC2311 Digital System Design/Sequential Circuits.md",
+    "PastNotes/ELEC2311 Digital System Design/Latches Flip-Flops Registers.md",
+    "PastNotes/ELEC2311 Digital System Design/Design & Signals.md",
+    "PastNotes/CITS211 Discrete Structures/Week 9 - FSMs.md",
+    "PastNotes/CITS211 Discrete Structures/Week 8 - Counting & Cardinality.md",
+    "PastNotes/CITS211 Discrete Structures/Week 7 - Funcs & Partial Orders Equivalence Relations.md",
+    "PastNotes/CITS211 Discrete Structures/Week 3 - Proofs.md",
+    "PastNotes/CITS211 Discrete Structures/Week 2 - Predicates.md",
+    "PastNotes/CITS1003 Cybersecurity/Security Management Wk 6.md",
     "PastNotes/CITS1003 Cybersecurity/Networks Wk 3.md",
     "PastNotes/CITS1003 Cybersecurity/Intro Wk. 1.md",
     "PastNotes/CITS1003 Cybersecurity/Incidents Wk 7.md",
@@ -173,14 +189,16 @@
     "PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
     "PastNotes/CITS1003 Cybersecurity/Cryptography Wk 2.md",
     "Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
-    "HTML import/CITS2200 1679c08abd274141b55c816ba7891346.md",
+    "Misc. RPG",
+    "conflict-files-obsidian-git.md",
+    "Misc/avatar TTRPG one shot.md",
+    "Misc",
+    "Starfinder",
+    "PastNotes/CITS211 Discrete Structures",
+    "CITS",
+    "PastNotes/CITS2002 Systems Programming",
+    "PastNotes/ELEC2311 Digital System Design",
     "PastNotes/CITS1003 Cybersecurity",
-    "HTML import/Assignment 1 3d735d5f794a42cfa7484773e0c6bc46.md",
-    "HTML import/CAD Assignment 3 138e44359fbf41178f21a404da95066a.md",
-    "HTML import/Hand Drawing Portfolio fac82c9c45cb46fba53f2ce09c963710.md",
-    "HTML import/Project 1 8c88d0c5ddbf4a28a5c8481f3369e374.md",
-    "HTML import/Project 2 1a5f07e536d1428dab4edade3e66be68.md",
-    "HTML import/Quiz 6d5816c1bb644302976ce31f6f00dfca.md",
     "Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
     "Images/Attachments/Untitled 33.png",
     "Images/Attachments/webb1.jpg",
@@ -193,8 +211,6 @@
     "Images/Attachments/Untitled 31.png",
     "Images/Attachments",
     "HTML import",
-    "Untitled.canvas",
-    "PastNotes",
-    "GIT/ObsidianRepo/Past Uni Notes"
+    "Untitled.canvas"
   ]
 }
