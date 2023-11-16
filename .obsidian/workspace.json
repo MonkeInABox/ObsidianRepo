@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starfinder/Session 1 - Quest for the Crates.md",
+                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa340736482a0c18",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initiative.md"
+                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md"
               }
             }
           },
@@ -165,52 +158,52 @@
   },
   "active": "76affa6f8098c2bb",
   "lastOpenFiles": [
-    "Starfinder/Session 1 - Quest for the Crates.md",
+    "-OTHER-",
+    "UNIVERSITY",
+    "UNIVERSITY/GENG2004",
+    "UNIVERSITY/CITS3401",
+    "UNIVERSITY/CITS3002",
+    "CITS2401/Untitled",
+    "UNIVERSITY/CITS2401",
+    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "Initiative.md",
-    "Starfinder/starfinder.md",
-    "PastNotes/ELEC2311 Digital System Design/VHDL.md",
-    "PastNotes/ELEC2311 Digital System Design/VHDL Delay Models.md",
-    "PastNotes/ELEC2311 Digital System Design/Testing & Testability.md",
-    "PastNotes/ELEC2311 Digital System Design/Testbenches.md",
-    "PastNotes/ELEC2311 Digital System Design/Sequential Circuits.md",
-    "PastNotes/ELEC2311 Digital System Design/Latches Flip-Flops Registers.md",
-    "PastNotes/ELEC2311 Digital System Design/Design & Signals.md",
-    "PastNotes/CITS211 Discrete Structures/Week 9 - FSMs.md",
-    "PastNotes/CITS211 Discrete Structures/Week 8 - Counting & Cardinality.md",
-    "PastNotes/CITS211 Discrete Structures/Week 7 - Funcs & Partial Orders Equivalence Relations.md",
-    "PastNotes/CITS211 Discrete Structures/Week 3 - Proofs.md",
-    "PastNotes/CITS211 Discrete Structures/Week 2 - Predicates.md",
-    "PastNotes/CITS1003 Cybersecurity/Security Management Wk 6.md",
-    "PastNotes/CITS1003 Cybersecurity/Networks Wk 3.md",
-    "PastNotes/CITS1003 Cybersecurity/Intro Wk. 1.md",
-    "PastNotes/CITS1003 Cybersecurity/Incidents Wk 7.md",
-    "PastNotes/CITS1003 Cybersecurity/Exam Example Questions.md",
-    "PastNotes/CITS1003 Cybersecurity/Digital Forensics Wk 8.md",
-    "PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
-    "PastNotes/CITS1003 Cybersecurity/Cryptography Wk 2.md",
-    "Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
-    "Misc. RPG",
+    "-OTHER-/Starfinder/starfinder.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/VHDL.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/VHDL Delay Models.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/Testing & Testability.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/Testbenches.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/Sequential Circuits.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/Latches Flip-Flops Registers.md",
+    "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/Design & Signals.md",
+    "UNIVERSITY/PastNotes/CITS211 Discrete Structures/Week 9 - FSMs.md",
+    "UNIVERSITY/PastNotes/CITS211 Discrete Structures/Week 8 - Counting & Cardinality.md",
+    "UNIVERSITY/PastNotes/CITS211 Discrete Structures/Week 7 - Funcs & Partial Orders Equivalence Relations.md",
+    "UNIVERSITY/PastNotes/CITS211 Discrete Structures/Week 3 - Proofs.md",
+    "UNIVERSITY/PastNotes/CITS211 Discrete Structures/Week 2 - Predicates.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Security Management Wk 6.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Networks Wk 3.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Intro Wk. 1.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Incidents Wk 7.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Exam Example Questions.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Digital Forensics Wk 8.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Cryptography Wk 2.md",
+    "-OTHER-/Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
+    "-OTHER-/Misc. RPG",
     "conflict-files-obsidian-git.md",
-    "Misc/avatar TTRPG one shot.md",
-    "Misc",
-    "Starfinder",
-    "PastNotes/CITS211 Discrete Structures",
-    "CITS",
-    "PastNotes/CITS2002 Systems Programming",
-    "PastNotes/ELEC2311 Digital System Design",
-    "PastNotes/CITS1003 Cybersecurity",
-    "Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
-    "Images/Attachments/Untitled 33.png",
-    "Images/Attachments/webb1.jpg",
-    "Images/Attachments/158277.jpeg",
-    "Images/Attachments/ratio3x2_1800.jpg",
-    "Images/Attachments/photo-1491466424936-e304919aada7.jpeg",
-    "Images/Attachments/photo-1577086664693-894d8405334a.jpeg",
-    "Images/Attachments/Untitled 32.png",
-    "Images/Attachments/Untitled 1 8.png",
-    "Images/Attachments/Untitled 31.png",
-    "Images/Attachments",
-    "HTML import",
+    "-OTHER-/Misc",
+    "-OTHER-/Starfinder",
+    "UNIVERSITY/PastNotes/CITS211 Discrete Structures",
+    "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
+    "-OTHER-/Images/Attachments/Untitled 33.png",
+    "-OTHER-/Images/Attachments/webb1.jpg",
+    "-OTHER-/Images/Attachments/158277.jpeg",
+    "-OTHER-/Images/Attachments/ratio3x2_1800.jpg",
+    "-OTHER-/Images/Attachments/photo-1491466424936-e304919aada7.jpeg",
+    "-OTHER-/Images/Attachments/photo-1577086664693-894d8405334a.jpeg",
+    "-OTHER-/Images/Attachments/Untitled 32.png",
+    "-OTHER-/Images/Attachments/Untitled 1 8.png",
+    "-OTHER-/Images/Attachments/Untitled 31.png",
     "Untitled.canvas"
   ]
 }
