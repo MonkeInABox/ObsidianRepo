@@ -1,7 +1,7 @@
 
 # __________________campaign sessions:__________________
 
-[Session 0](starfinder%20d525d576429a402294ef03e9f7cc4bd5/Session%200%2070bdcf936a7b4364b1cb5c8761266d8a.html)
+[[Session 0]]
 
 [Session 1 - Quest for the Crates](starfinder%20d525d576429a402294ef03e9f7cc4bd5/Session%201%20-%20Quest%20for%20the%20Crates%208b2861f89ef84e7c920ddcb150544499.html)
 

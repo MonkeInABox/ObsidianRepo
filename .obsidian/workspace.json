@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "-OTHER-/Starfinder/starfinder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b73d1c93979398b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9de0245168571fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
+                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
+                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md"
+                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md"
               }
             }
           },
@@ -156,8 +181,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "76affa6f8098c2bb",
+  "active": "b9de0245168571fa",
   "lastOpenFiles": [
+    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
+    "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
+    "-OTHER-/Starfinder/starfinder.md",
+    "-OTHER-/Starfinder/Session 0.md",
+    "starfinder d525d576429a402294ef03e9f7cc4bd5/Session 0 70bdcf936a7b4364b1cb5c8761266d8a.html.md",
+    "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "-OTHER-",
     "UNIVERSITY",
     "UNIVERSITY/GENG2004",
@@ -165,9 +196,7 @@
     "UNIVERSITY/CITS3002",
     "CITS2401/Untitled",
     "UNIVERSITY/CITS2401",
-    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "Initiative.md",
-    "-OTHER-/Starfinder/starfinder.md",
     "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/VHDL.md",
     "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/VHDL Delay Models.md",
     "UNIVERSITY/PastNotes/ELEC2311 Digital System Design/Testing & Testability.md",
@@ -188,12 +217,8 @@
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Digital Forensics Wk 8.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Cryptography Wk 2.md",
-    "-OTHER-/Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
     "-OTHER-/Misc. RPG",
-    "conflict-files-obsidian-git.md",
     "-OTHER-/Misc",
-    "-OTHER-/Starfinder",
-    "UNIVERSITY/PastNotes/CITS211 Discrete Structures",
     "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
     "-OTHER-/Images/Attachments/Untitled 33.png",
     "-OTHER-/Images/Attachments/webb1.jpg",
