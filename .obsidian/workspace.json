@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "280c4bb4ecd2b894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-OTHER-/Misc/Cosmere Reading Order.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
+                "file": "-OTHER-/Misc/Cosmere Reading Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
+                "file": "-OTHER-/Misc/Cosmere Reading Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md"
+                "file": "-OTHER-/Misc/Cosmere Reading Order.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b9de0245168571fa",
+  "active": "280c4bb4ecd2b894",
   "lastOpenFiles": [
-    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
+    "-OTHER-/Misc/Cosmere Reading Order.md",
+    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "-OTHER-/Starfinder/starfinder.md",
     "-OTHER-/Starfinder/Session 0.md",
     "starfinder d525d576429a402294ef03e9f7cc4bd5/Session 0 70bdcf936a7b4364b1cb5c8761266d8a.html.md",
@@ -216,7 +229,6 @@
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Exam Example Questions.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Digital Forensics Wk 8.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Cyberlaw Wk 10.md",
-    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Cryptography Wk 2.md",
     "-OTHER-/Misc. RPG",
     "-OTHER-/Misc",
     "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
