@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "753e0ac1fb6bacfb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "41a571aa52649edd",
+  "active": "753e0ac1fb6bacfb",
   "lastOpenFiles": [
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
