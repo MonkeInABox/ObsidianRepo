@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d1e2567a0f8a751",
+            "id": "7200345181ffcb0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3403/1. Intro & Outline.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "41a571aa52649edd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3403/2. HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "753e0ac1fb6bacfb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3403/2. HTML.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3403/2. HTML.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3403/2. HTML.md"
+                "file": "UNIVERSITY/CITS2401/1. Python Basics.md"
               }
             }
           },
@@ -179,10 +156,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "753e0ac1fb6bacfb",
+  "active": "7200345181ffcb0f",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
+    "UNIVERSITY/CITS2401/1. Python Basics.md",
+    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "-OTHER-/Misc/Cosmere Reading Order.md",
     "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
     "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
@@ -214,7 +192,6 @@
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Networks Wk 3.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Intro Wk. 1.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Incidents Wk 7.md",
-    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Exam Example Questions.md",
     "-OTHER-/Misc. RPG",
     "-OTHER-/Misc",
     "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
