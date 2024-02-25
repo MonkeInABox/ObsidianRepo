@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics.md"
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md"
               }
             }
           },
@@ -159,7 +159,7 @@
   "active": "7200345181ffcb0f",
   "lastOpenFiles": [
     "UNIVERSITY/CITS3403/2. HTML.md",
-    "UNIVERSITY/CITS2401/1. Python Basics.md",
+    "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "-OTHER-/Misc/Cosmere Reading Order.md",
     "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
