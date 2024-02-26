@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG2004/1. Introduction.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG2004/1. Introduction.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/GENG2004/1. Introduction.md",
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG2004/1. Introduction.md"
+                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "7200345181ffcb0f",
   "lastOpenFiles": [
+    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
     "-OTHER-/Images/Pasted image 20240226105135.png",
     "-OTHER-/Images/Pasted image 20240226104914.png",
