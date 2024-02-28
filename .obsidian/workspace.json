@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4576b3bf66071d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md"
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md"
               }
             }
           },
@@ -156,18 +169,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e449d8bd66fe9ac2",
+  "active": "4576b3bf66071d83",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
-    "Pasted image 20240227143912.png",
-    "Pasted image 20240227143104.png",
+    "-OTHER-/Images/Pasted image 20240227143912.png",
+    "-OTHER-/Images/Pasted image 20240227143104.png",
     "UNIVERSITY/CITS3002/1. Introduction.md",
     "-OTHER-/Images/Pasted image 20240227131248.png",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
     "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
     "-OTHER-/Images/Pasted image 20240226105135.png",
     "-OTHER-/Images/Pasted image 20240226104914.png",
     "-OTHER-/Misc/Cosmere Reading Order.md",
