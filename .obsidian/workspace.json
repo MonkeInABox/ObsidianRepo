@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops.md",
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops.md",
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops.md",
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops.md"
+                "file": "UNIVERSITY/CITS2401/2. Strings & Lists.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "afa769104d912843",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "UNIVERSITY/CITS2401/3. Loops.md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
