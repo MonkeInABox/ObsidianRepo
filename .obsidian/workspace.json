@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -160,15 +159,15 @@
   },
   "active": "afa769104d912843",
   "lastOpenFiles": [
-    "Pasted image 20240301110006.png",
     "UNIVERSITY/GENG2004/1. Introduction.md",
+    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "Pasted image 20240301110006.png",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
-    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
     "-OTHER-/Images/Pasted image 20240227143912.png",
     "-OTHER-/Images/Pasted image 20240227143104.png",
     "UNIVERSITY/CITS3002/1. Introduction.md",
@@ -205,7 +204,6 @@
     "-OTHER-/Images/Attachments/Untitled 33.png",
     "-OTHER-/Images/Attachments/webb1.jpg",
     "-OTHER-/Images/Attachments/158277.jpeg",
-    "-OTHER-/Images/Attachments/ratio3x2_1800.jpg",
     "Untitled.canvas"
   ]
 }
