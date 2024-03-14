@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
+                "file": "UNIVERSITY/GENG2004/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
+                "file": "UNIVERSITY/GENG2004/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
+                "file": "UNIVERSITY/GENG2004/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3002/3. The Data Link Layer.md"
+                "file": "UNIVERSITY/GENG2004/1. Introduction.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,19 +157,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e14ea8861c97857c",
+  "active": "28b7d53f1f3bf7c6",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3403/3. CSS.md",
-    "UNIVERSITY/CITS3403/4. Bootstrap.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
+    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
     "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
-    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/CITS3002/1. Introduction.md",
     "UNIVERSITY/CITS2401/4. Conditions.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "UNIVERSITY/GENG2004/1. Introduction.md",
     "-OTHER-/Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
+    "UNIVERSITY/CITS3403/3. CSS.md",
+    "UNIVERSITY/CITS3403/4. Bootstrap.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
     "-OTHER-/Images/Pasted image 20240301110006.png",
