@@ -33,3 +33,4 @@
 - Steals Bobby's duffel bag full of coins
 - Bag subsequently gets stolen back
 - Gang goes to Plasta, almost gets cuffed
+- Takes shots at guards that were hunting Bobby in Plasta
