@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d42deacd35495e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-OTHER-/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,11 +182,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "161f5104aa72baa7",
+  "active": "76affa6f8098c2bb",
   "lastOpenFiles": [
-    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
-    "Untitled.md",
+    "-OTHER-/Untitled.md",
+    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
     "-OTHER-/Images/Pasted image 20240314152122.png",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
