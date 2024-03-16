@@ -16,7 +16,6 @@
 | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------- | ------------------- | ------------ |
 | [Wood Elf](http://dnd5e.wikidot.com/lineage:elf) | [Ranger](http://dnd5e.wikidot.com/ranger) | [Gloomstalker](http://dnd5e.wikidot.com/ranger:gloom-stalker) | Criminal (Assassin) | Neutral Good |
 
-
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | -1  | +4  | +1  | -1  | +2  | +2  |
