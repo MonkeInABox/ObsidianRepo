@@ -31,4 +31,5 @@
 	- Hides in cabin over a few months until its smoothed over
 
 ## Session 1 Notes
-- 
+- Steals Bobby's duffel bag full of coins
+- Bag subsequently gets stolen back
