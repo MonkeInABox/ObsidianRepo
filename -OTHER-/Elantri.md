@@ -32,3 +32,4 @@
 ## Session 1 Notes
 - Steals Bobby's duffel bag full of coins
 - Bag subsequently gets stolen back
+- Gang goes to Plasta, almost gets cuffed
