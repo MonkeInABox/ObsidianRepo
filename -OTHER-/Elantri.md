@@ -30,3 +30,5 @@
 	- Keeps severed head out of hands of the state to prevent info getting out
 	- Hides in cabin over a few months until its smoothed over
 
+## Session 1 Notes
+- 
