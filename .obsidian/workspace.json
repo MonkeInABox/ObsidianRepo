@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+                "file": "UNIVERSITY/CITS3403/5. JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,28 +169,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cdbb8aa319ec9455",
+  "active": "2568dd7f10c030a2",
   "lastOpenFiles": [
-    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
-    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
-    "UNIVERSITY/CITS2401/5. Functions.md",
+    "UNIVERSITY/CITS3403/4. Bootstrap.md",
+    "UNIVERSITY/CITS3403/3. CSS.md",
+    "UNIVERSITY/CITS3403/2. HTML.md",
+    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
+    "UNIVERSITY/CITS3002/1. Introduction.md",
+    "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
+    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+    "UNIVERSITY/CITS2401/5. Functions.md",
     "UNIVERSITY/CITS2401/4. Conditions.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+    "UNIVERSITY/GENG2004/1. Introduction.md",
+    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "-OTHER-/Elantri.md",
     "Pasted image 20240316124601.png",
-    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
     "-OTHER-/Images/Pasted image 20240314152122.png",
-    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
-    "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
     "-OTHER-/Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
-    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/CITS3403/3. CSS.md",
-    "UNIVERSITY/CITS3403/4. Bootstrap.md",
-    "UNIVERSITY/CITS3403/2. HTML.md",
     "-OTHER-/Images/Pasted image 20240301110006.png",
     "-OTHER-/Images/Pasted image 20240227143912.png",
     "-OTHER-/Images/Pasted image 20240227143104.png",
