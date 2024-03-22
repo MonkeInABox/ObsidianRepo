@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+                "file": "UNIVERSITY/CITS3403/6. DOM.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "df80895c49597b52",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+                "file": "UNIVERSITY/CITS3403/6. DOM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+                "file": "UNIVERSITY/CITS3403/6. DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md"
+                "file": "UNIVERSITY/CITS3403/6. DOM.md"
               }
             }
           },
@@ -168,10 +157,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "df80895c49597b52",
+  "active": "cdbb8aa319ec9455",
   "lastOpenFiles": [
-    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
+    "UNIVERSITY/CITS3403/5. JavaScript.md",
+    "UNIVERSITY/CITS3403/6. DOM.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
@@ -188,7 +179,6 @@
     "UNIVERSITY/GENG2004/1. Introduction.md",
     "-OTHER-/Elantri.md",
     "-OTHER-/Images/Pasted image 20240316124601.png",
-    "UNIVERSITY/CITS3403/5. JavaScript.md",
     "-OTHER-/Images/Pasted image 20240314152122.png",
     "-OTHER-/Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
     "-OTHER-/Images/Pasted image 20240301110006.png",
@@ -211,7 +201,6 @@
     "UNIVERSITY/CITS3002",
     "CITS2401/Untitled",
     "UNIVERSITY/CITS2401",
-    "Initiative.md",
     "-OTHER-/Misc. RPG",
     "-OTHER-/Misc",
     "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
