@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3403/6. DOM.md",
+                "file": "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3403/6. DOM.md",
+                "file": "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3403/6. DOM.md",
+                "file": "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3403/6. DOM.md"
+                "file": "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md"
               }
             }
           },
@@ -157,10 +157,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cdbb8aa319ec9455",
+  "active": "76affa6f8098c2bb",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3403/5. JavaScript.md",
+    "-OTHER-/Images/Pasted image 20240323111727.png",
     "UNIVERSITY/CITS3403/6. DOM.md",
+    "UNIVERSITY/CITS3403/5. JavaScript.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
     "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
@@ -192,7 +193,6 @@
     "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "-OTHER-/Starfinder/starfinder.md",
     "-OTHER-/Starfinder/Session 0.md",
-    "starfinder d525d576429a402294ef03e9f7cc4bd5/Session 0 70bdcf936a7b4364b1cb5c8761266d8a.html.md",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "-OTHER-",
     "UNIVERSITY",
