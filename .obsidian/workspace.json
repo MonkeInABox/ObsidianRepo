@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5. Network Layer.md",
+                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5. Network Layer.md",
+                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5. Network Layer.md",
+                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5. Network Layer.md"
+                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md"
               }
             }
           },
@@ -160,8 +159,12 @@
   },
   "active": "cdbb8aa319ec9455",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
+    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
+    "-OTHER-/FresherCampaign/Session 1. DnD.md",
+    "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
+    "-OTHER-/FresherCampaign",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/5. Functions.md",
     "UNIVERSITY/CITS2401/4. Conditions.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
@@ -192,9 +195,6 @@
     "-OTHER-/Images/Pasted image 20240227131248.png",
     "-OTHER-/Images/Pasted image 20240226105135.png",
     "-OTHER-/Images/Pasted image 20240226104914.png",
-    "-OTHER-/Misc/Cosmere Reading Order.md",
-    "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
-    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "-OTHER-",
     "UNIVERSITY",
@@ -204,7 +204,6 @@
     "CITS2401/Untitled",
     "UNIVERSITY/CITS2401",
     "-OTHER-/Misc. RPG",
-    "-OTHER-/Misc",
     "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
     "Untitled.canvas"
   ]
