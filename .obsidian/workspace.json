@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG2004/Axially Loaded Members.md",
+                "file": "-OTHER-/FresherCampaign/Player Notes & Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec4e9161e647f73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2b3bad31442091f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bebd010e16e8a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG2004/Axially Loaded Members.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/GENG2004/Axially Loaded Members.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG2004/Axially Loaded Members.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,19 +194,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cdbb8aa319ec9455",
+  "active": "e2b3bad31442091f",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+    "conflict-files-obsidian-git.md",
+    "UNIVERSITY/CITS2401/4. Conditions.md",
+    "UNIVERSITY/CITS2401/5. Functions.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
+    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
+    "-OTHER-/FresherCampaign/Session 1. DnD.md",
+    "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
+    "-OTHER-/FresherCampaign",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
     "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
     "UNIVERSITY/GENG2004/1. Introduction.md",
-    "UNIVERSITY/GENG2004/Axially Loaded Members.md",
-    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
-    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "UNIVERSITY/CITS2401/5. Functions.md",
-    "UNIVERSITY/CITS2401/4. Conditions.md",
     "-OTHER-/Images/Pasted image 20240323111727.png",
     "UNIVERSITY/CITS3403/6. DOM.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
@@ -191,9 +232,6 @@
     "-OTHER-/Images/Pasted image 20240227131248.png",
     "-OTHER-/Images/Pasted image 20240226105135.png",
     "-OTHER-/Images/Pasted image 20240226104914.png",
-    "-OTHER-/Misc/Cosmere Reading Order.md",
-    "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
-    "-OTHER-/Starfinder/Session 1 - Quest for the Crates.md",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "-OTHER-",
     "UNIVERSITY",
@@ -203,7 +241,6 @@
     "CITS2401/Untitled",
     "UNIVERSITY/CITS2401",
     "-OTHER-/Misc. RPG",
-    "-OTHER-/Misc",
     "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
     "Untitled.canvas"
   ]
