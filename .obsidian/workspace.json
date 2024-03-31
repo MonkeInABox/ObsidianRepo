@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS2401/3. Loops & Nesting.md"
+                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md"
               }
             }
           },
@@ -184,8 +184,12 @@
   },
   "active": "ec4e9161e647f73e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
+    "UNIVERSITY/CITS3002/1. Introduction.md",
+    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+    "conflict-files-obsidian-git.md",
     "UNIVERSITY/CITS2401/4. Conditions.md",
     "UNIVERSITY/CITS2401/5. Functions.md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
@@ -202,18 +206,14 @@
     "-OTHER-/Images/Pasted image 20240323111727.png",
     "UNIVERSITY/CITS3403/6. DOM.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
-    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS3403/4. Bootstrap.md",
     "UNIVERSITY/CITS3403/3. CSS.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
     "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
-    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
     "-OTHER-/Elantri.md",
     "-OTHER-/Images/Pasted image 20240316124601.png",
     "-OTHER-/Images/Pasted image 20240314152122.png",
-    "-OTHER-/Misc. RPG/avatar TTRPG one shot 887d385bf5a04e819b61ee121ebc072b.md",
     "-OTHER-/Images/Pasted image 20240301110006.png",
     "-OTHER-/Images/Pasted image 20240227143912.png",
     "-OTHER-/Images/Pasted image 20240227143104.png",
