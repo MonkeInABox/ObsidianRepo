@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Player Notes & Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec4e9161e647f73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7bebd010e16e8a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,36 +157,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ec4e9161e647f73e",
+  "active": "cdbb8aa319ec9455",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
-    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
-    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
-    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
-    "conflict-files-obsidian-git.md",
-    "UNIVERSITY/CITS2401/4. Conditions.md",
-    "UNIVERSITY/CITS2401/5. Functions.md",
-    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
-    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
     "-OTHER-/FresherCampaign/Session 1. DnD.md",
     "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
+    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
+    "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
     "-OTHER-/FresherCampaign",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
-    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
-    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
-    "UNIVERSITY/GENG2004/1. Introduction.md",
-    "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
+    "UNIVERSITY/CITS2401/5. Functions.md",
+    "UNIVERSITY/CITS2401/4. Conditions.md",
+    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+    "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
+    "UNIVERSITY/GENG2004/Axially Loaded Members.md",
+    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "-OTHER-/Images/Pasted image 20240323111727.png",
     "UNIVERSITY/CITS3403/6. DOM.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
+    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS3403/4. Bootstrap.md",
     "UNIVERSITY/CITS3403/3. CSS.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
+    "UNIVERSITY/CITS3002/1. Introduction.md",
     "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
-    "-OTHER-/Elantri.md",
+    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
+    "UNIVERSITY/GENG2004/1. Introduction.md",
     "-OTHER-/Images/Pasted image 20240316124601.png",
     "-OTHER-/Images/Pasted image 20240314152122.png",
     "-OTHER-/Images/Pasted image 20240301110006.png",
