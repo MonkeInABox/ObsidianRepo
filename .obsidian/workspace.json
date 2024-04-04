@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
+                "file": "UNIVERSITY/CITS3002/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
+                "file": "UNIVERSITY/CITS3002/1. Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
+                "file": "UNIVERSITY/CITS3002/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md"
+                "file": "UNIVERSITY/CITS3002/1. Introduction.md"
               }
             }
           },
@@ -160,13 +159,13 @@
   },
   "active": "920bfe730815ef6e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS3002/1. Introduction.md",
+    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
+    "conflict-files-obsidian-git.md",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
     "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
     "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
     "UNIVERSITY/CITS3403/6. DOM.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
