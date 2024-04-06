@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2d5ff6f1629ba6d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "920bfe730815ef6e",
+  "active": "a2d5ff6f1629ba6d",
   "lastOpenFiles": [
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
     "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
