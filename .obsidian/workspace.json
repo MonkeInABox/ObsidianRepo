@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3cdbc3f181c1064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md"
+                "file": "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md"
               }
             }
           },
@@ -157,10 +171,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "920bfe730815ef6e",
+  "active": "d3cdbc3f181c1064",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3403/3. CSS.md",
     "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
+    "UNIVERSITY/CITS3403/3. CSS.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
     "Pasted image 20240406115501.png",
     "UNIVERSITY/CITS3403/6. DOM.md",
