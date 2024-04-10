@@ -36,8 +36,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d71b744fec38fef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e5d0e52f4091dfe8",
+  "active": "6d71b744fec38fef",
   "lastOpenFiles": [
     "UNIVERSITY/CITS3002/5. Network Layer.md",
     "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
