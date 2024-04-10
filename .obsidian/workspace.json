@@ -13,42 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5. Network Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "650b46010e97de00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5d0e52f4091dfe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+                "file": "-OTHER-/FresherCampaign/Session 1. DnD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d71b744fec38fef",
+            "id": "216946aa3de068f3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "-OTHER-/FresherCampaign/Session 2. DnD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5ce8dd5e84703ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -186,16 +182,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6d71b744fec38fef",
+  "active": "f5ce8dd5e84703ec",
   "lastOpenFiles": [
+    "-OTHER-/FresherCampaign/Session 2. DnD.md",
+    "conflict-files-obsidian-git.md",
+    "-OTHER-/FresherCampaign/Session 1. DnD.md",
+    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
-    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
+    "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
+    "-OTHER-/Images/Pasted image 20240406115501.png",
+    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
     "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
-    "-OTHER-/FresherCampaign/Session 1. DnD.md",
     "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
-    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
     "-OTHER-/Misc. RPG/Call of Cthulhu - Edge of Darkness One Shot.md",
     "-OTHER-/FresherCampaign",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
@@ -211,11 +213,6 @@
     "UNIVERSITY/CITS3403/5. JavaScript.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
     "UNIVERSITY/CITS3403/4. Bootstrap.md",
-    "UNIVERSITY/CITS3403/3. CSS.md",
-    "UNIVERSITY/CITS3403/2. HTML.md",
-    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
-    "UNIVERSITY/GENG2004/1. Introduction.md",
     "-OTHER-/Images/Pasted image 20240316124601.png",
     "-OTHER-/Images/Pasted image 20240314152122.png",
     "-OTHER-/Images/Pasted image 20240301110006.png",
@@ -233,7 +230,6 @@
     "CITS2401/Untitled",
     "UNIVERSITY/CITS2401",
     "-OTHER-/Misc. RPG",
-    "-OTHER-/Images/Attachments/starfinder_beginner_box_review.width-1080.jpg",
     "Untitled.canvas"
   ]
 }
