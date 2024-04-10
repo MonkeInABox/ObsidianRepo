@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 2. DnD.md",
+                "file": "-OTHER-/FresherCampaign/Player Notes & Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 2. DnD.md",
+                "file": "-OTHER-/FresherCampaign/Player Notes & Characters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 2. DnD.md",
+                "file": "-OTHER-/FresherCampaign/Player Notes & Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 2. DnD.md"
+                "file": "-OTHER-/FresherCampaign/Player Notes & Characters.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "216946aa3de068f3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "-OTHER-/FresherCampaign/Session 2. DnD.md",
+    "conflict-files-obsidian-git.md",
     "-OTHER-/FresherCampaign/Session 1. DnD.md",
     "-OTHER-/FresherCampaign/Player Notes & Characters.md",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
