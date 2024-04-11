@@ -8,12 +8,13 @@ There is obviously some sort of cage fighting going on in the back
 
 "COME ALL COME ALL TONIGHT WE HAVE A SPECIAL EVENT! WE ARE ACCEPTING GROUPS, AND THOSE WHO WIN WILL GET A NIGHT ON THE HOUSE."
 
-You see a gangly drow standing on a crate with a black cloak bound by what looks like a gold coin. 
+You see a gangly Drow standing on a crate with a black cloak bound by what looks like a gold coin. 
 >Defeats a team of 3 dwarves and 4 skeleton warriors
 >Level up to level 2
 
 ![[u4by2uzxs2b81.webp]]
-AC: 13, Health: 13
+
+![[Pasted image 20240411152536.png]]
 
 #### Initiative:
 20 - Number Skele - DEAD
@@ -23,4 +24,5 @@ AC: 13, Health: 13
 11 - Iris Elderwhistle & Dune
 9 - Triangle Skele - POISONED - DEAD
 3 - Balthazar
-1 - Red Skele - POISONED - DEAD
+1 - Red Skele - POISONED - DEAD00
+
