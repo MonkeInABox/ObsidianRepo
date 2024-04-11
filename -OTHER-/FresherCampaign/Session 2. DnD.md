@@ -10,6 +10,7 @@ There is obviously some sort of cage fighting going on in the back
 
 You see a gangly drow standing on a crate with a black cloak bound by what looks like a gold coin. 
 >Defeats a team of 3 dwarves and 4 skeleton warriors
+>Level up to level 2
 
 ![[u4by2uzxs2b81.webp]]
 AC: 13, Health: 13
