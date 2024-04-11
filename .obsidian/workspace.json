@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md"
+                "file": "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md"
               }
             }
           },
@@ -172,6 +172,9 @@
   },
   "active": "41ea7116f4eeaea8",
   "lastOpenFiles": [
+    "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
+    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
+    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
     "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
@@ -184,7 +187,6 @@
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
     "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
     "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
     "UNIVERSITY/CITS3403/6. DOM.md",
@@ -193,12 +195,10 @@
     "UNIVERSITY/CITS3403/3. CSS.md",
     "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "UNIVERSITY/CITS3403/2. HTML.md",
-    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
     "UNIVERSITY/GENG2004/1. Introduction.md",
     "-OTHER-/Images/Pasted image 20240406115501.png",
     "conflict-files-obsidian-git.md",
     "-OTHER-/FresherCampaign/Player Notes & Characters.md",
-    "-OTHER-/FresherCampaign/Session 1. DnD.md",
     "-OTHER-/FresherCampaign",
     "-OTHER-/Images/Pasted image 20240323111727.png",
     "-OTHER-/Images/Pasted image 20240316124601.png",
