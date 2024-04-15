@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b6853b46601908e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+                "file": "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md"
+                "file": "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md"
               }
             }
           },
@@ -157,8 +171,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "151e6a9e31392040",
+  "active": "9b6853b46601908e",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
+    "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
+    "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS3403/5. JavaScript.md",
+    "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
+    "UNIVERSITY/CITS3403/3. CSS.md",
+    "UNIVERSITY/CITS3403/6. DOM.md",
+    "UNIVERSITY/CITS3403/4. Bootstrap.md",
+    "UNIVERSITY/CITS3403/2. HTML.md",
+    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
     "-OTHER-/FresherCampaign/Session 2. DnD.md",
     "-OTHER-/FresherCampaign/Session 1. DnD.md",
     "-OTHER-/FresherCampaign/Player Notes & Characters.md",
@@ -166,12 +190,10 @@
     "Pasted image 20240411152959.png",
     "-OTHER-/Images/Pasted image 20240411152536.png",
     "-OTHER-/Images/u4by2uzxs2b81.webp",
-    "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
     "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
     "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
     "conflict-files-obsidian-git.md",
-    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
     "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
     "UNIVERSITY/CITS3002/5. Network Layer.md",
     "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
@@ -181,13 +203,6 @@
     "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
     "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
     "UNIVERSITY/CITS2401/5. Functions.md",
-    "UNIVERSITY/CITS2401/4. Conditions.md",
-    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
-    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
-    "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
-    "UNIVERSITY/CITS3403/6. DOM.md",
-    "UNIVERSITY/CITS3403/5. JavaScript.md",
     "-OTHER-/Images/Pasted image 20240406115501.png",
     "-OTHER-/FresherCampaign",
     "-OTHER-/Images/Pasted image 20240323111727.png",
