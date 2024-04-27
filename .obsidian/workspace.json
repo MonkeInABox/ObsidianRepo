@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "151e6a9e31392040",
+            "id": "ab07ef28620e4ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 3. DnD.md",
+                "file": "UNIVERSITY/CITS3002/6. TCP IP Protocol Suite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7820c053ae4b51d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Transport Layer Protocols and APIs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "978d3209dba97826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS2401/8. Objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 3. DnD.md",
+                "file": "UNIVERSITY/CITS2401/8. Objects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 3. DnD.md",
+                "file": "UNIVERSITY/CITS2401/8. Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-OTHER-/FresherCampaign/Session 3. DnD.md"
+                "file": "UNIVERSITY/CITS2401/8. Objects.md"
               }
             }
           },
@@ -157,44 +182,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "151e6a9e31392040",
+  "active": "978d3209dba97826",
   "lastOpenFiles": [
-    "-OTHER-/FresherCampaign/Session 2. DnD.md",
-    "-OTHER-/FresherCampaign/Session 3. DnD.md",
-    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
-    "-OTHER-/FresherCampaign/Session 1. DnD.md",
-    "UNIVERSITY/GENG2004/7. Inertia.md",
     "UNIVERSITY/GENG2004/6. Torsion.md",
+    "UNIVERSITY/CITS3403/11. Databases.md",
+    "7. Transport Layer Protocols and APIs.md",
+    "UNIVERSITY/CITS3002/6. TCP IP Protocol Suite.md",
+    "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
+    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
+    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/GENG2004/5. Thermal Effects.md",
+    "UNIVERSITY/GENG2004/7. Inertia.md",
+    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
+    "UNIVERSITY/CITS3002/1. Introduction.md",
+    "UNIVERSITY/CITS3002/5. Network Layer.md",
+    "UNIVERSITY/CITS3403/10. Flask and Client-Side Rendering.md",
     "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
+    "UNIVERSITY/CITS2401/9. NumPy.md",
+    "UNIVERSITY/CITS2401/8. Objects.md",
+    "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
+    "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
+    "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
+    "UNIVERSITY/CITS2401/5. Functions.md",
+    "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
+    "UNIVERSITY/CITS2401/4. Conditions.md",
+    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+    "-OTHER-/FresherCampaign/Session 3. DnD.md",
     "-OTHER-/Images/Pasted image 20240417195024.png",
     "-OTHER-/Images/Pasted image 20240417194822.png",
     "-OTHER-/Images/Pasted image 20240417194659.png",
     "-OTHER-/Images/Pasted image 20240417194546.png",
     "-OTHER-/Images/Pasted image 20240417194320.png",
-    "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
-    "UNIVERSITY/GENG2004/5. Thermal Effects.md",
-    "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
-    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
     "-OTHER-/Images/Pasted image 20240416105814.png",
-    "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
-    "UNIVERSITY/CITS3403/5. JavaScript.md",
-    "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
-    "UNIVERSITY/CITS3403/3. CSS.md",
-    "UNIVERSITY/CITS3403/6. DOM.md",
-    "UNIVERSITY/CITS3403/4. Bootstrap.md",
-    "UNIVERSITY/CITS3403/2. HTML.md",
     "-OTHER-/Images/mistlight.png",
     "-OTHER-/Images/Pasted image 20240411152959.png",
     "-OTHER-/Images/Pasted image 20240411152536.png",
     "-OTHER-/Images/u4by2uzxs2b81.webp",
-    "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
-    "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
-    "conflict-files-obsidian-git.md",
-    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
-    "UNIVERSITY/CITS3002/5. Network Layer.md",
-    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
-    "UNIVERSITY/CITS3002/3. The Data Link Layer.md",
     "-OTHER-/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "-OTHER-",
