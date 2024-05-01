@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS2401/8. Objects.md",
+                "file": "UNIVERSITY/CITS2401/9. NumPy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a881a8cec85499c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS2401/10. SymPy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS2401/8. Objects.md",
+                "file": "UNIVERSITY/CITS2401/10. SymPy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS2401/8. Objects.md",
+                "file": "UNIVERSITY/CITS2401/10. SymPy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS2401/8. Objects.md"
+                "file": "UNIVERSITY/CITS2401/10. SymPy.md"
               }
             }
           },
@@ -182,10 +195,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "978d3209dba97826",
+  "active": "a881a8cec85499c4",
   "lastOpenFiles": [
-    "UNIVERSITY/GENG2004/6. Torsion.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
+    "UNIVERSITY/CITS2401/10. SymPy.md",
+    "UNIVERSITY/CITS2401/9. NumPy.md",
     "UNIVERSITY/CITS3403/11. Databases.md",
+    "UNIVERSITY/CITS2401/8. Objects.md",
+    "UNIVERSITY/GENG2004/6. Torsion.md",
     "7. Transport Layer Protocols and APIs.md",
     "UNIVERSITY/CITS3002/6. TCP IP Protocol Suite.md",
     "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
@@ -199,17 +216,13 @@
     "UNIVERSITY/CITS3002/5. Network Layer.md",
     "UNIVERSITY/CITS3403/10. Flask and Client-Side Rendering.md",
     "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
-    "UNIVERSITY/CITS2401/9. NumPy.md",
-    "UNIVERSITY/CITS2401/8. Objects.md",
     "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
     "UNIVERSITY/CITS2401/5. Functions.md",
     "UNIVERSITY/CITS3403/7.5 Mid-Sem Test Notes.md",
     "UNIVERSITY/CITS2401/4. Conditions.md",
     "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
-    "-OTHER-/FresherCampaign/Session 3. DnD.md",
     "-OTHER-/Images/Pasted image 20240417195024.png",
     "-OTHER-/Images/Pasted image 20240417194822.png",
     "-OTHER-/Images/Pasted image 20240417194659.png",
