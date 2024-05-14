@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS2401/11. Visualisation.md",
+                "file": "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS2401/11. Visualisation.md",
+                "file": "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS2401/11. Visualisation.md",
+                "file": "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS2401/11. Visualisation.md"
+                "file": "UNIVERSITY/CITS2401/12.  Advanced NumPy.md"
               }
             }
           },
@@ -160,24 +160,30 @@
   },
   "active": "a881a8cec85499c4",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS2401/10. SymPy.md",
     "UNIVERSITY/CITS2401/11. Visualisation.md",
-    "UNIVERSITY/CITS2401/9. NumPy.md",
+    "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
+    "UNIVERSITY/GENG2004/8. Pure Bending.md",
+    "OTHER/Elantri.md",
+    "UNIVERSITY/CITS3403/13. Testing.md",
     "UNIVERSITY/CITS3403/12. Security.md",
-    "-OTHER-/FresherCampaign/Player Notes & Characters.md",
+    "OTHER/FresherCampaign/Session 4. DnD.md",
+    "OTHER/FresherCampaign/Player Notes & Characters.md",
+    "OTHER/FresherCampaign/Session 1. DnD.md",
+    "OTHER/FresherCampaign/Session 2. DnD.md",
+    "OTHER/FresherCampaign/Session 3. DnD.md",
     "UNIVERSITY/GENG2004/6. Torsion.md",
-    "UNIVERSITY/GENG2004/5. Thermal Effects.md",
     "UNIVERSITY/GENG2004/7. Inertia.md",
-    "-OTHER-/Images/Pasted image 20240501145611.png",
-    "-OTHER-/Images/562itwzizhd31 1.webp",
-    "-OTHER-/Images/562itwzizhd31.webp",
-    "-OTHER-/FresherCampaign/Session 4. DnD.md",
-    "-OTHER-/Images/images.jpg",
-    "-OTHER-/Images/Pasted image 20240501145226.png",
-    "-OTHER-/Images/Pasted image 20240501144958.png",
-    "-OTHER-/FresherCampaign/Session 3. DnD.md",
-    "UNIVERSITY/CITS3002/7. Transport Layer Protocols and APIs.md",
     "UNIVERSITY/CITS3002/8. Client-Server Design.md",
+    "UNIVERSITY/CITS2401/10. SymPy.md",
+    "UNIVERSITY/CITS2401/9. NumPy.md",
+    "UNIVERSITY/GENG2004/5. Thermal Effects.md",
+    "OTHER/Images/Pasted image 20240501145611.png",
+    "OTHER/Images/562itwzizhd31 1.webp",
+    "OTHER/Images/562itwzizhd31.webp",
+    "OTHER/Images/images.jpg",
+    "OTHER/Images/Pasted image 20240501145226.png",
+    "OTHER/Images/Pasted image 20240501144958.png",
+    "UNIVERSITY/CITS3002/7. Transport Layer Protocols and APIs.md",
     "UNIVERSITY/CITS3002/6. TCP IP Protocol Suite.md",
     "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS3403/11. Databases.md",
@@ -186,26 +192,20 @@
     "UNIVERSITY/GENG2004/4. Axially Loaded Members.md",
     "UNIVERSITY/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/GENG2004/2. Stress & Strain in 3D.md",
-    "UNIVERSITY/CITS3002/5.5 Mid-Sem Test Notes.md",
-    "UNIVERSITY/CITS3002/2. The Physical Layer, Error Detection and Correction.md",
-    "UNIVERSITY/CITS3002/1. Introduction.md",
-    "UNIVERSITY/CITS3002/5. Network Layer.md",
-    "UNIVERSITY/CITS3403/10. Flask and Client-Side Rendering.md",
-    "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
-    "-OTHER-/Images/Pasted image 20240417195024.png",
-    "-OTHER-/Images/Pasted image 20240417194822.png",
-    "-OTHER-/Images/Pasted image 20240417194659.png",
-    "-OTHER-/Images/Pasted image 20240417194546.png",
-    "-OTHER-/FresherCampaign",
+    "OTHER/Images/Pasted image 20240417195024.png",
+    "OTHER/Images/Pasted image 20240417194822.png",
+    "OTHER/Images/Pasted image 20240417194659.png",
+    "OTHER/Images/Pasted image 20240417194546.png",
+    "OTHER/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
-    "-OTHER-",
+    "OTHER",
     "UNIVERSITY",
     "UNIVERSITY/GENG2004",
     "UNIVERSITY/CITS3403",
     "UNIVERSITY/CITS3002",
     "CITS2401/Untitled",
     "UNIVERSITY/CITS2401",
-    "-OTHER-/Misc. RPG",
+    "OTHER/Misc. RPG",
     "Untitled.canvas"
   ]
 }

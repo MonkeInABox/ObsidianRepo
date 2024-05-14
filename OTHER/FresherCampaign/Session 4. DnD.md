@@ -16,8 +16,17 @@ Walking out there is a hall that leads to a lot of chattering
 Otherwise a staircase upwards, getting significantly more fancy
 ![[Pasted image 20240501145611.png]]
 There is a shadow demon on the landing
+**INITIATIVE**:
+Mellow
+Balthazar
+Iris
+!
+Shadow Demon ** **13 AC** 
+
+
 
 There is a room at the top with the leader, who explains how the king was part of a group that was attempting to bring back the Lich in order to gain supreme power over the lands.
 However, their murder was too late as the summoning ritual is still in process by the other leaders of the country
+**JEFFREY THE HALFLING**
 ![[562itwzizhd31 1.webp]]
 (ALTERED)
