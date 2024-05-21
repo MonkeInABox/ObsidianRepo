@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39106406d9cde82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3403/13. Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6bb742a5cbe7c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3403/14. RESTful APIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a341d78a51ceb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3403/15. Deployment.md",
+                "file": "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3403/15. Deployment.md",
+                "file": "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3403/15. Deployment.md",
+                "file": "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3403/15. Deployment.md"
+                "file": "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md"
               }
             }
           },
@@ -164,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,54 +157,54 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0a341d78a51ceb8b",
+  "active": "e6bb742a5cbe7c1d",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3403/14. RESTful APIs.md",
-    "UNIVERSITY/CITS3403/15. Deployment.md",
-    "UNIVERSITY/CITS3403/13. Testing.md",
-    "UNIVERSITY/CITS3002/9. Architecture Independent Applications.md",
+    "OTHER/FresherCampaign/Spire/The Azurites.md",
+    "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
+    "OTHER/FresherCampaign/Spire/Copperbend Station.md",
+    "OTHER/FresherCampaign/Spire/Overview.md",
+    "OTHER/FresherCampaign/Spire/The Morticians.md",
+    "UNIVERSITY/CITS3002/11. Cryptography's Role in Networking.md",
     "UNIVERSITY/CITS3002/10. Security of TCP-IP.md",
-    "UNIVERSITY/GENG2004/Exam formulae sheet 19Sept.pdf",
-    "UNIVERSITY/CITS3002/8. Client-Server Design.md",
-    "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
-    "UNIVERSITY/GENG2004/8. Pure Bending.md",
-    "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
-    "UNIVERSITY/CITS2401/11. Visualisation.md",
-    "OTHER/Elantri.md",
+    "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
+    "UNIVERSITY/CITS3403/15. Deployment.md",
+    "UNIVERSITY/CITS3403/14. RESTful APIs.md",
+    "UNIVERSITY/CITS3403/13. Testing.md",
     "UNIVERSITY/CITS3403/12. Security.md",
-    "OTHER/FresherCampaign/Session 4. DnD.md",
-    "OTHER/FresherCampaign/Player Notes & Characters.md",
-    "OTHER/FresherCampaign/Session 1. DnD.md",
-    "OTHER/FresherCampaign/Session 2. DnD.md",
-    "OTHER/FresherCampaign/Session 3. DnD.md",
-    "UNIVERSITY/GENG2004/6. Torsion.md",
+    "UNIVERSITY/CITS3403/11. Databases.md",
+    "UNIVERSITY/CITS3403/10. Flask and Client-Side Rendering.md",
+    "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
+    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
+    "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
+    "UNIVERSITY/CITS3403/6. DOM.md",
+    "UNIVERSITY/CITS3403/5. JavaScript.md",
+    "UNIVERSITY/CITS3403/4. Bootstrap.md",
+    "UNIVERSITY/CITS3403/3. CSS.md",
+    "UNIVERSITY/CITS3403/2. HTML.md",
+    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
+    "UNIVERSITY/GENG2004/Case Studies.md",
+    "OTHER/Images/Pasted image 20240521132419.png",
+    "OTHER/Images/th-2203215192.jpg",
+    "UNIVERSITY/GENG2004/1. Introduction.md",
     "UNIVERSITY/GENG2004/7. Inertia.md",
-    "UNIVERSITY/CITS2401/10. SymPy.md",
-    "UNIVERSITY/CITS2401/9. NumPy.md",
-    "UNIVERSITY/GENG2004/5. Thermal Effects.md",
+    "UNIVERSITY/GENG2004/Exam formulae sheet 19Sept.pdf",
+    "OTHER/FresherCampaign/Spire",
+    "OTHER/FresherCampaign/DnD",
+    "Untitled",
     "OTHER/Images/Pasted image 20240501145611.png",
     "OTHER/Images/562itwzizhd31 1.webp",
     "OTHER/Images/562itwzizhd31.webp",
     "OTHER/Images/images.jpg",
     "OTHER/Images/Pasted image 20240501145226.png",
     "OTHER/Images/Pasted image 20240501144958.png",
-    "UNIVERSITY/CITS3002/7. Transport Layer Protocols and APIs.md",
-    "UNIVERSITY/CITS3002/6. TCP IP Protocol Suite.md",
-    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
-    "UNIVERSITY/CITS3403/11. Databases.md",
     "OTHER/Images/Pasted image 20240417195024.png",
     "OTHER/Images/Pasted image 20240417194822.png",
-    "OTHER/Images/Pasted image 20240417194659.png",
-    "OTHER/Images/Pasted image 20240417194546.png",
     "OTHER/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "OTHER",
     "UNIVERSITY",
     "UNIVERSITY/GENG2004",
     "UNIVERSITY/CITS3403",
-    "UNIVERSITY/CITS3002",
-    "CITS2401/Untitled",
-    "UNIVERSITY/CITS2401",
     "Untitled.canvas"
   ]
 }

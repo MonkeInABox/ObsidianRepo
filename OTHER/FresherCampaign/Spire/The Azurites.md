@@ -1,0 +1,6 @@
+The Azurites have devoted their lives to buying and selling. Clad in their trademark blue robes (and adorned with blue scarves, hats, buckles, flowers and jewellery) they make a habit of buying low and selling high, maintaining an awareness of the markets, and knowing precisely who to sell what to. Given their exposure to a wide variety of other cultures, they all possess a brief understanding of many local languages and dialects – and often have no problem picking up new information or adapting what they know to fit.
+
+#### Leonidas Vermillion
+A middle aged Aelfir who heads the [[Copperbend Station]] sect of the Azurites. 
+**Description:** A middle-aged aelfir with long blonde hair, he's tall and thin and is always seen in the Azurite blue robes, he also wears a wide brimmed navy hat that covers most of his sharp-featured face in shadow.
+Whilst posting as merely the manager of this section of the guild, there is clearly some connection that he has with the rest of the underworld, giving them better deals and information. 
