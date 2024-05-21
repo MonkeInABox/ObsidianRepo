@@ -7,7 +7,7 @@
 	  wanted communications, program sharing, remote computer access
 - NSFnet - 1986:
 	National Science Foundation
-	Initially connected 5 supercomputer centers, spreading to other academic institutes and labs
+	Initially connected 5 supercomputer centres, spreading to other academic institutes and labs
 	Became the network for all by early 90s, the internet
 - The Internet:
 	If computers are close together; local area network (LAN), wide area (WAN)
