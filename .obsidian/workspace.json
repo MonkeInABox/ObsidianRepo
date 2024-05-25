@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
+                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
+                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
+                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OTHER/FresherCampaign/Spire/Crimson Vigil.md"
+                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md"
               }
             }
           },
@@ -159,12 +159,16 @@
   },
   "active": "e6bb742a5cbe7c1d",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
+    "UNIVERSITY/CITS2401/10. SymPy.md",
+    "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
+    "UNIVERSITY/CITS2401/11. Visualisation.md",
+    "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
+    "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
     "OTHER/FresherCampaign/Spire/Overview.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/CITS1003 Cybersecurity.md",
     "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Vulnerabilities Wk 5.md",
-    "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
     "OTHER/FresherCampaign/Spire/The Azurites.md",
-    "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
     "OTHER/FresherCampaign/Spire/Copperbend Station.md",
     "OTHER/FresherCampaign/Spire/The Morticians.md",
     "UNIVERSITY/CITS3002/11. Cryptography's Role in Networking.md",
@@ -181,10 +185,6 @@
     "UNIVERSITY/CITS3403/6. DOM.md",
     "UNIVERSITY/CITS3403/5. JavaScript.md",
     "UNIVERSITY/CITS3403/4. Bootstrap.md",
-    "UNIVERSITY/CITS3403/3. CSS.md",
-    "UNIVERSITY/CITS3403/2. HTML.md",
-    "UNIVERSITY/CITS3403/1. Intro & Outline.md",
-    "UNIVERSITY/GENG2004/Case Studies.md",
     "OTHER/Images/Pasted image 20240521132419.png",
     "OTHER/Images/th-2203215192.jpg",
     "UNIVERSITY/GENG2004/Exam formulae sheet 19Sept.pdf",
