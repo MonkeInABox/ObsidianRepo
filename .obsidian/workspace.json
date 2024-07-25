@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4454086640779ffd",
+        "id": "baceff7078279523",
         "type": "tabs",
         "children": [
           {
-            "id": "e6bb742a5cbe7c1d",
+            "id": "3bfbd394013c5278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
+                "file": "UNIVERSITY/MECH2004/1. Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
+                "file": "UNIVERSITY/MECH2004/1. Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md",
+                "file": "UNIVERSITY/MECH2004/1. Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG2004/9. Deflection of Beams.md"
+                "file": "UNIVERSITY/MECH2004/1. Definitions.md"
               }
             }
           },
@@ -150,47 +150,49 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": true,
       "publish:Publish changes...": false
     }
   },
-  "active": "e6bb742a5cbe7c1d",
+  "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3403/Agile Web Dev - A Complete Guide.md",
-    "UNIVERSITY/CITS2401/10. SymPy.md",
+    "UNIVERSITY/CITS3001/2. Sorting.md",
+    "UNIVERSITY/MECH2004/1. Definitions.md",
+    "UNIVERSITY/MECH2004",
+    "UNIVERSITY/Untitled.md",
+    "OTHER/Images/Pasted image 20240723142322.png",
+    "UNIVERSITY/CITS3001/1. Introduction.md",
+    "UNIVERSITY/CITS3001",
     "UNIVERSITY/CITS2401/12.  Advanced NumPy.md",
+    "UNIVERSITY/CITS2401/Python Notes.md",
     "UNIVERSITY/CITS2401/11. Visualisation.md",
+    "UNIVERSITY/CITS2401/10. SymPy.md",
+    "UNIVERSITY/CITS2401/9. NumPy.md",
+    "UNIVERSITY/CITS2401/8. Objects.md",
+    "UNIVERSITY/CITS2401/7. Sets and Dictionaries.md",
+    "UNIVERSITY/CITS2401/6. Files & Exceptions.md",
+    "UNIVERSITY/CITS2401/5. Functions.md",
+    "UNIVERSITY/CITS2401/4. Conditions.md",
+    "UNIVERSITY/CITS2401/3. Loops & Nesting.md",
+    "UNIVERSITY/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/CITS2401/1. Python Basics, Functions & Style.md",
-    "OTHER/FresherCampaign/Spire/Crimson Vigil.md",
-    "OTHER/FresherCampaign/Spire/Overview.md",
-    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/CITS1003 Cybersecurity.md",
-    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/Vulnerabilities Wk 5.md",
-    "OTHER/FresherCampaign/Spire/The Azurites.md",
-    "OTHER/FresherCampaign/Spire/Copperbend Station.md",
-    "OTHER/FresherCampaign/Spire/The Morticians.md",
+    "UNIVERSITY/CITS3002/Computer Networks Notes.md",
     "UNIVERSITY/CITS3002/11. Cryptography's Role in Networking.md",
     "UNIVERSITY/CITS3002/10. Security of TCP-IP.md",
-    "UNIVERSITY/CITS3403/15. Deployment.md",
-    "UNIVERSITY/CITS3403/14. RESTful APIs.md",
-    "UNIVERSITY/CITS3403/13. Testing.md",
-    "UNIVERSITY/CITS3403/12. Security.md",
-    "UNIVERSITY/CITS3403/11. Databases.md",
-    "UNIVERSITY/CITS3403/10. Flask and Client-Side Rendering.md",
-    "UNIVERSITY/CITS3403/9. Flask and Server-Side Rendering.md",
-    "UNIVERSITY/CITS3403/8. HTTP and AJAX.md",
-    "UNIVERSITY/CITS3403/7. Client-Side JavaScript & jQuery.md",
-    "UNIVERSITY/CITS3403/6. DOM.md",
-    "UNIVERSITY/CITS3403/5. JavaScript.md",
-    "UNIVERSITY/CITS3403/4. Bootstrap.md",
+    "UNIVERSITY/CITS3002/9. Architecture Independent Applications.md",
+    "UNIVERSITY/CITS3002/8. Client-Server Design.md",
+    "UNIVERSITY/CITS3002/7. Transport Layer Protocols and APIs.md",
+    "UNIVERSITY/CITS3002/6. TCP IP Protocol Suite.md",
+    "UNIVERSITY/CITS3002/5. Network Layer.md",
+    "UNIVERSITY/CITS3002/4. Local Area Networks (LANs and WLANs).md",
     "OTHER/Images/Pasted image 20240521132419.png",
     "OTHER/Images/th-2203215192.jpg",
     "UNIVERSITY/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
-    "Untitled",
     "OTHER/Images/Pasted image 20240501145611.png",
     "OTHER/Images/562itwzizhd31 1.webp",
     "OTHER/Images/562itwzizhd31.webp",
@@ -198,13 +200,11 @@
     "OTHER/Images/Pasted image 20240501145226.png",
     "OTHER/Images/Pasted image 20240501144958.png",
     "OTHER/Images/Pasted image 20240417195024.png",
-    "OTHER/Images/Pasted image 20240417194822.png",
     "OTHER/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "OTHER",
     "UNIVERSITY",
     "UNIVERSITY/GENG2004",
-    "UNIVERSITY/CITS3403",
     "Untitled.canvas"
   ]
 }

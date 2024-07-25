@@ -352,7 +352,7 @@ toString(1234); //returns string of the number
 
 ## Booleans:
 - JavaScript is much the same as other languages, return values of `true` and `false`
-- `!`, `&&` and `||` can all be used
+	- `!`, `&&` and `||` can all be used
 - These are also equal to `1` and `0` respectively
 
 ## Loops:
@@ -467,8 +467,7 @@ findMax(4,5,6);
 ## Accessing Elements
 `x.getElementsByTagName("p")
 - will return `<p>` elements inside the node represented by the element object x
-- also:
-``getElementById("imageOne")``
+- also: `getElementById("imageOne")`
 
 ## DOM Modification
 ```js
@@ -873,7 +872,7 @@ class Student(db.model):
 
 #### Hashing
 - Secure data storage is based on Cryptographic Hashing
-	- A cryptographic hash function is a function hash that takes a string or arbitrary length and returns a fixed length integer such that:
+	- A cryptographic hash function is a function hash that takes a string or arbitrary length and returns a fixed length integer
 	- Essentially it computes a number from a stream of data, in such a way that it's very difficult to fabricate data with a certain hash
 	- Related to hashing for hash tables, but the hash function must satisfy the much stronger properties above to be cryptographically secure
 
@@ -912,7 +911,7 @@ class Student(db.model):
 - In theory SSL can be used to encrypt any data between two end points
 - In practice, the most common type of traffic is simply HTTP requests. Using HTTP over SSL is known as HTTPS
 
-#### Cross-Site Request Forgery (CRSF) Attack
+#### Cross-Site Request Forgery (CSRF) Attack
 - A signed cookie from their server in your browser:
 	- Cookies are transferred automatically when making the request to the domain they are associated with, and therefore the signed cookie is sent to the server
 	- The server checks the cookie, which passes as it is real, and therefore thinks the request is from the user and the transfer goes through
