@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md",
+                "file": "UNIVERSITY/CITS3001/2. Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md",
+                "file": "UNIVERSITY/CITS3001/2. Sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md",
+                "file": "UNIVERSITY/CITS3001/2. Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md"
+                "file": "UNIVERSITY/CITS3001/2. Sorting.md"
               }
             }
           },
@@ -159,10 +159,12 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/ELEC3020/2. Number Representations.md",
-    "UNIVERSITY/ELEC3020/3. Com Seq.md",
-    "OTHER/Images/Pasted image 20240725114653.png",
+    "UNIVERSITY/GENG3402/2. Mathematical Models of Systems.md",
     "UNIVERSITY/MECH2004/1. Definitions.md",
+    "UNIVERSITY/GENG3402",
+    "UNIVERSITY/ELEC3020/3. Com Seq.md",
+    "UNIVERSITY/ELEC3020/2. Number Representations.md",
+    "OTHER/Images/Pasted image 20240725114653.png",
     "UNIVERSITY/ELEC3020",
     "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/MECH2004",
@@ -189,7 +191,6 @@
     "UNIVERSITY/PastNotes/CITS3002/9. Architecture Independent Applications.md",
     "UNIVERSITY/PastNotes/CITS3002/8. Client-Server Design.md",
     "UNIVERSITY/PastNotes/CITS3002/7. Transport Layer Protocols and APIs.md",
-    "UNIVERSITY/PastNotes/CITS3002/6. TCP IP Protocol Suite.md",
     "OTHER/Images/Pasted image 20240521132419.png",
     "OTHER/Images/th-2203215192.jpg",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
@@ -204,7 +205,6 @@
     "OTHER/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "OTHER",
-    "UNIVERSITY",
     "Untitled.canvas"
   ]
 }
