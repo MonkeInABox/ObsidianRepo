@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md",
+                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md",
+                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md",
+                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md"
+                "file": "UNIVERSITY/ELEC3020/3. Com Seq.md"
               }
             }
           },
@@ -158,11 +157,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "76affa6f8098c2bb",
+  "active": "3bfbd394013c5278",
   "lastOpenFiles": [
+    "UNIVERSITY/ELEC3020/2. Number Representations.md",
+    "UNIVERSITY/ELEC3020/3. Com Seq.md",
     "OTHER/Images/Pasted image 20240725114653.png",
     "UNIVERSITY/MECH2004/1. Definitions.md",
-    "UNIVERSITY/ELEC3020/2. Number Representations.md",
     "UNIVERSITY/ELEC3020",
     "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/MECH2004",
@@ -201,7 +201,6 @@
     "OTHER/Images/images.jpg",
     "OTHER/Images/Pasted image 20240501145226.png",
     "OTHER/Images/Pasted image 20240501144958.png",
-    "OTHER/Images/Pasted image 20240417195024.png",
     "OTHER/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "OTHER",
