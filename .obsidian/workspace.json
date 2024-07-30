@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/3. Quicksort.md",
+                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/3. Quicksort.md",
+                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/3. Quicksort.md",
+                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3001/3. Quicksort.md"
+                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/CITS3001/3. Quicksort.md",
+    "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
+    "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/GENG3402/2. Mathematical Models of Systems.md",
     "UNIVERSITY/MECH2004/1. Definitions.md",
     "UNIVERSITY/GENG3402",
@@ -190,7 +191,6 @@
     "UNIVERSITY/PastNotes/CITS3002/11. Cryptography's Role in Networking.md",
     "UNIVERSITY/PastNotes/CITS3002/10. Security of TCP-IP.md",
     "UNIVERSITY/PastNotes/CITS3002/9. Architecture Independent Applications.md",
-    "UNIVERSITY/PastNotes/CITS3002/8. Client-Server Design.md",
     "OTHER/Images/Pasted image 20240521132419.png",
     "OTHER/Images/th-2203215192.jpg",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
