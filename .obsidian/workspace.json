@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
+                "file": "UNIVERSITY/ELEC3020/4. Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
+                "file": "UNIVERSITY/ELEC3020/4. Memory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
+                "file": "UNIVERSITY/ELEC3020/4. Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/MECH2004/2. Kinetics of Particles.md"
+                "file": "UNIVERSITY/ELEC3020/4. Memory.md"
               }
             }
           },
@@ -160,7 +160,9 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
+    "Pasted image 20240801132555.png",
     "UNIVERSITY/MECH2004/1. Definitions.md",
+    "UNIVERSITY/ELEC3020/4. Memory.md",
     "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
     "UNIVERSITY/CITS3001/4. Linear Sorting.md",
     "UNIVERSITY/CITS3001/3. Quicksort.md",
@@ -190,8 +192,6 @@
     "UNIVERSITY/PastNotes/CITS2401/2. Strings & Lists.md",
     "UNIVERSITY/PastNotes/CITS2401/1. Python Basics, Functions & Style.md",
     "UNIVERSITY/PastNotes/CITS3002/Computer Networks Notes.md",
-    "UNIVERSITY/PastNotes/CITS3002/11. Cryptography's Role in Networking.md",
-    "UNIVERSITY/PastNotes/CITS3002/10. Security of TCP-IP.md",
     "OTHER/Images/Pasted image 20240521132419.png",
     "OTHER/Images/th-2203215192.jpg",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
