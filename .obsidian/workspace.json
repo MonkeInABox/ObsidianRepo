@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/5. Order Statistics.md",
+                "file": "UNIVERSITY/MECH2004/3. Kinetics of Systems of Particles.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/5. Order Statistics.md",
+                "file": "UNIVERSITY/MECH2004/3. Kinetics of Systems of Particles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/5. Order Statistics.md",
+                "file": "UNIVERSITY/MECH2004/3. Kinetics of Systems of Particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3001/5. Order Statistics.md"
+                "file": "UNIVERSITY/MECH2004/3. Kinetics of Systems of Particles.md"
               }
             }
           },
@@ -159,8 +160,15 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/ELEC3020/5. CPU Design.md",
+    "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
+    "UNIVERSITY/MECH2004/3. Kinetics of Systems of Particles.md",
+    "OTHER/Images/Pasted image 20240806151825.png",
+    "OTHER/Images/Pasted image 20240806151531.png",
+    "UNIVERSITY/CITS3001/6. Graphs.md",
+    "OTHER/Images/Pasted image 20240806151800.png",
     "UNIVERSITY/CITS3001/5. Order Statistics.md",
+    "UNIVERSITY/CITS3001/4. Linear Sorting.md",
+    "UNIVERSITY/ELEC3020/5. CPU Design.md",
     "UNIVERSITY/GENG3402/3. Laplace Transforms.md",
     "UNIVERSITY/ELEC3020/2. Number Representations.md",
     "OTHER/Images/Pasted image 20240801132555.png",
@@ -170,8 +178,6 @@
     "OTHER/Images/Pasted image 20240801134539.png",
     "OTHER/Images/Pasted image 20240801134200.png",
     "UNIVERSITY/MECH2004/1. Definitions.md",
-    "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
-    "UNIVERSITY/CITS3001/4. Linear Sorting.md",
     "UNIVERSITY/CITS3001/3. Quicksort.md",
     "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/GENG3402/2. Mathematical Models of Systems.md",
@@ -193,15 +199,9 @@
     "UNIVERSITY/PastNotes/CITS2401/7. Sets and Dictionaries.md",
     "UNIVERSITY/PastNotes/CITS2401/6. Files & Exceptions.md",
     "UNIVERSITY/PastNotes/CITS2401/5. Functions.md",
-    "UNIVERSITY/PastNotes/CITS2401/4. Conditions.md",
-    "UNIVERSITY/PastNotes/CITS2401/3. Loops & Nesting.md",
-    "UNIVERSITY/PastNotes/CITS2401/2. Strings & Lists.md",
-    "OTHER/Images/Pasted image 20240521132419.png",
-    "OTHER/Images/th-2203215192.jpg",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
-    "OTHER/Images/Pasted image 20240501145611.png",
     "OTHER/FresherCampaign",
     "starfinder d525d576429a402294ef03e9f7cc4bd5",
     "OTHER",
