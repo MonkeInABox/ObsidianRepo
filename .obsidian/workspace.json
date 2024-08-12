@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/5. CPU Design.md",
+                "file": "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/5. CPU Design.md",
+                "file": "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/5. CPU Design.md",
+                "file": "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/5. CPU Design.md"
+                "file": "UNIVERSITY/CITS3001/7. Strongly Connected Components.md"
               }
             }
           },
@@ -160,26 +160,27 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "Pasted image 20240808114928.png",
-    "Pasted image 20240808114640.png",
-    "Pasted image 20240808114622.png",
-    "Pasted image 20240808110953.png",
-    "Pasted image 20240808103101.png",
+    "Pasted image 20240812162256.png",
+    "UNIVERSITY/CITS3001/6. Graphs.md",
+    "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
+    "OTHER/Images/Pasted image 20240808103101.png",
+    "OTHER/Images/Pasted image 20240808114622.png",
+    "UNIVERSITY/ELEC3020/5. CPU Design.md",
+    "OTHER/Images/Pasted image 20240808114928.png",
+    "OTHER/Images/Pasted image 20240808114640.png",
+    "OTHER/Images/Pasted image 20240808110953.png",
     "UNIVERSITY/MECH2004/3. Kinetics of Systems of Particles.md",
     "UNIVERSITY/MECH2004/2. Kinetics of Particles.md",
     "OTHER/Images/Pasted image 20240806151825.png",
     "OTHER/Images/Pasted image 20240806151531.png",
-    "UNIVERSITY/CITS3001/6. Graphs.md",
     "OTHER/Images/Pasted image 20240806151800.png",
     "UNIVERSITY/CITS3001/5. Order Statistics.md",
     "UNIVERSITY/CITS3001/4. Linear Sorting.md",
-    "UNIVERSITY/ELEC3020/5. CPU Design.md",
     "UNIVERSITY/GENG3402/3. Laplace Transforms.md",
     "UNIVERSITY/ELEC3020/2. Number Representations.md",
     "OTHER/Images/Pasted image 20240801132555.png",
     "UNIVERSITY/ELEC3020/4. Memory.md",
     "OTHER/Images/Pasted image 20240801134926.png",
-    "OTHER/Images/Pasted image 20240801134601.png",
     "UNIVERSITY/MECH2004/1. Definitions.md",
     "UNIVERSITY/CITS3001/3. Quicksort.md",
     "UNIVERSITY/CITS3001/2. Sorting.md",
@@ -199,7 +200,6 @@
     "UNIVERSITY/PastNotes/CITS2401/8. Objects.md",
     "UNIVERSITY/PastNotes/CITS2401/7. Sets and Dictionaries.md",
     "UNIVERSITY/PastNotes/CITS2401/6. Files & Exceptions.md",
-    "UNIVERSITY/PastNotes/CITS2401/5. Functions.md",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
