@@ -15,6 +15,7 @@
               "state": {
                 "file": "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -69,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,9 +158,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3bfbd394013c5278",
+  "active": "76affa6f8098c2bb",
   "lastOpenFiles": [
-    "Pasted image 20240812162256.png",
+    "OTHER/Images/Pasted image 20240812162256.png",
     "UNIVERSITY/CITS3001/6. Graphs.md",
     "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
     "OTHER/Images/Pasted image 20240808103101.png",
