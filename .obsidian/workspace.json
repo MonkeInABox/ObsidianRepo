@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
+                "file": "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
+                "file": "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
+                "file": "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md"
+                "file": "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
+    "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
+    "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
     "OTHER/Images/Pasted image 20240812162256.png",
     "UNIVERSITY/CITS3001/6. Graphs.md",
     "OTHER/Images/Pasted image 20240808103101.png",
@@ -200,7 +201,6 @@
     "UNIVERSITY/PastNotes/CITS2401/9. NumPy.md",
     "UNIVERSITY/PastNotes/CITS2401/8. Objects.md",
     "UNIVERSITY/PastNotes/CITS2401/7. Sets and Dictionaries.md",
-    "UNIVERSITY/PastNotes/CITS2401/6. Files & Exceptions.md",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
