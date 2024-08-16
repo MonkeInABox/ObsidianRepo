@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
+                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
+                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
+                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/7. Embedded Processor.md"
+                "file": "UNIVERSITY/ELEC3020/6. Atmel Programming.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
+    "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
     "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
     "OTHER/Images/Pasted image 20240812162256.png",
