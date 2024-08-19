@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+                "file": "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+                "file": "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+                "file": "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/9. High Level Programming.md"
+                "file": "UNIVERSITY/CITS3001/9. Dynamic Programming.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
     "UNIVERSITY/ELEC3020/5. CPU Design.md",
@@ -200,7 +201,6 @@
     "UNIVERSITY/PastNotes/CITS2401/12.  Advanced NumPy.md",
     "UNIVERSITY/PastNotes/CITS2401/Python Notes.md",
     "UNIVERSITY/PastNotes/CITS2401/11. Visualisation.md",
-    "UNIVERSITY/PastNotes/CITS2401/10. SymPy.md",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
