@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -160,8 +161,9 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/CITS3001/10. DP Techniques.md",
     "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md",
+    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
     "UNIVERSITY/CITS3001/6. Graphs.md",
     "UNIVERSITY/CITS3001/5. Order Statistics.md",
     "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
@@ -199,7 +201,6 @@
     "UNIVERSITY/CITS3001/1. Introduction.md",
     "UNIVERSITY/CITS3001",
     "UNIVERSITY/PastNotes/CITS2401/12.  Advanced NumPy.md",
-    "UNIVERSITY/PastNotes/CITS2401/Python Notes.md",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
