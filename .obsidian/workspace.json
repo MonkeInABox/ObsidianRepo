@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md",
+                "file": "UNIVERSITY/ELEC3020/10. Actuators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md",
+                "file": "UNIVERSITY/ELEC3020/10. Actuators.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md",
+                "file": "UNIVERSITY/ELEC3020/10. Actuators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md"
+                "file": "UNIVERSITY/ELEC3020/10. Actuators.md"
               }
             }
           },
@@ -161,8 +161,13 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/10. DP Techniques.md",
+    "Pasted image 20240822115630.png",
+    "Pasted image 20240822115005.png",
+    "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+    "UNIVERSITY/ELEC3020/10. Actuators.md",
+    "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md",
+    "UNIVERSITY/CITS3001/10. DP Techniques.md",
     "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
     "UNIVERSITY/CITS3001/6. Graphs.md",
     "UNIVERSITY/CITS3001/5. Order Statistics.md",
@@ -171,8 +176,6 @@
     "UNIVERSITY/CITS3001/4. Linear Sorting.md",
     "UNIVERSITY/CITS3001/3. Quicksort.md",
     "UNIVERSITY/CITS3001/2. Sorting.md",
-    "UNIVERSITY/ELEC3020/9. High Level Programming.md",
-    "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
     "UNIVERSITY/ELEC3020/5. CPU Design.md",
@@ -191,16 +194,13 @@
     "OTHER/Images/Pasted image 20240806151531.png",
     "OTHER/Images/Pasted image 20240806151800.png",
     "UNIVERSITY/GENG3402/3. Laplace Transforms.md",
-    "OTHER/Images/Pasted image 20240801132555.png",
     "UNIVERSITY/MECH2004/1. Definitions.md",
     "UNIVERSITY/GENG3402/2. Mathematical Models of Systems.md",
     "UNIVERSITY/GENG3402",
     "UNIVERSITY/ELEC3020",
     "UNIVERSITY/MECH2004",
     "UNIVERSITY/Untitled.md",
-    "UNIVERSITY/CITS3001/1. Introduction.md",
     "UNIVERSITY/CITS3001",
-    "UNIVERSITY/PastNotes/CITS2401/12.  Advanced NumPy.md",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
     "OTHER/FresherCampaign/DnD",
