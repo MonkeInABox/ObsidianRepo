@@ -65,13 +65,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "07ff9f485a627d4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -156,10 +164,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": true,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "3bfbd394013c5278",
+  "active": "07ff9f485a627d4e",
   "lastOpenFiles": [
     "UNIVERSITY/CITS3001/10. DP Techniques.md",
     "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
