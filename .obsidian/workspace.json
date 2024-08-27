@@ -65,17 +65,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "07ff9f485a627d4e",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,14 +129,6 @@
                 "file": "UNIVERSITY/CITS3001/11. Greedy Algorithms.md"
               }
             }
-          },
-          {
-            "id": "e14ea8861c97857c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -163,16 +146,15 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": true,
-      "publish:Publish changes...": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "07ff9f485a627d4e",
+  "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/10. DP Techniques.md",
+    "OTHER/Elantri.md",
     "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
     "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/CITS3001/10. DP Techniques.md",
     "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
@@ -208,7 +190,6 @@
     "UNIVERSITY/GENG3402",
     "UNIVERSITY/ELEC3020",
     "UNIVERSITY/MECH2004",
-    "UNIVERSITY/Untitled.md",
     "UNIVERSITY/CITS3001",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",

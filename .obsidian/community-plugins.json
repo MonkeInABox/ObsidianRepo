@@ -1,10 +1,8 @@
 [
   "obsidian-git",
   "obsidian-minimal-settings",
-  "initiative-tracker",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-auto-link-title",
   "convert-url-to-iframe",
-  "obsidian-annotator",
-  "file-tree-alternative"
+  "obsidian-annotator"
 ]

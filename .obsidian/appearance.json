@@ -2,5 +2,6 @@
   "accentColor": "#1212ba",
   "baseFontSize": 17,
   "cssTheme": "W95",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showViewHeader": true
 }
