@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md",
+                "file": "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md",
+                "file": "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md",
+                "file": "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/ELEC3020/2. Number Representations.md"
+                "file": "UNIVERSITY/ELEC3020/8. Computer Architecture.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/ELEC3020/10. Actuators.md",
-    "UNIVERSITY/ELEC3020/9. High Level Programming.md",
-    "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
     "UNIVERSITY/ELEC3020/5. CPU Design.md",
-    "UNIVERSITY/ELEC3020/4. Memory.md",
     "UNIVERSITY/ELEC3020/3. Com Seq.md",
     "UNIVERSITY/ELEC3020/2. Number Representations.md",
+    "UNIVERSITY/ELEC3020/10. Actuators.md",
+    "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+    "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
+    "UNIVERSITY/ELEC3020/4. Memory.md",
     "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
     "OTHER/Elantri.md",
     "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
