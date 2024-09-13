@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/12. Huffman Codes.md",
+                "file": "UNIVERSITY/CITS3001/99. Labs Archive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/12. Huffman Codes.md",
+                "file": "UNIVERSITY/CITS3001/99. Labs Archive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/12. Huffman Codes.md",
+                "file": "UNIVERSITY/CITS3001/99. Labs Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3001/12. Huffman Codes.md"
+                "file": "UNIVERSITY/CITS3001/99. Labs Archive.md"
               }
             }
           }
@@ -152,13 +151,19 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
     "UNIVERSITY/CITS3001/12. Huffman Codes.md",
-    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
     "UNIVERSITY/CITS3001/10. DP Techniques.md",
-    "UNIVERSITY/CITS3001/99. Labs Archive.md",
+    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
+    "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
+    "UNIVERSITY/CITS3001/6. Graphs.md",
+    "UNIVERSITY/CITS3001/5. Order Statistics.md",
+    "UNIVERSITY/CITS3001/4. Linear Sorting.md",
+    "UNIVERSITY/CITS3001/3. Quicksort.md",
     "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/CITS3001/1. Introduction.md",
+    "UNIVERSITY/CITS3001/99. Labs Archive.md",
     "conflict-files-obsidian-git.md",
     "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
@@ -170,15 +175,9 @@
     "UNIVERSITY/ELEC3020/9. High Level Programming.md",
     "UNIVERSITY/ELEC3020/4. Memory.md",
     "OTHER/Elantri.md",
-    "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
     "UNIVERSITY/GENG3402/THINGS TO REMEMBER.md",
-    "UNIVERSITY/CITS3001/6. Graphs.md",
-    "UNIVERSITY/CITS3001/5. Order Statistics.md",
-    "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
-    "UNIVERSITY/CITS3001/4. Linear Sorting.md",
-    "UNIVERSITY/CITS3001/3. Quicksort.md",
     "OTHER/Images/Pasted image 20240812162256.png",
     "OTHER/Images/Pasted image 20240808103101.png",
     "OTHER/Images/Pasted image 20240808114622.png",
