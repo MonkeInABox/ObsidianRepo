@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
+                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
+                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
+                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md"
+                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
+    "Pasted image 20240930113627.png",
     "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
+    "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
+    "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
     "UNIVERSITY/ELEC3020/12. Control.md",
     "UNIVERSITY/ELEC3020/11. Sensors.md",
     "Pasted image 20240913114140.png",
@@ -177,8 +179,6 @@
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
     "UNIVERSITY/ELEC3020/5. CPU Design.md",
-    "UNIVERSITY/ELEC3020/3. Com Seq.md",
-    "UNIVERSITY/ELEC3020/2. Number Representations.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
     "OTHER/Images/Pasted image 20240812162256.png",
