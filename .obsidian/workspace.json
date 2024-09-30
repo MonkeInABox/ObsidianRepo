@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
+                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
+                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
+                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md"
+                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md"
               }
             }
           }
@@ -152,9 +152,12 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
+    "Pasted image 20240930160407.png",
+    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/CITS3001/16. Flow Networks.md",
+    "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
     "Pasted image 20240930113627.png",
     "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
-    "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
     "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
     "UNIVERSITY/ELEC3020/12. Control.md",
     "UNIVERSITY/ELEC3020/11. Sensors.md",
@@ -165,7 +168,6 @@
     "UNIVERSITY/CITS3001/12. Huffman Codes.md",
     "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
     "UNIVERSITY/CITS3001/10. DP Techniques.md",
-    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
     "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
     "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
     "UNIVERSITY/CITS3001/6. Graphs.md",
@@ -178,7 +180,6 @@
     "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
     "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
-    "UNIVERSITY/ELEC3020/5. CPU Design.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
     "OTHER/Images/Pasted image 20240812162256.png",
@@ -187,7 +188,6 @@
     "OTHER/Images/Pasted image 20240808114928.png",
     "OTHER/Images/Pasted image 20240808114640.png",
     "OTHER/Images/Pasted image 20240808110953.png",
-    "OTHER/Images/Pasted image 20240806151825.png",
     "UNIVERSITY/GENG3402",
     "UNIVERSITY/ELEC3020",
     "UNIVERSITY/MECH2004",
