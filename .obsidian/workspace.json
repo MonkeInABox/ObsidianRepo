@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md",
+                "file": "UNIVERSITY/ELEC3020/16. Multitasking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md",
+                "file": "UNIVERSITY/ELEC3020/16. Multitasking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md",
+                "file": "UNIVERSITY/ELEC3020/16. Multitasking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/CITS3001/16. Flow Networks.md"
+                "file": "UNIVERSITY/ELEC3020/16. Multitasking.md"
               }
             }
           }
@@ -151,17 +152,19 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
+    "UNIVERSITY/ELEC3020/15. Standard Interfaces.md",
+    "UNIVERSITY/ELEC3020/16. Multitasking.md",
+    "OTHER/Images/Pasted image 20240913114140.png",
+    "OTHER/Images/Pasted image 20240930113627.png",
     "UNIVERSITY/CITS3001/16. Flow Networks.md",
-    "Pasted image 20240930163727.png",
-    "Pasted image 20240930160407.png",
+    "OTHER/Images/Pasted image 20240930163727.png",
+    "OTHER/Images/Pasted image 20240930160407.png",
     "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
     "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
-    "Pasted image 20240930113627.png",
     "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
     "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
     "UNIVERSITY/ELEC3020/12. Control.md",
     "UNIVERSITY/ELEC3020/11. Sensors.md",
-    "Pasted image 20240913114140.png",
     "UNIVERSITY/ELEC3020/10. Actuators.md",
     "UNIVERSITY/ELEC3020/9. High Level Programming.md",
     "UNIVERSITY/CITS3001/99. Labs Archive.md",
@@ -179,7 +182,6 @@
     "conflict-files-obsidian-git.md",
     "UNIVERSITY/ELEC3020/8. Computer Architecture.md",
     "UNIVERSITY/ELEC3020/7. Embedded Processor.md",
-    "UNIVERSITY/ELEC3020/6. Atmel Programming.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
     "OTHER/Images/Pasted image 20240812162256.png",
