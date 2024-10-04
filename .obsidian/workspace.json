@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -152,9 +151,10 @@
   },
   "active": "3bfbd394013c5278",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS3001/16. Flow Networks.md",
+    "Pasted image 20240930163727.png",
     "Pasted image 20240930160407.png",
     "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
-    "UNIVERSITY/CITS3001/16. Flow Networks.md",
     "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
     "Pasted image 20240930113627.png",
     "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
@@ -186,8 +186,6 @@
     "OTHER/Images/Pasted image 20240808103101.png",
     "OTHER/Images/Pasted image 20240808114622.png",
     "OTHER/Images/Pasted image 20240808114928.png",
-    "OTHER/Images/Pasted image 20240808114640.png",
-    "OTHER/Images/Pasted image 20240808110953.png",
     "UNIVERSITY/GENG3402",
     "UNIVERSITY/ELEC3020",
     "UNIVERSITY/MECH2004",
