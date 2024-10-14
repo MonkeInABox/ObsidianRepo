@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18. Complexity Classes.md",
+                "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18. Complexity Classes.md",
+                "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18. Complexity Classes.md",
+                "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18. Complexity Classes.md"
+                "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "29b93c418f2616f5",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS3001/18. Complexity Classes.md",
+    "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
     "UNIVERSITY/CITS3001/17. Bipartite Matching.md",
-    "18. Complexity Classes.md",
     "UNIVERSITY/ELEC3020/16. Multitasking.md",
     "UNIVERSITY/ELEC3020/15. Standard Interfaces.md",
     "OTHER/Images/Pasted image 20240913114140.png",
@@ -181,7 +182,6 @@
     "UNIVERSITY/CITS3001/3. Quicksort.md",
     "UNIVERSITY/CITS3001/2. Sorting.md",
     "UNIVERSITY/CITS3001/1. Introduction.md",
-    "conflict-files-obsidian-git.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
     "OTHER/Images/Pasted image 20240812162256.png",
