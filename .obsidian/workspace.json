@@ -17,10 +17,25 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "19. Complexity Reductions"
+            }
+          },
+          {
+            "id": "fc28ba23f3071f28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 19. Complexity Reductions"
             }
           },
           {
@@ -106,7 +129,9 @@
                 "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 19. Complexity Reductions"
             }
           },
           {
@@ -117,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,7 +154,9 @@
               "type": "outline",
               "state": {
                 "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 19. Complexity Reductions"
             }
           }
         ],
@@ -149,30 +178,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "29b93c418f2616f5",
+  "active": "fc28ba23f3071f28",
   "lastOpenFiles": [
     "UNIVERSITY/CITS3001/18. Complexity Classes.md",
-    "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
     "UNIVERSITY/CITS3001/17. Bipartite Matching.md",
-    "UNIVERSITY/ELEC3020/16. Multitasking.md",
-    "UNIVERSITY/ELEC3020/15. Standard Interfaces.md",
-    "OTHER/Images/Pasted image 20240913114140.png",
-    "OTHER/Images/Pasted image 20240930113627.png",
     "UNIVERSITY/CITS3001/16. Flow Networks.md",
-    "OTHER/Images/Pasted image 20240930163727.png",
-    "OTHER/Images/Pasted image 20240930160407.png",
-    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
     "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
     "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
-    "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
-    "UNIVERSITY/ELEC3020/12. Control.md",
-    "UNIVERSITY/ELEC3020/11. Sensors.md",
-    "UNIVERSITY/ELEC3020/10. Actuators.md",
-    "UNIVERSITY/ELEC3020/9. High Level Programming.md",
-    "UNIVERSITY/CITS3001/99. Labs Archive.md",
     "UNIVERSITY/CITS3001/12. Huffman Codes.md",
+    "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
     "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
     "UNIVERSITY/CITS3001/10. DP Techniques.md",
+    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
     "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
     "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
     "UNIVERSITY/CITS3001/6. Graphs.md",
@@ -180,6 +197,18 @@
     "UNIVERSITY/CITS3001/4. Linear Sorting.md",
     "UNIVERSITY/CITS3001/3. Quicksort.md",
     "UNIVERSITY/CITS3001/2. Sorting.md",
+    "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
+    "UNIVERSITY/ELEC3020/16. Multitasking.md",
+    "UNIVERSITY/ELEC3020/15. Standard Interfaces.md",
+    "OTHER/Images/Pasted image 20240913114140.png",
+    "OTHER/Images/Pasted image 20240930113627.png",
+    "OTHER/Images/Pasted image 20240930163727.png",
+    "OTHER/Images/Pasted image 20240930160407.png",
+    "UNIVERSITY/ELEC3020/12. Control.md",
+    "UNIVERSITY/ELEC3020/11. Sensors.md",
+    "UNIVERSITY/ELEC3020/10. Actuators.md",
+    "UNIVERSITY/ELEC3020/9. High Level Programming.md",
+    "UNIVERSITY/CITS3001/99. Labs Archive.md",
     "UNIVERSITY/CITS3001/1. Introduction.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
