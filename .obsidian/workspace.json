@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29b93c418f2616f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19. Complexity Reductions"
-            }
-          },
-          {
             "id": "fc28ba23f3071f28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3001/1. Introduction.md",
+                "file": "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "Unit Details"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -183,52 +169,52 @@
   },
   "active": "fc28ba23f3071f28",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3001/Big O Notation Cheat Sheet.md",
-    "UNIVERSITY/CITS3001/19. Complexity Reductions.md",
-    "UNIVERSITY/CITS3001/18. Complexity Classes.md",
-    "UNIVERSITY/CITS3001/17. Bipartite Matching.md",
-    "UNIVERSITY/CITS3001/16. Flow Networks.md",
-    "UNIVERSITY/CITS3001/15. All Pairs Shortest Paths.md",
-    "UNIVERSITY/CITS3001/14. Single Source Shortest Path.md",
-    "UNIVERSITY/CITS3001/13. Kruskal's Algorithm.md",
-    "UNIVERSITY/CITS3001/12. Huffman Codes.md",
-    "UNIVERSITY/CITS3001/11. Greedy Algorithms.md",
-    "UNIVERSITY/CITS3001/10. DP Techniques.md",
-    "UNIVERSITY/CITS3001/9. Dynamic Programming.md",
-    "UNIVERSITY/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
-    "UNIVERSITY/CITS3001/7. Strongly Connected Components.md",
-    "UNIVERSITY/CITS3001/6. Graphs.md",
-    "UNIVERSITY/CITS3001/5. Order Statistics.md",
-    "UNIVERSITY/CITS3001/4. Linear Sorting.md",
-    "UNIVERSITY/CITS3001/3. Quicksort.md",
-    "UNIVERSITY/CITS3001/2. Sorting.md",
-    "UNIVERSITY/CITS3001/1. Introduction.md",
-    "UNIVERSITY/CITS3001/99. Labs Archive.md",
-    "UNIVERSITY/ELEC3020/16. Multitasking.md",
-    "UNIVERSITY/ELEC3020/15. Standard Interfaces.md",
+    "Untitled.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation",
+    "UNIVERSITY/CITS4402 Computer Vision",
+    "UNIVERSITY/AUTO4507 Robot Manipulators",
+    "UNIVERSITY/AUTO3002 Mechatronics",
+    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/CITS1003 Cybersecurity.md",
+    "UNIVERSITY/PastNotes/CITS3001/1. Introduction.md",
+    "UNIVERSITY/PastNotes/CITS3001/Big O Notation Cheat Sheet.md",
+    "UNIVERSITY/PastNotes/CITS3001/19. Complexity Reductions.md",
+    "UNIVERSITY/PastNotes/CITS3001/18. Complexity Classes.md",
+    "UNIVERSITY/PastNotes/CITS3001/17. Bipartite Matching.md",
+    "UNIVERSITY/PastNotes/CITS3001/16. Flow Networks.md",
+    "UNIVERSITY/PastNotes/CITS3001/15. All Pairs Shortest Paths.md",
+    "UNIVERSITY/PastNotes/CITS3001/14. Single Source Shortest Path.md",
+    "UNIVERSITY/PastNotes/CITS3001/13. Kruskal's Algorithm.md",
+    "UNIVERSITY/PastNotes/CITS3001/12. Huffman Codes.md",
+    "UNIVERSITY/PastNotes/CITS3001/11. Greedy Algorithms.md",
+    "UNIVERSITY/PastNotes/CITS3001/10. DP Techniques.md",
+    "UNIVERSITY/PastNotes/CITS3001/9. Dynamic Programming.md",
+    "UNIVERSITY/PastNotes/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
+    "UNIVERSITY/PastNotes/CITS3001/7. Strongly Connected Components.md",
+    "UNIVERSITY/PastNotes/CITS3001/6. Graphs.md",
+    "UNIVERSITY/PastNotes/CITS3001/5. Order Statistics.md",
+    "UNIVERSITY/PastNotes/CITS3001/4. Linear Sorting.md",
+    "UNIVERSITY/PastNotes/CITS3001/3. Quicksort.md",
+    "UNIVERSITY/PastNotes/CITS3001/2. Sorting.md",
+    "UNIVERSITY/PastNotes/CITS3001/99. Labs Archive.md",
+    "UNIVERSITY/PastNotes/ELEC3020/16. Multitasking.md",
+    "UNIVERSITY/PastNotes/ELEC3020/15. Standard Interfaces.md",
     "OTHER/Images/Pasted image 20240913114140.png",
     "OTHER/Images/Pasted image 20240930113627.png",
     "OTHER/Images/Pasted image 20240930163727.png",
     "OTHER/Images/Pasted image 20240930160407.png",
-    "UNIVERSITY/ELEC3020/12. Control.md",
-    "UNIVERSITY/ELEC3020/11. Sensors.md",
-    "UNIVERSITY/ELEC3020/10. Actuators.md",
     "OTHER/Images/Pasted image 20240822115005.png",
     "OTHER/Images/Pasted image 20240822115630.png",
     "OTHER/Images/Pasted image 20240812162256.png",
     "OTHER/Images/Pasted image 20240808103101.png",
     "OTHER/Images/Pasted image 20240808114622.png",
     "OTHER/Images/Pasted image 20240808114928.png",
-    "UNIVERSITY/GENG3402",
-    "UNIVERSITY/ELEC3020",
-    "UNIVERSITY/MECH2004",
-    "UNIVERSITY/CITS3001",
+    "UNIVERSITY/PastNotes/GENG3402",
+    "UNIVERSITY/PastNotes/ELEC3020",
+    "UNIVERSITY/PastNotes/MECH2004",
+    "UNIVERSITY/PastNotes/CITS3001",
     "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
     "OTHER/FresherCampaign/Spire",
-    "OTHER/FresherCampaign/DnD",
-    "OTHER/FresherCampaign",
-    "starfinder d525d576429a402294ef03e9f7cc4bd5",
-    "OTHER",
     "Untitled.canvas"
   ]
 }
