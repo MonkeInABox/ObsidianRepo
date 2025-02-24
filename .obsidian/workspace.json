@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
+                "file": "UNIVERSITY/AUTO3002 Mechatronics/1. Design Principles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit Details"
+              "title": "1. Design Principles"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "fc28ba23f3071f28",
   "lastOpenFiles": [
-    "Untitled.md",
     "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/1. Design Principles.md",
+    "Untitled.md",
     "UNIVERSITY/CITS3003 Graphics and Animation",
     "UNIVERSITY/CITS4402 Computer Vision",
     "UNIVERSITY/AUTO4507 Robot Manipulators",
@@ -198,7 +199,6 @@
     "UNIVERSITY/PastNotes/CITS3001/2. Sorting.md",
     "UNIVERSITY/PastNotes/CITS3001/99. Labs Archive.md",
     "UNIVERSITY/PastNotes/ELEC3020/16. Multitasking.md",
-    "UNIVERSITY/PastNotes/ELEC3020/15. Standard Interfaces.md",
     "OTHER/Images/Pasted image 20240913114140.png",
     "OTHER/Images/Pasted image 20240930113627.png",
     "OTHER/Images/Pasted image 20240930163727.png",
