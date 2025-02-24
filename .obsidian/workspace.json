@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "1. Design Principles"
             }
+          },
+          {
+            "id": "817227abea8b398e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS4402 Computer Vision/1..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1."
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -167,11 +182,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fc28ba23f3071f28",
+  "active": "817227abea8b398e",
   "lastOpenFiles": [
-    "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
     "UNIVERSITY/AUTO3002 Mechatronics/1. Design Principles.md",
-    "Untitled.md",
+    "UNIVERSITY/CITS4402 Computer Vision/1..md",
+    "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
     "UNIVERSITY/CITS3003 Graphics and Animation",
     "UNIVERSITY/CITS4402 Computer Vision",
     "UNIVERSITY/AUTO4507 Robot Manipulators",
