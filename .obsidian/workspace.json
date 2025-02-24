@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS4402 Computer Vision/1..md",
+                "file": "UNIVERSITY/CITS4402 Computer Vision/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "1. Introduction"
             }
           }
         ],
@@ -185,7 +185,7 @@
   "active": "817227abea8b398e",
   "lastOpenFiles": [
     "UNIVERSITY/AUTO3002 Mechatronics/1. Design Principles.md",
-    "UNIVERSITY/CITS4402 Computer Vision/1..md",
+    "UNIVERSITY/CITS4402 Computer Vision/1. Introduction.md",
     "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
     "UNIVERSITY/CITS3003 Graphics and Animation",
     "UNIVERSITY/CITS4402 Computer Vision",
