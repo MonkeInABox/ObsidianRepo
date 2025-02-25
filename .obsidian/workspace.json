@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -169,9 +168,9 @@
   },
   "active": "817227abea8b398e",
   "lastOpenFiles": [
-    "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/1. Introduction.md",
     "UNIVERSITY/CITS4402 Computer Vision/1. Introduction.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/1. Introduction.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
     "UNIVERSITY/AUTO3002 Mechatronics/1. Design Principles.md",
     "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
     "UNIVERSITY/CITS3003 Graphics and Animation",
