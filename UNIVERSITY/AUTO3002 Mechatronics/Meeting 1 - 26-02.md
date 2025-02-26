@@ -8,6 +8,15 @@
 # Ideas
 - Small on side, claw extends
 - Using weights to tip seesaw
+- Big bin with wheels on outside
+- Treads could work
+- Dump truck sort of thing
+- Scoop up all the balls
+- Bin on back, opens to roll balls into endzone
+- 
+
+# Next Meeting
+- 1 p.m. 03/03/25
 
 # Action Items
 > Jeremy: Check makers access
@@ -18,4 +27,4 @@
 
 > Will: Check makers laser cutting access
 
-> Everyone: Look into Arduino Mega, Read Rules, Think of Ideas
+> Everyone: Look into Arduino Mega, Read Rules, Think of Ideas and send to discord
