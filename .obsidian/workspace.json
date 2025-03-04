@@ -11,10 +11,15 @@
             "id": "c66843c2d62124b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Introduction"
             }
           }
         ]
