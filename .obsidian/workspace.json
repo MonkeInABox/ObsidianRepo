@@ -11,11 +11,30 @@
             "id": "e6bb742a5cbe7c1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0a84125967233fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md"
+              }
             }
           },
           {
@@ -149,8 +172,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e6bb742a5cbe7c1d",
+  "active": "b0a84125967233fe",
   "lastOpenFiles": [
+    "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
     "UNIVERSITY/PastNotes/MECH2004/3. Kinetics of Systems of Particles.md",
     "UNIVERSITY/PastNotes/MECH2004/2. Kinetics of Particles.md",
     "UNIVERSITY/PastNotes/MECH2004/1. Definitions.md",
@@ -178,9 +204,6 @@
     "UNIVERSITY/PastNotes/ELEC3020/5. CPU Design.md",
     "UNIVERSITY/PastNotes/ELEC3020/4. Memory.md",
     "UNIVERSITY/PastNotes/ELEC3020/3. Com Seq.md",
-    "UNIVERSITY/PastNotes/ELEC3020/2. Number Representations.md",
-    "UNIVERSITY/PastNotes/ELEC3020/16. Multitasking.md",
-    "UNIVERSITY/PastNotes/ELEC3020/15. Standard Interfaces.md",
     "UNIVERSITY/PastNotes/ELEC3020",
     "UNIVERSITY/PastNotes/CITS3403",
     "UNIVERSITY/PastNotes/CITS3002",
