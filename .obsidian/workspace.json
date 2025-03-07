@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e29fcb646ab8947b",
+        "id": "4454086640779ffd",
         "type": "tabs",
         "children": [
           {
-            "id": "c66843c2d62124b5",
+            "id": "e6bb742a5cbe7c1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "4. OpenGL Example Program"
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -41,11 +34,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -60,9 +50,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -70,17 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/CITS3001/1. Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +88,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1. Introduction"
+              }
             }
           },
           {
@@ -115,12 +97,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/CITS3001/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1. Introduction"
+              }
             }
           },
           {
@@ -131,9 +110,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -141,15 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UNIVERSITY/CITS3001/1. Introduction.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 1. Introduction"
+              "state": {}
+            }
+          },
+          {
+            "id": "e14ea8861c97857c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,60 +142,61 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": true,
       "publish:Publish changes...": false
     }
   },
-  "active": "c66843c2d62124b5",
+  "active": "e6bb742a5cbe7c1d",
   "lastOpenFiles": [
+    "UNIVERSITY/PastNotes/MECH2004/3. Kinetics of Systems of Particles.md",
+    "UNIVERSITY/PastNotes/MECH2004/2. Kinetics of Particles.md",
+    "UNIVERSITY/PastNotes/MECH2004/1. Definitions.md",
+    "UNIVERSITY/PastNotes/MECH2004",
+    "UNIVERSITY/PastNotes/GENG3402/THINGS TO REMEMBER.md",
+    "UNIVERSITY/PastNotes/GENG3402/3. Laplace Transforms.md",
+    "UNIVERSITY/PastNotes/GENG3402/2. Mathematical Models of Systems.md",
+    "UNIVERSITY/PastNotes/GENG3402",
+    "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
+    "UNIVERSITY/PastNotes/GENG2004/Case Studies.md",
+    "UNIVERSITY/PastNotes/GENG2004/9. Deflection of Beams.md",
+    "UNIVERSITY/PastNotes/GENG2004/8. Pure Bending.md",
+    "UNIVERSITY/PastNotes/GENG2004/7. Inertia.md",
+    "UNIVERSITY/PastNotes/GENG2004/5. Thermal Effects.md",
+    "UNIVERSITY/PastNotes/GENG2004/6. Torsion.md",
+    "UNIVERSITY/PastNotes/GENG2004/4. Axially Loaded Members.md",
+    "UNIVERSITY/PastNotes/GENG2004/3. Mechanical Properties of Materials.md",
+    "UNIVERSITY/PastNotes/GENG2004/2. Stress & Strain in 3D.md",
+    "UNIVERSITY/PastNotes/GENG2004/1. Introduction.md",
+    "UNIVERSITY/PastNotes/GENG2004",
+    "UNIVERSITY/PastNotes/ELEC3020/9. High Level Programming.md",
+    "UNIVERSITY/PastNotes/ELEC3020/8. Computer Architecture.md",
+    "UNIVERSITY/PastNotes/ELEC3020/7. Embedded Processor.md",
+    "UNIVERSITY/PastNotes/ELEC3020/6. Atmel Programming.md",
+    "UNIVERSITY/PastNotes/ELEC3020/5. CPU Design.md",
+    "UNIVERSITY/PastNotes/ELEC3020/4. Memory.md",
+    "UNIVERSITY/PastNotes/ELEC3020/3. Com Seq.md",
+    "UNIVERSITY/PastNotes/ELEC3020/2. Number Representations.md",
+    "UNIVERSITY/PastNotes/ELEC3020/16. Multitasking.md",
+    "UNIVERSITY/PastNotes/ELEC3020/15. Standard Interfaces.md",
+    "UNIVERSITY/PastNotes/ELEC3020",
+    "UNIVERSITY/PastNotes/CITS3403",
+    "UNIVERSITY/PastNotes/CITS3002",
+    "UNIVERSITY/PastNotes/CITS3001",
+    "UNIVERSITY/PastNotes/CITS2401",
+    "UNIVERSITY/CITS4402 Computer Vision",
     "Pasted image 20250305095837.png",
-    "UNIVERSITY/CITS4402 Computer Vision/2. Binary Images.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/3. Pipeline Architecture.md",
     "Pasted image 20250304111313.png",
     "Pasted image 20250304111020.png",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
-    "UNIVERSITY/AUTO3002 Mechatronics/Meeting 1 - 26-02.md",
-    "UNIVERSITY/AUTO3002 Mechatronics/1. Design Principles.md",
-    "OTHER/Images/Pasted image 20250226101352.png",
-    "UNIVERSITY/CITS3003 Graphics and Animation/2. Programming With OpenGL.md",
     "OTHER/Images/Pasted image 20250226102750.png",
-    "UNIVERSITY/CITS3003 Graphics and Animation/1. Introduction.md",
-    "UNIVERSITY/CITS4402 Computer Vision/1. Introduction.md",
-    "UNIVERSITY/AUTO3002 Mechatronics/Unit Details.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation",
-    "UNIVERSITY/CITS4402 Computer Vision",
-    "UNIVERSITY/AUTO4507 Robot Manipulators",
-    "UNIVERSITY/AUTO3002 Mechatronics",
-    "UNIVERSITY/PastNotes/CITS1003 Cybersecurity/CITS1003 Cybersecurity.md",
-    "UNIVERSITY/PastNotes/CITS3001/1. Introduction.md",
-    "UNIVERSITY/PastNotes/CITS3001/Big O Notation Cheat Sheet.md",
-    "UNIVERSITY/PastNotes/CITS3001/19. Complexity Reductions.md",
-    "UNIVERSITY/PastNotes/CITS3001/18. Complexity Classes.md",
-    "UNIVERSITY/PastNotes/CITS3001/17. Bipartite Matching.md",
-    "UNIVERSITY/PastNotes/CITS3001/16. Flow Networks.md",
-    "UNIVERSITY/PastNotes/CITS3001/15. All Pairs Shortest Paths.md",
-    "UNIVERSITY/PastNotes/CITS3001/14. Single Source Shortest Path.md",
-    "UNIVERSITY/PastNotes/CITS3001/13. Kruskal's Algorithm.md",
-    "UNIVERSITY/PastNotes/CITS3001/12. Huffman Codes.md",
-    "UNIVERSITY/PastNotes/CITS3001/11. Greedy Algorithms.md",
-    "UNIVERSITY/PastNotes/CITS3001/10. DP Techniques.md",
-    "UNIVERSITY/PastNotes/CITS3001/9. Dynamic Programming.md",
-    "UNIVERSITY/PastNotes/CITS3001/8. Directed Acyclic Graphs and Topological Sort.md",
-    "OTHER/Images/Pasted image 20240913114140.png",
-    "OTHER/Images/Pasted image 20240930113627.png",
+    "OTHER/Images/Pasted image 20250226101352.png",
     "OTHER/Images/Pasted image 20240930163727.png",
     "OTHER/Images/Pasted image 20240930160407.png",
-    "OTHER/Images/Pasted image 20240822115005.png",
+    "OTHER/Images/Pasted image 20240930113627.png",
+    "OTHER/Images/Pasted image 20240913114140.png",
     "OTHER/Images/Pasted image 20240822115630.png",
-    "UNIVERSITY/PastNotes/GENG3402",
-    "UNIVERSITY/PastNotes/ELEC3020",
-    "UNIVERSITY/PastNotes/MECH2004",
-    "UNIVERSITY/PastNotes/CITS3001",
-    "UNIVERSITY/PastNotes/GENG2004/Exam formulae sheet 19Sept.pdf",
-    "OTHER/FresherCampaign/Spire",
     "Untitled.canvas"
   ]
 }
