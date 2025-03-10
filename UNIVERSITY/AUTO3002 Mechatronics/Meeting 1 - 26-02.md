@@ -36,7 +36,7 @@
 
 
 # MEETING 2 - 10/03
-*Meeting Time*: 10- a.m.
+*Meeting Time*: 10-10:30 a.m.
 # Actions
 - Dividing up document component
 	- Do by Tuesday night
@@ -64,7 +64,7 @@
 	- CAD Done by Jeremy
 
 # Next Meeting
-- 
+- Wednesday 3p.m. at URC
 
 # Action Items
 > Jeremy: Set up google doc
