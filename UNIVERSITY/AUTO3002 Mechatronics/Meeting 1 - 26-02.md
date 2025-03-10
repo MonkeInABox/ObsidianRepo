@@ -34,3 +34,45 @@
 
 > Everyone: Look into Arduino Mega, Read Rules, Think of Ideas and send to discord
 
+
+# MEETING 2 - 10/03
+*Meeting Time*: 10- a.m.
+# Actions
+- Dividing up document component
+	- Do by Tuesday night
+	- Problem understanding and goals
+		- Jeremy
+	- Concept and Design Approach
+		- Hayden
+	- Mechanical Design
+		- Hayden
+	- Electronics and Control System
+		- Will
+	- Software and Algorithm Plan
+		- Will
+	- Feasibility and Constraints
+		- Jeremy
+	- Teamwork and Organisation
+		- Sean
+
+# Components
+- Wheels
+- Scoop
+	- Linear actuator or a rack and pinion drive
+	- Perhaps look into LEGO pieces (Hayden check with Travis)
+- Bin/Bucket
+	- CAD Done by Jeremy
+
+# Next Meeting
+- 
+
+# Action Items
+> Jeremy: Set up google doc
+
+> Hayden: 
+
+> Sean: 
+
+> Will: 
+
+> Everyone: Work on document parts
