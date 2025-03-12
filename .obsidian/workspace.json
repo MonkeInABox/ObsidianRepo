@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "5. Vertex and Fragment Shaders"
             }
-          },
-          {
-            "id": "0e6c6868783f8ce3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +187,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0e6c6868783f8ce3",
+  "active": "50a66c98da77202e",
   "lastOpenFiles": [
     "Pasted image 20250311113111.png",
     "Pasted image 20250311110448.png",
