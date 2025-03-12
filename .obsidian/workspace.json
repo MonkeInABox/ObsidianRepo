@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. Vertex and Fragment Shaders"
+              "title": "5. Manipulators"
             }
           }
         ],
@@ -189,14 +189,19 @@
   },
   "active": "50a66c98da77202e",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
+    "Pasted image 20250312121216.png",
+    "Pasted image 20250312120945.png",
+    "Pasted image 20250312120830.png",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/Untitled.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
     "UNIVERSITY/Notes Images/Pasted image 20250311113111.png",
     "UNIVERSITY/Notes Images/Pasted image 20250311110448.png",
     "UNIVERSITY/Notes Images/Pasted image 20250304111020.png",
     "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
     "UNIVERSITY/Notes Images",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/Untitled.md",
     "conflict-files-obsidian-git.md"
   ]
 }
