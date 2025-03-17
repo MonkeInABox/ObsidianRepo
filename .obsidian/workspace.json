@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS4402 Computer Vision/3. Fourier Transforms.md",
+                "file": "UNIVERSITY/CITS4402 Computer Vision/4. Grey Scale.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. Fourier Transforms"
+              "title": "4. Grey Scale"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db27ca4ac036a415",
@@ -172,9 +173,16 @@
   },
   "active": "40fb4ead1ca72b62",
   "lastOpenFiles": [
-    "UNIVERSITY/Notes Images/Pasted image 20250312120830.png",
-    "UNIVERSITY/CITS4402 Computer Vision/3. Fourier Transforms.md",
+    "conflict-files-obsidian-git.md",
     "UNIVERSITY/CITS4402 Computer Vision/4. Grey Scale.md",
+    "Pasted image 20250317105707.png",
+    "Pasted image 20250317105700.png",
+    "Pasted image 20250317105631.png",
+    "Pasted image 20250317105552.png",
+    "Pasted image 20250317102323.png",
+    "UNIVERSITY/CITS4402 Computer Vision/3. Fourier Transforms.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
+    "UNIVERSITY/Notes Images/Pasted image 20250312120830.png",
     "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
     "UNIVERSITY/Notes Images/Pasted image 20250312121216.png",
@@ -184,9 +192,7 @@
     "UNIVERSITY/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
     "UNIVERSITY/Notes Images/Pasted image 20250311113111.png",
     "UNIVERSITY/Notes Images/Pasted image 20250311110448.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250304111020.png",
     "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
-    "UNIVERSITY/Notes Images",
-    "conflict-files-obsidian-git.md"
+    "UNIVERSITY/Notes Images"
   ]
 }
