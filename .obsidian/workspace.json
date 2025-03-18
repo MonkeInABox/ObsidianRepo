@@ -1,58 +1,37 @@
 {
   "main": {
-    "id": "43555bdf90934b2b",
+    "id": "da091ea9b7b4114b",
     "type": "split",
     "children": [
       {
-        "id": "7771de4902ca7918",
+        "id": "c36c34b0fdd3e79f",
         "type": "tabs",
         "children": [
           {
-            "id": "40fb4ead1ca72b62",
+            "id": "d402bd0befb3c284",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. OpenGL Example Program"
-            }
-          },
-          {
-            "id": "50a66c98da77202e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNIVERSITY/CITS3003 Graphics and Animation/7.  Vectors, Points and Scalars.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "7.  Vectors, Points and Scalars"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "00a8bf37ef006ab6",
+    "id": "04b8d84116f3882a",
     "type": "split",
     "children": [
       {
-        "id": "8c40a091890457df",
+        "id": "e3a3672c7de21d23",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3604a41e57aa29",
+            "id": "6d1a5752409b358c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +44,7 @@
             }
           },
           {
-            "id": "a399fa45a9381395",
+            "id": "3af02b21ca2d12d7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +61,7 @@
             }
           },
           {
-            "id": "c198e47a087b3622",
+            "id": "485489d551f751af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "db27ca4ac036a415",
+    "id": "782c04c1ff8c2bac",
     "type": "split",
     "children": [
       {
-        "id": "3faa26c8ea68e4e8",
+        "id": "0d9279ce313b4b97",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2f814f865375a0",
+            "id": "f57fba4f6d936acb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a16f6e02550385a2",
+            "id": "c0cdde1035d269c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "79ec0faba8aab8b1",
+            "id": "f0ad6d3d750a7e9f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,18 +131,17 @@
             }
           },
           {
-            "id": "ced84a00e4eb80a6",
+            "id": "b483d5f8cab9acd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -187,28 +162,6 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "50a66c98da77202e",
-  "lastOpenFiles": [
-    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/7.  Vectors, Points and Scalars.md",
-    "UNIVERSITY/Notes Images/Pasted image 20250312121216.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250312120945.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250312120830.png",
-    "UNIVERSITY/CITS4402 Computer Vision/4. Grey Scale.md",
-    "Pasted image 20250317105707.png",
-    "Pasted image 20250317105700.png",
-    "Pasted image 20250317105631.png",
-    "Pasted image 20250317105552.png",
-    "Pasted image 20250317102323.png",
-    "UNIVERSITY/CITS3003 Graphics and Animation/7. Representation and Coordinate System.md",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
-    "Pasted image 20250312121216.png",
-    "Pasted image 20250312120945.png",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
-    "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
-    "UNIVERSITY/Notes Images",
-    "conflict-files-obsidian-git.md"
-  ]
+  "active": "d402bd0befb3c284",
+  "lastOpenFiles": []
 }
