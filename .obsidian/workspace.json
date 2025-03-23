@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "6. Denavit-Hartenberg"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for 6. Denavit-Hartenberg"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from 6. Denavit-Hartenberg"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of 6. Denavit-Hartenberg"
             }
           },
           {
@@ -214,8 +214,10 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
-    "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
+    "OTHER/Images/Pasted image 20250318164054.png",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
     "conflict-files-obsidian-git.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
     "UNIVERSITY/Notes Images/Pasted image 20250312121216.png",
     "UNIVERSITY/Notes Images/Pasted image 20250312120945.png",
     "UNIVERSITY/Notes Images/Pasted image 20250312120830.png",
@@ -234,7 +236,6 @@
     "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
     "UNIVERSITY/AUTO3002 Mechatronics/3. Motors and Actuators.md",
     "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
-    "Pasted image 20250318164054.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
     "UNIVERSITY/PastNotes/MECH2004/3. Kinetics of Systems of Particles.md",
@@ -252,8 +253,6 @@
     "UNIVERSITY/PastNotes/GENG2004/7. Inertia.md",
     "UNIVERSITY/PastNotes/GENG2004/5. Thermal Effects.md",
     "UNIVERSITY/PastNotes/GENG2004/6. Torsion.md",
-    "UNIVERSITY/PastNotes/GENG2004/4. Axially Loaded Members.md",
-    "UNIVERSITY/PastNotes/GENG2004/3. Mechanical Properties of Materials.md",
     "UNIVERSITY/PastNotes/GENG2004",
     "UNIVERSITY/PastNotes/ELEC3020",
     "UNIVERSITY/PastNotes/CITS3403",
