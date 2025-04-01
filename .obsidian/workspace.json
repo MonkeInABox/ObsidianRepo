@@ -1,42 +1,73 @@
 {
   "main": {
-    "id": "da091ea9b7b4114b",
+    "id": "ffe0ac89069c8b95",
     "type": "split",
     "children": [
       {
-        "id": "c36c34b0fdd3e79f",
+        "id": "4454086640779ffd",
         "type": "tabs",
         "children": [
           {
-            "id": "d402bd0befb3c284",
+            "id": "e6bb742a5cbe7c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3003 Graphics and Animation/3. Pipeline Architecture.md",
-                "mode": "preview",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. Pipeline Architecture"
+              "title": "4. Reliability Through Redundancy"
+            }
+          },
+          {
+            "id": "b0a84125967233fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Manipulators"
+            }
+          },
+          {
+            "id": "35cd5a41f533ef75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/CITS3003 Graphics and Animation/10. Input, Interaction and Callbacks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Input, Interaction and Callbacks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "04b8d84116f3882a",
+    "id": "9c1a0975632059ca",
     "type": "split",
     "children": [
       {
-        "id": "e3a3672c7de21d23",
+        "id": "64513d2271c1d9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1a5752409b358c",
+            "id": "76affa6f8098c2bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +80,7 @@
             }
           },
           {
-            "id": "3af02b21ca2d12d7",
+            "id": "46f0d5dc5476bd36",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +97,7 @@
             }
           },
           {
-            "id": "485489d551f751af",
+            "id": "850139f478155244",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,51 +110,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "782c04c1ff8c2bac",
+    "id": "2fa1a31129388d7e",
     "type": "split",
     "children": [
       {
-        "id": "0d9279ce313b4b97",
+        "id": "c3e9f5e9bd71f137",
         "type": "tabs",
         "children": [
           {
-            "id": "f57fba4f6d936acb",
+            "id": "443b8d4847aef1ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
-                "collapseAll": false,
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Forward Kinematics"
+              "title": "Backlinks for 6. Denavit-Hartenberg"
             }
           },
           {
-            "id": "c0cdde1035d269c0",
+            "id": "cf5b4d1bc7d6d255",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Forward Kinematics"
+              "title": "Outgoing links from 6. Denavit-Hartenberg"
             }
           },
           {
-            "id": "f0ad6d3d750a7e9f",
+            "id": "d3c50baec903fb57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,21 +169,32 @@
             }
           },
           {
-            "id": "b483d5f8cab9acd3",
+            "id": "2568dd7f10c030a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
+                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Forward Kinematics"
+              "title": "Outline of 6. Denavit-Hartenberg"
+            }
+          },
+          {
+            "id": "e14ea8861c97857c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,43 +212,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d402bd0befb3c284",
+  "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
-    "AUTO4507/ur5112.py",
-    "AUTO4507/ur5221.py",
-    "AUTO4507/ur5shapedetect.py",
-    "AUTO4507/UR5eImage.jpg",
-    "AUTO4507/im_processing.py",
-    "AUTO4507/ur5111.py",
-    "AUTO4507/ur5_camera.py",
-    "AUTO4507/ur5.py",
-    "AUTO4507",
-    "UNIVERSITY/CITS3003 Graphics and Animation/2. Programming With OpenGL.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/1. Introduction.md",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/7. Inverse Kinematics.md",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331120820.png",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
+    "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250324104205.png",
+    "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250324103836.png",
+    "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250324103542.png",
+    "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250317105707.png",
+    "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250317102323.png",
+    "UNIVERSITY/CITS4402 Computer Vision/images",
+    "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
+    "UNIVERSITY/CITS4402 Computer Vision/5. Edge Detection.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/8.  9. Coordinate Frames and Transformations.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/10. Input, Interaction and Callbacks.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123417.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123344.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123127.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331122810.png",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/Formula.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331121920.png",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331121121.png",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
-    "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/10. Input, Interaction and Callbacks.md",
-    "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/8.  9. Coordinate Frames and Transformations.md",
-    "UNIVERSITY/CITS4402 Computer Vision/5. Edge Detection.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/9..md",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
-    "OTHER/Images/Pasted image 20250318164054.png",
-    "OTHER/Images/Pasted image 20250318163745.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images",
-    "UNIVERSITY/CITS4402 Computer Vision/images",
-    "UNIVERSITY/AUTO3002 Mechatronics/3. Motors and Actuators.md",
+    "AUTO4507/ur5_camera.py",
+    "AUTO4507/ur5shapedetect.py",
+    "AUTO4507/ur5221.py",
+    "AUTO4507/ur5112.py",
+    "AUTO4507/ur5111.py",
+    "AUTO4507/ur5.py",
+    "AUTO4507/im_processing.py",
+    "AUTO4507",
+    "conflict-files-obsidian-git.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
+    "UNIVERSITY/CITS4402 Computer Vision/4. Grey Scale.md",
+    "UNIVERSITY/CITS4402 Computer Vision/3. Fourier Transforms.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/8. Coordinate Frames and Transformations.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/7.  Vectors, Points and Scalars.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
-    "UNIVERSITY/CITS4402 Computer Vision/4. Grey Scale.md"
+    "UNIVERSITY/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/3. Motors and Actuators.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
+    "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
+    "UNIVERSITY/PastNotes/MECH2004/3. Kinetics of Systems of Particles.md",
+    "UNIVERSITY/PastNotes/MECH2004/2. Kinetics of Particles.md",
+    "UNIVERSITY/PastNotes/MECH2004/1. Definitions.md",
+    "UNIVERSITY/PastNotes/GENG3402/THINGS TO REMEMBER.md",
+    "UNIVERSITY/PastNotes/GENG3402/3. Laplace Transforms.md",
+    "UNIVERSITY/PastNotes/GENG3402/2. Mathematical Models of Systems.md",
+    "UNIVERSITY/PastNotes/GENG2004/Case Studies.md",
+    "UNIVERSITY/PastNotes/GENG2004/9. Deflection of Beams.md",
+    "Untitled.canvas"
   ]
 }
