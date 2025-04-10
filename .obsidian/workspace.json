@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3003 Graphics and Animation/12. Computer Viewing.md",
+                "file": "UNIVERSITY/AUTO3002 Mechatronics/5. Microcontrollers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12. Computer Viewing"
+              "title": "5. Microcontrollers"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3003 Graphics and Animation/10. 11. Input, Interaction and Callbacks.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/4. Sensors and Perception.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/5. Microcontrollers.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/12. Computer Viewing.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/10. 11. Input, Interaction and Callbacks.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
     "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250324104205.png",
     "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250324103836.png",
@@ -228,8 +230,6 @@
     "UNIVERSITY/PastNotes/GENG3402/THINGS TO REMEMBER.md",
     "UNIVERSITY/PastNotes/GENG3402/3. Laplace Transforms.md",
     "UNIVERSITY/PastNotes/GENG3402/2. Mathematical Models of Systems.md",
-    "UNIVERSITY/PastNotes/GENG2004/Case Studies.md",
-    "UNIVERSITY/PastNotes/GENG2004/9. Deflection of Beams.md",
     "Untitled.canvas"
   ]
 }
