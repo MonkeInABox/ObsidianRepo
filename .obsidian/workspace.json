@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/AUTO3002 Mechatronics/5. Microcontrollers.md",
+                "file": "UNIVERSITY/CITS4402 Computer Vision/8.  Camera Calibration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. Microcontrollers"
+              "title": "8.  Camera Calibration"
             }
           }
         ]
@@ -184,8 +184,11 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
-    "UNIVERSITY/AUTO3002 Mechatronics/4. Sensors and Perception.md",
+    "UNIVERSITY/CITS4402 Computer Vision/7. Feature Detection and Extraction.md",
+    "UNIVERSITY/CITS4402 Computer Vision/8.  Camera Calibration.md",
+    "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
     "UNIVERSITY/AUTO3002 Mechatronics/5. Microcontrollers.md",
+    "UNIVERSITY/AUTO3002 Mechatronics/4. Sensors and Perception.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/12. Computer Viewing.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/10. 11. Input, Interaction and Callbacks.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
@@ -195,7 +198,6 @@
     "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250317105707.png",
     "UNIVERSITY/CITS4402 Computer Vision/images/Pasted image 20250317102323.png",
     "UNIVERSITY/CITS4402 Computer Vision/images",
-    "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
     "UNIVERSITY/CITS4402 Computer Vision/5. Edge Detection.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/8.  9. Coordinate Frames and Transformations.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123417.png",
@@ -228,8 +230,6 @@
     "UNIVERSITY/PastNotes/MECH2004/2. Kinetics of Particles.md",
     "UNIVERSITY/PastNotes/MECH2004/1. Definitions.md",
     "UNIVERSITY/PastNotes/GENG3402/THINGS TO REMEMBER.md",
-    "UNIVERSITY/PastNotes/GENG3402/3. Laplace Transforms.md",
-    "UNIVERSITY/PastNotes/GENG3402/2. Mathematical Models of Systems.md",
     "Untitled.canvas"
   ]
 }
