@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS4402 Computer Vision/10. Stereo Reconstruction.md",
+                "file": "UNIVERSITY/CITS3003 Graphics and Animation/18. Texture Mapping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10. Stereo Reconstruction"
+              "title": "18. Texture Mapping"
             }
           }
         ]
@@ -184,13 +184,15 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
+    "UNIVERSITY/CITS3003 Graphics and Animation/14. Shading.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/18. Texture Mapping.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/13. 3D Hidden Surface Removal.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/17. Textures.md",
+    "UNIVERSITY/CITS4402 Computer Vision/10. Stereo Reconstruction.md",
     "Pasted image 20250505100741.png",
     "Pasted image 20250505100357.png",
     "Pasted image 20250505100032.png",
     "UNIVERSITY/CITS4402 Computer Vision/8.  Camera Calibration.md",
-    "UNIVERSITY/CITS4402 Computer Vision/10. Stereo Reconstruction.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/14. Shading.md",
-    "UNIVERSITY/CITS3003 Graphics and Animation/13. 3D Hidden Surface Removal.md",
     "UNIVERSITY/CITS4402 Computer Vision/7. Feature Detection and Extraction.md",
     "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
     "UNIVERSITY/AUTO3002 Mechatronics/5. Microcontrollers.md",
@@ -208,7 +210,6 @@
     "UNIVERSITY/CITS3003 Graphics and Animation/8.  9. Coordinate Frames and Transformations.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123417.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123344.png",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/images/Pasted image 20250331123127.png",
     "UNIVERSITY/AUTO4507 Robot Manipulators/images",
     "AUTO4507/ur5_camera.py",
     "AUTO4507/ur5shapedetect.py",
@@ -229,7 +230,6 @@
     "UNIVERSITY/AUTO3002 Mechatronics/3. Motors and Actuators.md",
     "UNIVERSITY/AUTO3002 Mechatronics/2. CAD, 3D Printing, Laser Cutting.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/4. Reliability Through Redundancy.md",
-    "UNIVERSITY/AUTO4507 Robot Manipulators/1. Introduction.md",
     "Untitled.canvas"
   ]
 }
