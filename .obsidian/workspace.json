@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS4402 Computer Vision/11. Optical Flow, Tracking and 3D Shape.md",
+                "file": "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11. Optical Flow, Tracking and 3D Shape"
+              "title": "6. Object Recognition"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -184,8 +183,12 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS4402 Computer Vision/10. Stereo Reconstruction.md",
+    "UNIVERSITY/CITS4402 Computer Vision/8.  Camera Calibration.md",
+    "UNIVERSITY/CITS4402 Computer Vision/7. Feature Detection and Extraction.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/20. 3D Modelling.md",
+    "UNIVERSITY/CITS3003 Graphics and Animation/19. Hierarchical Modelling.md",
     "UNIVERSITY/CITS4402 Computer Vision/11. Optical Flow, Tracking and 3D Shape.md",
+    "UNIVERSITY/CITS4402 Computer Vision/10. Stereo Reconstruction.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/18. Texture Mapping.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/17. Textures.md",
     "UNIVERSITY/CITS3003 Graphics and Animation/14. Shading.md",
@@ -202,8 +205,6 @@
     "Pasted image 20250505100741.png",
     "Pasted image 20250505100357.png",
     "Pasted image 20250505100032.png",
-    "UNIVERSITY/CITS4402 Computer Vision/8.  Camera Calibration.md",
-    "UNIVERSITY/CITS4402 Computer Vision/7. Feature Detection and Extraction.md",
     "UNIVERSITY/CITS4402 Computer Vision/6. Object Recognition.md",
     "UNIVERSITY/AUTO3002 Mechatronics/5. Microcontrollers.md",
     "UNIVERSITY/AUTO3002 Mechatronics/4. Sensors and Perception.md",
@@ -228,8 +229,6 @@
     "AUTO4507",
     "conflict-files-obsidian-git.md",
     "UNIVERSITY/AUTO4507 Robot Manipulators/5. Manipulators.md",
-    "UNIVERSITY/CITS4402 Computer Vision/4. Grey Scale.md",
-    "UNIVERSITY/CITS4402 Computer Vision/3. Fourier Transforms.md",
     "Untitled.canvas"
   ]
 }
