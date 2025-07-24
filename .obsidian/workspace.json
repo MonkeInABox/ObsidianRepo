@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -183,11 +184,15 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
+    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
+    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/7. Inverse Kinematics.md",
+    "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
+    "UNIVERSITY/CITS3200/1 Project Management (Thales).md",
+    "UNIVERSITY/CITS3011/1 Agents.md",
     "UNIVERSITY/ELEC3016/1 Introduction and Fundamentals Review.md",
     "UNIVERSITY/Notes Images/Pasted image 20250721144222.png",
     "UNIVERSITY/Notes Images/Pasted image 20250721143810.png",
     "UNIVERSITY/Notes Images/Pasted image 20250721143639.png",
-    "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
     "UNIVERSITY/CITS3200/0 Introduction.md",
     "UNIVERSITY/Notes Images/Pasted image 20250505100741.png",
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
@@ -213,9 +218,6 @@
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/2. Binary Images.md",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/3. Fourier Transforms.md",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/12. Deep Learning.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/11. Optical Flow, Tracking and 3D Shape.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/10. Stereo Reconstruction.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/8.  Camera Calibration.md",
     "UNIVERSITY/Notes Images/Pasted image 20250505100357.png",
     "UNIVERSITY/Notes Images/Pasted image 20250505100032.png",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250324104205.png",
@@ -224,10 +226,10 @@
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250317105707.png",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/images",
-    "AUTO4507/ur5_camera.py",
-    "AUTO4507/ur5shapedetect.py",
-    "AUTO4507/ur5221.py",
-    "AUTO4507/ur5112.py",
+    "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
+    "UNIVERSITY/PastNotes/AUTO4507/ur5shapedetect.py",
+    "UNIVERSITY/PastNotes/AUTO4507/ur5221.py",
+    "UNIVERSITY/PastNotes/AUTO4507/ur5112.py",
     "Untitled.canvas"
   ]
 }

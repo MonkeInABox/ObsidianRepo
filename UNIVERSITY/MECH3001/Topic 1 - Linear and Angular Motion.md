@@ -17,7 +17,8 @@ $$v^{2}_{y}=v_{y0}^{2}-2g(y-y_{0})$$
 $$\mathbf{v}=ve_{t}=\rho\dot{\beta}e_{t}$$
 $$\mathbf{a}=\frac{v^{2}}{\rho}e_{n}+\dot{v}e_{t} | a_n=\frac{v^{2}}{\rho}$$
 ## Circular Motion
-$$v=r\dot{\theta}, a_{n}=\frac{v^{2}}{r}=r\dot{\theta}\dot{\theta}$$
+$$v_{r}=\dot r, v_{\theta}=r\dot{\theta}, a_{n}=\frac{v^{2}}{r}=r\dot{\theta}\dot{\theta}$$
+$$a_{r}=\ddot r - r \theta ^{2}, a_{\theta}=r \ddot \theta + 2\dot r \dot \theta$$
 ## Polar Coordinates (r-$\theta$)
 - Position vector $\mathbf{r}$
 $$\mathbf{r}=r\mathbf{e_r}$$
