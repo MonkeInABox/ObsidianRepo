@@ -1,3 +1,4 @@
+# Coordinate Systems
 ## Rectangular Coordinates
 - Good when x and y components are independently determined
 #### Vector Representation
@@ -33,3 +34,29 @@ $$\Sigma F=m\dot{v}=\dot{G}$$
 ## Angular Impulse and Momentum
 $$\mathbf{H}_{O}=\mathbf{r} \times m\mathbf v$$
 - Where H is angular momentum
+## Momentum of Point Mass
+$$\vec p = mv, F=\frac{d}{dt}\vec p$$
+$$\vec F = \vec{0} \implies \vec P = const$$
+- This is the momentum conservation principle
+# Newton's Laws
+1. No forces $\implies$ constant $v$, there exists an inertial coordinate system for which we can write first law (valid only in inertial coordinate system (not rotating and no accelerating))
+2. $\vec a \propto \vec F \implies m\vec a = \vec F$
+3. Reaction = - Action
+# Equivalence of Inertial and Gravitational Mass
+$$F =ma  \text{     vs.     } G = Mg$$
+- The equivalence principle
+	- *It's a MYSTERY~~~ in classical physics*
+
+# Spring System Example
+- box (m) with spring (k) pushing against wall
+$F_x$ acts on the box
+- Its shape doesn't affect our analysis, therefore we can treat it as a point mass
+$$\vec F=m\vec a$$
+$$\rightarrow ^{+}F_{x}=ma_{x}=m \ddot x = -kx$$
+$$\ddot x = \frac{-kx}{m} \longleftarrow \text{this is a differential eq}$$
+- Initial condition $\rightarrow x_{0} = 0, v_{0} =0$
+$$x(t) =x_{0}cos(\omega t) + \frac{v_{0}}{\omega}sin(\omega t) | \omega = \sqrt\frac{x}{m}$$
+$$\dot x = -x_{0}\omega sin(\omega t) + v_{0}cos(\omega t)$$
+$$\ddot x = -x\omega ^ {2}cos(\omega t) + v_{0}\omega sin(\omega t)$$
+$$m\ddot x = -kx_{0}cos(\omega t) - v_{0}\sqrt{km}sin(\omega t)$$
+$$m\ddot x = -k(x_{0}cos(\omega t) + \frac{v_{0}\sqrt{km}}{k}.sin(\omega t))=-kx | x(t) = x_{0}cos(\omega t)+\frac{v_0}{\omega}sin(\omega t)$$

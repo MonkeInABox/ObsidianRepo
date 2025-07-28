@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
+                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Topic 1 - Linear and Angular Motion"
+              "title": "Topic 2 - Kinetics of Systems of Particles"
             }
           }
         ]
@@ -184,12 +184,18 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
+    "UNIVERSITY/Notes Images/Pasted image 20250728145557.png",
+    "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
+    "UNIVERSITY/ELEC3016/2 Magnetic Effects.md",
+    "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
+    "UNIVERSITY/Notes Images/Pasted image 20250728142025.png",
+    "UNIVERSITY/Notes Images/Pasted image 20250728140212.png",
+    "UNIVERSITY/ELEC3016/1 Introduction and Fundamentals Review.md",
+    "UNIVERSITY/CITS3200/2 Project Management Boot Camp.md",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/7. Inverse Kinematics.md",
-    "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
     "UNIVERSITY/CITS3200/1 Project Management (Thales).md",
     "UNIVERSITY/CITS3011/1 Agents.md",
-    "UNIVERSITY/ELEC3016/1 Introduction and Fundamentals Review.md",
     "UNIVERSITY/Notes Images/Pasted image 20250721144222.png",
     "UNIVERSITY/Notes Images/Pasted image 20250721143810.png",
     "UNIVERSITY/Notes Images/Pasted image 20250721143639.png",
@@ -214,16 +220,9 @@
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/8.  9. Coordinate Frames and Transformations.md",
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/4. OpenGL Example Program.md",
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/3. Pipeline Architecture.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/4. Grey Scale.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/2. Binary Images.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/3. Fourier Transforms.md",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/12. Deep Learning.md",
     "UNIVERSITY/Notes Images/Pasted image 20250505100357.png",
     "UNIVERSITY/Notes Images/Pasted image 20250505100032.png",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250324104205.png",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250324103836.png",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250324103542.png",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250317105707.png",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/images",
     "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
