@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
+                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Denavit-Hartenberg"
+              "title": "Backlinks for Topic 2 - Kinetics of Systems of Particles"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
+                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Denavit-Hartenberg"
+              "title": "Outgoing links from Topic 2 - Kinetics of Systems of Particles"
             }
           },
           {
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/AUTO4507 Robot Manipulators/6. Denavit-Hartenberg.md",
+                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Denavit-Hartenberg"
+              "title": "Outline of Topic 2 - Kinetics of Systems of Particles"
             }
           },
           {
@@ -163,8 +163,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,14 +183,16 @@
   },
   "active": "35cd5a41f533ef75",
   "lastOpenFiles": [
-    "UNIVERSITY/Notes Images/Pasted image 20250728145557.png",
+    "UNIVERSITY/CITS3200/Minutes/Meeting 1.md",
+    "UNIVERSITY/CITS3200/2 3 Project Management Boot Camp.md",
+    "UNIVERSITY/CITS3200/Minutes",
     "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
-    "UNIVERSITY/ELEC3016/2 Magnetic Effects.md",
     "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
+    "UNIVERSITY/Notes Images/Pasted image 20250728145557.png",
+    "UNIVERSITY/ELEC3016/2 Magnetic Effects.md",
     "UNIVERSITY/Notes Images/Pasted image 20250728142025.png",
     "UNIVERSITY/Notes Images/Pasted image 20250728140212.png",
     "UNIVERSITY/ELEC3016/1 Introduction and Fundamentals Review.md",
-    "UNIVERSITY/CITS3200/2 Project Management Boot Camp.md",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/7. Inverse Kinematics.md",
     "UNIVERSITY/CITS3200/1 Project Management (Thales).md",
@@ -228,7 +229,6 @@
     "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
     "UNIVERSITY/PastNotes/AUTO4507/ur5shapedetect.py",
     "UNIVERSITY/PastNotes/AUTO4507/ur5221.py",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5112.py",
     "Untitled.canvas"
   ]
 }

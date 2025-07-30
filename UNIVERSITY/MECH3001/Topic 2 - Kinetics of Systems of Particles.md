@@ -23,5 +23,6 @@ $$\sum \mathbf M_{O}= \dot H_{O}$$
 $$\mathbf H_{G}= \sum \rho_{i}\times m_{i}\dot r_{i}$$
 - About an arbitrary point $p$, where $\rho '$ is the distance from $p$ to $G$
 $$\mathbf H_{p}=\mathbf H _{G}+\rho ' \times mv'$$
+$$L=I\omega=0.5mr^{2}\omega$$
 # Conservation of Energy and Momentum
 $$\Delta T + \Delta V = 0$$
