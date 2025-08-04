@@ -1,5 +1,5 @@
 ## Rational Agent
-- For each possible percept sequence a rational agent should select an action that is expected to maximise its performance measure.
+- For each possible precept sequence a rational agent should select an action that is expected to maximise its performance measure.
 - An agent perceives the environment and acts accordingly
 ## Task Environment
 - Performance, Environment, Actuators, Sensors (PEAS)
