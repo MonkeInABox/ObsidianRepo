@@ -1,7 +1,7 @@
 # Generalised Newton's Second Law
 - General mass system, modelled by considering n mass particles bounded by a closed surface in space
 $$m\mathbf r = \sum\limits m_{i}\mathbf r_{i}$$
-- Where $\mathbf r$ is the centre of mass $G$ 
+- Where $\mathbf r$ is the centre of mass $G$
 - $\sum F + \sum f = \sum m_{i}\ddot r_{i}$ 
 # Work-Energy
 $$\sum\limits (U_{1-2})_{i}= \sum \Delta T_{i}$$
