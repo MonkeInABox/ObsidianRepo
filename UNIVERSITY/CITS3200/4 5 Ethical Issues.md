@@ -87,3 +87,13 @@
 	- Honesty
 	- Competence
 	- Professional development
+# IP Issues
+- Copyright Act
+	- Complications: contracts, employer rights, student rights, shared rights, plagiarism, fair dealing, public domain, shareware, licences
+- GNU General Public Licence
+	- May copy and distribute source code
+	- May modify/add
+# AI Ethics Principles
+- Human, social and environmental well-being
+- Human centred Values
+- Fairness
