@@ -36,3 +36,17 @@ Virtual displacement is an infinitesimal imagined movement
 - No velocities therefore it is holonomic
 - Intensity of twisting effect depends on latitude angle
 - D'Alembert's principle introduces inertial force to virtual work to allow a description of this movement
+# 6 Kaleidocycles 
+- Mobility is number of independent input to control configuration of system
+- Equation cant be wrong but can be contrary to expectations (special geometry or internal mobility), combine revolute joints along parallel axis. 
+- Kaleidocycle: Symmetry around 3 axes, it gets an extra degree of motion. Mobius kaleidocycle has always 1 degree of freedom
+# 7 ?
+- Special geometries allow for parallel members to be treated as one link
+- Precise manufacturing is needed for a structures that are over constrained so they can still move, adds more stability, better load distribution
+- Issues with 3D equation is that it assumes it can move in all 6 freedoms, therefore can model constraints that the mechanism does not have
+# 8 !?
+- Slider crank turning rotary motion into linear reciprocating motion, transforms into 1 DOF
+# 9 its the same shit idk
+- Degree of constraint = 1 - m
+- To simplify to remove constraints: mechanisms with links running parallel, joints in series acting on different planes, multiple joints acting in the same plane
+# 10 
