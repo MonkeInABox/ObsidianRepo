@@ -11,10 +11,15 @@
             "id": "25cf7c22c443e9b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/MECH3001/Presentations 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Presentations 2"
             }
           }
         ]
@@ -74,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -178,6 +182,10 @@
   },
   "active": "25cf7c22c443e9b1",
   "lastOpenFiles": [
+    "UNIVERSITY/MECH3001/Student Presentations 1.md",
+    "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md",
+    "UNIVERSITY/MECH3001/Topic 4 - Mobility.md",
+    "UNIVERSITY/MECH3001/Presentations 2.md",
     "UNIVERSITY/CITS3200/4 5 Ethical Issues.md",
     "UNIVERSITY/CITS3200/2 3 Project Management Boot Camp.md",
     "UNIVERSITY/MECH3001/Topic 3 - Applied Dynamics.md",
@@ -212,10 +220,6 @@
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/17. Textures.md",
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/16. Shading in OpenGL.md",
     "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/15. Shading Models.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/14. Shading.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/13. 3D Hidden Surface Removal.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/12. Computer Viewing.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/10. 11. Input, Interaction and Callbacks.md",
     "UNIVERSITY/Notes Images/Pasted image 20250505100357.png",
     "UNIVERSITY/Notes Images/Pasted image 20250505100032.png",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250324104205.png",
