@@ -1,8 +1,10 @@
 {
-  "accentColor": "#1212ba",
+  "accentColor": "",
   "baseFontSize": 17,
-  "cssTheme": "W95",
-  "theme": "moonstone",
+  "cssTheme": "Material Gruvbox",
+  "theme": "obsidian",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "textFontFamily": "",
+  "nativeMenus": false
 }

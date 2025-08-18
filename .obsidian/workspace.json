@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "ffe0ac89069c8b95",
+    "id": "1b872691a2c25dd2",
     "type": "split",
     "children": [
       {
-        "id": "634719e67e71c880",
+        "id": "248bc81d9a04b198",
         "type": "tabs",
         "children": [
           {
-            "id": "25cf7c22c443e9b1",
+            "id": "f8d10bcbe87fab3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9c1a0975632059ca",
+    "id": "93eaffca60fd05a7",
     "type": "split",
     "children": [
       {
-        "id": "64513d2271c1d9cd",
+        "id": "31085ccb894249eb",
         "type": "tabs",
         "children": [
           {
-            "id": "76affa6f8098c2bb",
+            "id": "6597e2bb048d83b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "46f0d5dc5476bd36",
+            "id": "4d4a04c5dc3e78fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "850139f478155244",
+            "id": "1b983f324eb5196a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,52 +79,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "2fa1a31129388d7e",
+    "id": "e3ca854a6110857a",
     "type": "split",
     "children": [
       {
-        "id": "c3e9f5e9bd71f137",
+        "id": "e88adae5e4715203",
         "type": "tabs",
         "children": [
           {
-            "id": "443b8d4847aef1ed",
+            "id": "f4b9620b9ec76655",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
-                "collapseAll": true,
+                "file": "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Topic 2 - Kinetics of Systems of Particles"
+              "title": "Backlinks for 7 Foundations of Group Behaviour and Work Teams"
             }
           },
           {
-            "id": "cf5b4d1bc7d6d255",
+            "id": "c011953b6c8042e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
+                "file": "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Topic 2 - Kinetics of Systems of Particles"
+              "title": "Outgoing links from 7 Foundations of Group Behaviour and Work Teams"
             }
           },
           {
-            "id": "d3c50baec903fb57",
+            "id": "41da1c1ace2a32ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,28 +138,18 @@
             }
           },
           {
-            "id": "2568dd7f10c030a2",
+            "id": "e27ce66c17451d7a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
+                "file": "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topic 2 - Kinetics of Systems of Particles"
-            }
-          },
-          {
-            "id": "e14ea8861c97857c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of 7 Foundations of Group Behaviour and Work Teams"
             }
           }
         ]
@@ -181,54 +170,6 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "25cf7c22c443e9b1",
-  "lastOpenFiles": [
-    "UNIVERSITY/CITS3200/4 5 Ethical Issues.md",
-    "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md",
-    "UNIVERSITY/CITS3200/2 3 Project Management Boot Camp.md",
-    "UNIVERSITY/MECH3001/Student Presentations 1.md",
-    "UNIVERSITY/MECH3001/Topic 3 - Applied Dynamics.md",
-    "UNIVERSITY/CITS3011/2 Uninformed Searches.md",
-    "UNIVERSITY/CITS3011/1 Agents.md",
-    "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
-    "UNIVERSITY/CITS3200/Minutes/Meeting 1.md",
-    "UNIVERSITY/CITS3200/Minutes",
-    "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
-    "UNIVERSITY/Notes Images/Pasted image 20250728145557.png",
-    "UNIVERSITY/ELEC3016/2 Magnetic Effects.md",
-    "UNIVERSITY/Notes Images/Pasted image 20250728142025.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250728140212.png",
-    "UNIVERSITY/ELEC3016/1 Introduction and Fundamentals Review.md",
-    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/6. Forward Kinematics.md",
-    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/7. Inverse Kinematics.md",
-    "UNIVERSITY/CITS3200/1 Project Management (Thales).md",
-    "UNIVERSITY/Notes Images/Pasted image 20250721144222.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250721143810.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250721143639.png",
-    "UNIVERSITY/CITS3200/0 Introduction.md",
-    "UNIVERSITY/Notes Images/Pasted image 20250505100741.png",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/5. Vertex and Fragment Shaders.md",
-    "UNIVERSITY/CITS3011",
-    "UNIVERSITY/CITS3200",
-    "UNIVERSITY/ELEC3016",
-    "UNIVERSITY/MECH3001",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/7.  Vectors, Points and Scalars.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/1. Introduction.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/2. Programming With OpenGL.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/18. Texture Mapping.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/17. Textures.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/16. Shading in OpenGL.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/15. Shading Models.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/14. Shading.md",
-    "UNIVERSITY/PastNotes/CITS3003 Graphics and Animation/13. 3D Hidden Surface Removal.md",
-    "UNIVERSITY/Notes Images/Pasted image 20250505100357.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250505100032.png",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images/Pasted image 20250324104205.png",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images",
-    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/images",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5shapedetect.py",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5221.py",
-    "Untitled.canvas"
-  ]
+  "active": "f8d10bcbe87fab3a",
+  "lastOpenFiles": []
 }

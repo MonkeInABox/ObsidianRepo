@@ -20,4 +20,3 @@ $$\mathbf M = \sum^{j}_{i=1}f_{i}-6c$$
 $$c=j+1-n$$
 ## Idle Degrees of Freedom 
 - A degree of freedom that does not affect the input-output relationship of the linkage
-- 
