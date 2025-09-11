@@ -49,4 +49,23 @@ Virtual displacement is an infinitesimal imagined movement
 # 9 its the same shit idk
 - Degree of constraint = 1 - m
 - To simplify to remove constraints: mechanisms with links running parallel, joints in series acting on different planes, multiple joints acting in the same plane
-# 10 
+# 14 Kinematics in Rotating Reference Frames
+- real systems often rotate!
+- $$v = \dot{R}_{0}+ v_{rel}+ \Omega \times r, a = \ddot{R}_{0} + a_{rel}+2\Omega \times v_{rel} + \dot{\omega}\times r + \omega \times (\omega \times r)$$
+- Coriolis effect is the apparent deflection of a moving object due to observation within a rotating frame of reference
+- At the equator, velocity faster than at higher/lower latitude
+	- Influences how ocean currents and wind moves
+	- Always see hurricanes rotating clockwise from equator
+- Merry-go-round, apparent (rotational) vs inertial reference frame
+
+# 15 Film or whatever
+- The generalised acceleration formula can be simplified to the centripetal acceleration formula under certain circumstances
+
+# 16 IDK man (Rocket?)
+- F = ma only holds in inertial frame, can be introduced by adding r_0 vector
+- Coriolis accel = $2\omega \times \hat{v}_{rel}$ , which is the third term in the acceleration formula, and the fourth is the Euler and the last term is the centripetal acceleration
+
+# 17 bla bla who care
+- When translating, you need to take into account the R_0' and r, they aren't zero anymore!
+- The Coriolis acceleration and centrifugal acceleration when in the angular frame are fictitious
+

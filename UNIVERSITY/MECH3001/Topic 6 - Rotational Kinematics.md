@@ -26,5 +26,5 @@
 - Motion of Point (oxyz) with respect to OXYZ
 	- Position vector $\mathbf R (t) = \mathbf R_{0} (t) + \mathbf r (t)$ 
 	- Differential Operator $\frac{d}{dt} = (\frac{\delta}{\delta t})_{rel}+\omega$
-	- Velocity Vector $\mathbf v = \frac{d \mathbf R_{0}{dt}}+ \mathbf v_{rel} + \mathbf \omega \times \mathbf r$
+	- Velocity Vector $\mathbf v = \frac{d \mathbf R_{0}}{dt}+ \mathbf v_{rel} + \mathbf \omega \times \mathbf r$
 	- Acceleration Vector $$\mathbf a = \frac{d^{2}\mathbf R_{0}}{dt^{2}} + \mathbf a_{rel} + 2\mathbf \omega \times \mathbf v_{rel}+ \mathbf  \omega ' \times \mathbf r + \mathbf \omega \times (\mathbf \omega \times \mathbf r)$$
