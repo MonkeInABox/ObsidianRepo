@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md",
+                "file": "UNIVERSITY/CITS3200/Minutes/Meeting w Piers 20.08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "7 Foundations of Group Behaviour and Work Teams"
+              "title": "Meeting w Piers 20.08"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e3ca854a6110857a",
@@ -161,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,5 +173,9 @@
     }
   },
   "active": "f8d10bcbe87fab3a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "UNIVERSITY/MECH3001/Topic 5 - Kinematics.md",
+    "UNIVERSITY/CITS3200/Minutes/Meeting w Piers 20.08.md",
+    "UNIVERSITY/CITS3200/7 Foundations of Group Behaviour and Work Teams.md"
+  ]
 }
