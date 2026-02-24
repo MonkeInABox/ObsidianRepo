@@ -11,10 +11,15 @@
             "id": "fa07162d1b1c9137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/ELEC5506/1.1 Lecture 1 - PLC Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.1 Lecture 1 - PLC Introduction"
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -176,17 +182,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "76affa6f8098c2bb",
+  "active": "fa07162d1b1c9137",
   "lastOpenFiles": [
+    "Pasted image 20260224100932.png",
+    "Pasted image 20260224100118.png",
+    "Pasted image 20260224100059.png",
+    "Pasted image 20260224095705.png",
+    "Pasted image 20260224095412.png",
+    "Pasted image 20260224094400.png",
+    "UNIVERSITY/Honours/1.0 Week 1.md",
+    "UNIVERSITY/ELEC5506/1.1 Lecture 1 - PLC Introduction.md",
+    "UNIVERSITY/AUTO4508/1.0 Lecture 1.md",
+    "Untitled.base",
+    "UNIVERSITY/AUTO4508",
+    "UNIVERSITY/ELEC5506",
+    "UNIVERSITY/GENG5507",
+    "UNIVERSITY/Honours",
+    "UNIVERSITY/Notes Images/Pasted image 20250911093044.png",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "UNIVERSITY/PastNotes/ELEC3016/7 Synchronous Machines.md",
     "UNIVERSITY/PastNotes/ELEC3016/6 Transformers.md",
-    "Pasted image 20250911093650.png",
-    "Pasted image 20250911093311.png",
-    "Pasted image 20250911093305.png",
-    "Pasted image 20250911093044.png",
+    "UNIVERSITY/Notes Images/Pasted image 20250911093650.png",
+    "UNIVERSITY/Notes Images/Pasted image 20250911093311.png",
+    "UNIVERSITY/Notes Images/Pasted image 20250911093305.png",
     "UNIVERSITY/PastNotes/MECH3001/Topic 7 - Introduction to Analytical Dynamics.md",
     "UNIVERSITY/PastNotes/CITS3200/Minutes/Meeting 7.md",
     "UNIVERSITY/PastNotes/CITS3200/Minutes/Meeting 6 - With Mentor.md",
@@ -207,23 +226,10 @@
     "UNIVERSITY/PastNotes/CITS3011/4 Game Playing.md",
     "UNIVERSITY/PastNotes/MECH3001/Topic 4 - Mobility.md",
     "UNIVERSITY/MECH3001/Presentations 2.md",
-    "UNIVERSITY/PastNotes/MECH3001/Topic 3 - Applied Dynamics.md",
-    "UNIVERSITY/PastNotes/CITS3011/2 Uninformed Searches.md",
-    "UNIVERSITY/PastNotes/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
     "UNIVERSITY/PastNotes/CITS3200/Minutes",
     "UNIVERSITY/Notes Images/Pasted image 20250728145557.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250728142025.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250728140212.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250721144222.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250721143810.png",
-    "UNIVERSITY/Notes Images/Pasted image 20250721143639.png",
     "UNIVERSITY/PastNotes/CITS3011",
     "UNIVERSITY/PastNotes/CITS3200",
-    "UNIVERSITY/PastNotes/ELEC3016",
-    "UNIVERSITY/PastNotes/MECH3001",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images",
-    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/images",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
     "Untitled.canvas"
   ]
 }
