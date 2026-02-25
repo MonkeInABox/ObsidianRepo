@@ -69,3 +69,25 @@ Virtual displacement is an infinitesimal imagined movement
 - When translating, you need to take into account the R_0' and r, they aren't zero anymore!
 - The Coriolis acceleration and centrifugal acceleration when in the angular frame are fictitious
 
+# 18 i think
+- Non conservative forces are path dependent
+- make a gif.com
+- We can also use Lagrangian systems to model free falling systems such as a basketball.
+
+# 19 
+- Good description of why Lagrangian is better for systems with multiple degrees of freedom
+- Attaching ring of people to a rod
+- Adding a rotational damper is a good way to model friction
+- zac zammit appearance
+# 20 
+- Can use Rayleigh dissipation term to give a generalised dampening torque
+	- This can be added to the Euler-Lagrange
+- Explained the components of the equation of motion very well
+- slosh angle
+- Really good application back to real world
+
+# 26 - Plane
+- Plane gyrsocope
+
+# 27 - bullet
+- 
