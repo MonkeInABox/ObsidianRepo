@@ -1,0 +1,38 @@
+- y-axis is percentage (frequency)
+- x-axis is grain size in microns, logarithmic (10-5000ish)
+- tick box for making all y-axis the same scale
+- Each graph has group
+	- Maybe have an option to show all locations for one group
+- options for different numbers of groups
+	- for graphs and maps
+	- Be able to export as
+		- good quality
+		- ability to tweak graph
+			- control click to remove points
+- click on grabbing certain points and plot them
+	- individual lines
+	- maybe need satellite then?
+	- history needed in google earth????
+		- DEFINITELY NEEDED
+- needs:
+	- grabbed points data
+	- different groups
+	- add points from different groups
+	- plot a specific group
+		- use maps to add and remove points
+	- look at map click on things and look at graph
+	- think about visual clarity
+	- highlights certain groups
+	- add arrows for visual help
+	- different scales, have a scale indicator (north etc)
+		- measure distance between points
+		- choose areas? measure these areas?
+			- automatically show 1 group etc
+- lat and long +/- 10m error
+	- sometimes in different units
+- Sometimes there will be no lat-long/they all have the same (temporal/depth)
+	- might be multiple cores
+	- series of profiles for one location
+	- depth in sample name
+	- all the ones at a certain depth(?)
+	- together with spatial?
