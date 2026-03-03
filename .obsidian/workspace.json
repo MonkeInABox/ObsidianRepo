@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa48845a5426a2d",
+        "id": "b3aa20c4d2a39ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "1335bfd9e5352811",
+            "id": "7807ce0f438b7880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/CITS3011/10 Modern Language Agents.md",
+                "file": "UNIVERSITY/ELEC5506/1.1 Lecture 1, 2 - PLC Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "10 Modern Language Agents"
+              "title": "1.1 Lecture 1, 2 - PLC Introduction"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.0110321044922
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -181,11 +181,33 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1335bfd9e5352811",
+  "active": "7807ce0f438b7880",
   "lastOpenFiles": [
-    "UNIVERSITY/CITS3011/9 Reinforcement Learning.md",
-    "UNIVERSITY/CITS3011/8 Sequential Decision Problems.md",
-    "UNIVERSITY/CITS3011/7 Learning Agents.md",
+    "UNIVERSITY/AUTO4508/1.2 Robot APIs.md",
+    "UNIVERSITY/GENG5507/1.SL - Probability Basics.md",
+    "Pasted image 20260227115109.png",
+    "UNIVERSITY/AUTO4508/1.1 Encoders and Motors.md",
+    "Pasted image 20260227110904.png",
+    "UNIVERSITY/GENG5507/1.EW - Intro & Piper Alpha.md",
+    "UNIVERSITY/ELEC5506/1.1 Lecture 1, 2 - PLC Introduction.md",
+    "UNIVERSITY/Honours/1.2 Efficient Deep LiDAR Odometry.md",
+    "UNIVERSITY/GENG5507",
+    "UNIVERSITY/Notes Images/Pasted image 20260226132610.png",
+    "UNIVERSITY/Honours/1.1 Automotive LiDAR.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260226125445.png",
+    "Untitled.base",
+    "UNIVERSITY/Notes Images/Pasted image 20260225134530.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260225134251.png",
+    "UNIVERSITY/Honours/1.0 Week 1.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260225084502.png",
+    "UNIVERSITY/AUTO4508/1.0 Lecture 1.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260224100932 1.png",
+    "UNIVERSITY/Notes Images/Pasted image 20251020110536.png",
+    "UNIVERSITY/Notes Images/Pasted image 20251020111349.png",
+    "UNIVERSITY/PastNotes/CITS3011/10 Modern Language Agents.md",
+    "UNIVERSITY/PastNotes/CITS3011/9 Reinforcement Learning.md",
+    "UNIVERSITY/PastNotes/CITS3011/8 Sequential Decision Problems.md",
+    "UNIVERSITY/PastNotes/CITS3011/7 Learning Agents.md",
     "UNIVERSITY/CITS3011/6 Probabilistic Reasoning.md",
     "UNIVERSITY/CITS3011/5 Uncertainty.md",
     "UNIVERSITY/CITS3011/4 Game Playing.md",
@@ -193,42 +215,20 @@
     "UNIVERSITY/CITS3011/2 Uninformed Searches.md",
     "UNIVERSITY/CITS3011/1 Agents.md",
     "UNIVERSITY/MECH3001/Topic 1 - Linear and Angular Motion.md",
-    "UNIVERSITY/MECH3001/Topic 12 - Bicycle.md",
-    "UNIVERSITY/MECH3001/Topic 11 - 3D Dynamics.md",
-    "UNIVERSITY/MECH3001/Topic 10 - Euler's and Angular Moment.md",
-    "UNIVERSITY/MECH3001/Topic 9 - Moments of Inertia.md",
-    "UNIVERSITY/MECH3001/Topic 8 - Continuation of Analytical Dynamics.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 12 - Bicycle.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 11 - 3D Dynamics.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 10 - Euler's and Angular Moment.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 9 - Moments of Inertia.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 8 - Continuation of Analytical Dynamics.md",
     "UNIVERSITY/MECH3001/Topic 7 - Introduction to Analytical Dynamics.md",
-    "UNIVERSITY/MECH3001/Topic 6 - Rotational Kinematics.md",
-    "UNIVERSITY/MECH3001/Topic 4 - Mobility.md",
-    "UNIVERSITY/MECH3001/Topic 3 - Applied Dynamics.md",
-    "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
-    "UNIVERSITY/MECH3001/Student Presentations.md",
-    "Pasted image 20251020111349.png",
-    "Pasted image 20251020110820.png",
-    "Pasted image 20251020110536.png",
-    "UNIVERSITY/ELEC3016/8 Induction Machines.md",
-    "UNIVERSITY/ELEC3016/7 Synchronous Machines.md",
-    "UNIVERSITY/ELEC3016/6 Transformers.md",
-    "UNIVERSITY/ELEC3016/2 Magnetic Effects.md",
-    "UNIVERSITY/ELEC3016/1 Introduction and Fundamentals Review.md",
-    "UNIVERSITY/Notes Images/Pasted image 20251016150913.png",
-    "UNIVERSITY/Notes Images/Pasted image 20251016150846.png",
-    "UNIVERSITY/Notes Images/Pasted image 20251016145410.png",
-    "UNIVERSITY/Notes Images/Pasted image 20251016144134.png",
-    "UNIVERSITY/Notes Images/Pasted image 20251016141936.png",
-    "UNIVERSITY/Notes Images/Pasted image 20251016141644.png",
-    "UNIVERSITY/Notes Images/Pasted image 20251014144548.png",
     "UNIVERSITY/CITS3200/Minutes",
-    "UNIVERSITY/CITS3011",
+    "UNIVERSITY/PastNotes/CITS3011",
     "UNIVERSITY/CITS3200",
-    "UNIVERSITY/ELEC3016",
-    "UNIVERSITY/MECH3001",
+    "UNIVERSITY/PastNotes/ELEC3016",
+    "UNIVERSITY/PastNotes/MECH3001 1",
     "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images",
     "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/images",
     "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5shapedetect.py",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5221.py",
     "Untitled.canvas"
   ]
 }
