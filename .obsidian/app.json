@@ -9,5 +9,6 @@
   },
   "showInlineTitle": true,
   "showLineNumber": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showIndentGuide": false
 }
