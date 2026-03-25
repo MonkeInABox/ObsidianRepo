@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/AUTO4508/4.2 Localisation.md",
+                "file": "UNIVERSITY/GENG5507/4.SL - Model Estimation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Localisation"
+              "title": "4.SL - Model Estimation"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.0110321044922
+    "width": 297.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -183,20 +184,21 @@
   },
   "active": "df51081af47c74f5",
   "lastOpenFiles": [
-    "UNIVERSITY/AUTO4508/4.1 Navigation.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260324051309.png",
-    "UNIVERSITY/AUTO4508/4.2 Localisation.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260324053013.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324053002.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324053000.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324052823.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324052811.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324052751.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324052717.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324052618.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260324052349.png",
-    "UNIVERSITY/AUTO4508/5.1 Mapping.md",
+    "UNIVERSITY/GENG5507/5.PW - Maintenance.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260325134310.png",
     "UNIVERSITY/GENG5507/4.SL - Model Estimation.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260325134258.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325134236.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325134041.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325133659.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325133634.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325133151.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325132759.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325132606.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260325132323.png",
+    "UNIVERSITY/AUTO4508/4.2 Localisation.md",
+    "UNIVERSITY/AUTO4508/4.1 Navigation.md",
+    "UNIVERSITY/AUTO4508/5.1 Mapping.md",
     "UNIVERSITY/GENG5507/3.SL - Hazard Rate and MTTF.md",
     "UNIVERSITY/ELEC5506/5.1 Lecture 8 - Displays and Alarms - Guest Lecture.md",
     "Untitled.md",
@@ -218,7 +220,6 @@
     "UNIVERSITY/GENG5507/1.SL - Probability Basics.md",
     "UNIVERSITY/GENG5507/2.EW - Applying the Risk Management Process - Driverless Car.md",
     "UNIVERSITY/GENG5507/2.PW - Risk Analysis.md",
-    "UNIVERSITY/ELEC5506/1.1 Lecture 1, 2 - PLC Introduction.md",
     "UNIVERSITY/GENG5507",
     "UNIVERSITY/CITS3200/Minutes",
     "UNIVERSITY/PastNotes/CITS3011",
