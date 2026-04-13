@@ -3,5 +3,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-auto-link-title",
   "convert-url-to-iframe",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-pandoc",
+  "obsidian-icon-folder",
+  "obsidian-style-settings"
 ]

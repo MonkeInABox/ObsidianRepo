@@ -1,0 +1,19 @@
+{
+  "selectedBackground": "backgrounds/summerbg-2.png",
+  "pets": [
+    {
+      "id": "pets/grey-bunny-1",
+      "type": "pets/grey-bunny",
+      "name": "evil jon"
+    }
+  ],
+  "nextPetIdCounters": {
+    "pets/egypt-cat": 1,
+    "pets/grey-bunny": 2,
+    "pets/three-cat": 1,
+    "pets/classic-cat": 1
+  },
+  "overlayMode": true,
+  "indexedFiles": {},
+  "petSize": 1.4
+}

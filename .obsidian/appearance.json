@@ -1,10 +1,11 @@
 {
-  "accentColor": "#735b7b",
+  "accentColor": "",
   "baseFontSize": 17,
-  "cssTheme": "Wikipedia",
+  "cssTheme": "W95",
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
-  "textFontFamily": "",
-  "nativeMenus": false
+  "textFontFamily": "Gadugi",
+  "nativeMenus": false,
+  "interfaceFontFamily": "Consolas"
 }

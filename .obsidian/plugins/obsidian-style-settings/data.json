@@ -1,0 +1,14 @@
+{
+  "w95-display-props@@w95-display-themes": "w95-reactionary",
+  "wikipedia-theme@@hide-frontmatter": true,
+  "retroma-obsidian-theme@@theme-variant": "theme-variant-2",
+  "retroma-obsidian-theme@@window-border-radius": "0px",
+  "retroma-obsidian-theme@@button-border-radius": "6px",
+  "retroma-obsidian-theme@@theme-color-scheme-selection": "cs-split-complementary-colors",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
+  "flexcyon@@flexcyon-rtz-mode": false,
+  "flexcyon@@flexcyon-flex-max-mode": true,
+  "flexcyon@@flexcyon-typewriter-mode": false,
+  "MicroMike@@palette": "accentMicroMike"
+}

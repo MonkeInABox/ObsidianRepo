@@ -10,5 +10,5 @@
   "showInlineTitle": true,
   "showLineNumber": false,
   "readableLineLength": true,
-  "showIndentGuide": false
+  "showIndentGuide": true
 }
