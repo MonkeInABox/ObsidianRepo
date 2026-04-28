@@ -49,33 +49,66 @@ Reference: [PackML: The Packaging Machine Language Driving Automation](https://w
 - IDLE : RESETTING complete, until STARTING
 	  NOTHING IS HAPPENING - ALL LOW
 - STARTING : when a command is given, steps to start EXECUTION
+	  TRIGGERED AT Start_PB
 	  INITIALISE SENSORS
 	  START UP CONVEYOR
 - SUSPENDING : brough to controlled SUSPENDED, status saved
+	  if:
+		  Low_FLuid_A
+		  Low_Fluid_B
+		  Conveyor_Fault
+		  Valve_A_FB
+		  Valve_B_FB
+		  Infeed_Block_Sensor
+		  Outfeed_Block_Sensor
+		  Zero_Speed_SW
 	  REMAIN IN CURRENT STATE
+	  Stack_Light_Amber
 	  TURN OFF FILLING AND CONVEYOR
 - SUSPENDED : once process conditions are normal moves to UNSUS
 	  REMAIN IN CURRENT STATE
+	  Stack_Light_Amber
 	  TURN OFF FILLING AND CONVEYOR
 - UNSUSPENDING : transition from SUSPENDED to EXECUTE
 	  MAKE SURE SENSORS ARE CORRECT IN CURRENT STATE
+	  if not:
+		  Low_FLuid_A
+		  Low_Fluid_B
+		  Conveyor_Fault
+		  Valve_A_FB
+		  Valve_B_FB
+		  Infeed_Block_Sensor
+		  Outfeed_Block_Sensor
+		  Zero_Speed_SW
 - EXECUTE : performing the required action
-	  WAIT FOR CONTAINER ON CONVEYOR
+	  WAIT FOR CONTAINER ON CONVEYOR - Infeed_Prox
 	  TURN ON CONVEYOR TO MOVE UNTIL AT FILLING STATION
+		  Fill_Pos_Sensor
+		  Red_Container_Sensor
+		  Blue_Container_Sensor
 		  NEEDS TO MOVE TO CORRECT FILLING STATION
 	  TURN OFF CONVEYOR WHEN APPROPRIATE FILL SENSOR TRIGGERED
 	  TURN ON APPROPRIATE SOLENOID ONCE SENSOR HIGH
+		  Until Level_Full_Sensor
 	  TURN BACK ON CONVEYOR
 	  TURN OFF CONVEYOR ONCE SENSOR AT END TRIGGERED
+		  Exit_Sensor
+		  Robot_Pick_Ready
 - STOPPING : bring to controlled stop, until RESETTING takes place
+	  TRIGGERED AT Stop_PB
 	  TURN OFF FILLING
 	  TURN OFF CONVEYOR
 	  DECELERATE
 - ABORTING : rapid safe stop
+	  TRIGGERED AT Abort_PB
 	  TURN OFF FILLING 
+	  Alarm_Lamp
+	  Stack_Light_Red
 	  TURN OFF CONVEYOR
 - ABORTED : only exit after a CLEAR command
 	  NOTHING ON
+	  Alarm_Lamp
+	  Stack_Light_Red
 	  MUST RECEIVE A CLEAR OR RESET COMMAND
 - HOLDING : minor STOP
 	  STOP FILLING 
@@ -88,6 +121,7 @@ Reference: [PackML: The Packaging Machine Language Driving Automation](https://w
 - COMPLETE : until RESET
 	  NO NEW ITEMS LEFT ON CONVEYOR
 - RESETTING : transition to IDLE
+	  TRIGGERED AT Reset_PB
 	  AFTER UN-STOPPED
 	  RESET ALL SENSORS TO LOW
 	  TURN OFF CONVEYOR
