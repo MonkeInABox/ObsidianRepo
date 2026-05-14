@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/AUTO4508/7.2 Artificial Intelligence - GA.md",
+                "file": "UNIVERSITY/GENG5507/11.EW Incident Investigation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "7.2 Artificial Intelligence - GA"
+              "title": "11.EW Incident Investigation"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -143,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/AUTO4508/7.2 Artificial Intelligence - GA.md",
+                "file": "UNIVERSITY/GENG5507/11.EW Incident Investigation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.2 Artificial Intelligence - GA"
+              "title": "Outline of 11.EW Incident Investigation"
             }
           },
           {
@@ -183,20 +184,31 @@
   },
   "active": "6298f13e09f6f757",
   "lastOpenFiles": [
-    "UNIVERSITY/AUTO4508/8.1 Mobile Walking.md",
+    "UNIVERSITY/GENG5507/10.EW Fault Tree Analysis.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260514141024.png",
+    "UNIVERSITY/GENG5507/11.EW Incident Investigation.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260514141209.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260514141150.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260514141132.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260514141120.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260514141052.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260507152756.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260507151654.png",
+    "UNIVERSITY/GENG5507/4.EW - What is Reliability - Designing an Electronics System.md",
+    "UNIVERSITY/GENG5507/3.SL - Hazard Rate and MTTF.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260507135455.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260507135440.png",
+    "UNIVERSITY/GENG5507/9.PW Functional Safety.md",
+    "UNIVERSITY/ELEC5506/10.1 - Examples.md",
+    "UNIVERSITY/ELEC5506/9.1 PID Controllers.md",
     "UNIVERSITY/AUTO4508/7.2 Artificial Intelligence - GA.md",
+    "UNIVERSITY/AUTO4508/8.1 Mobile Walking.md",
     "UNIVERSITY/AUTO4508/4.1 Navigation.md",
     "UNIVERSITY/AUTO4508/3.2 Navigation 1.md",
     "UNIVERSITY/AUTO4508/3.0 Driving Robots.md",
     "UNIVERSITY/AUTO4508/2.0 ROS Basics.md",
     "UNIVERSITY/GENG5507/9.EW Functional Safety - BHP Guy.md",
-    "UNIVERSITY/GENG5507/9.PW Functional Safety.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260430145344.png",
     "UNIVERSITY/GENG5507/8.PW - Process Safety Management.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260430144623.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260430144559.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260430144541.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260430142748.png",
     "UNIVERSITY/AUTO4508/8.2 Mobile Robots - AUV and UAV.md",
     "UNIVERSITY/AUTO4508/7.1 Artificial Intelligence Neural Networks.md",
     "UNIVERSITY/AUTO4508/6.1 Vision.md",
@@ -206,18 +218,7 @@
     "UNIVERSITY/AUTO4508/1.2 Robot APIs.md",
     "UNIVERSITY/AUTO4508/1.1 Encoders and Motors.md",
     "UNIVERSITY/AUTO4508/1.0 Lecture 1.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260429124700.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260429124650.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260429124641.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260429124138.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260429114106.png",
     "UNIVERSITY/Honours/1.1 Automotive LiDAR.md",
-    "UNIVERSITY/ELEC5506/9.1 PID Controllers.md",
-    "UNIVERSITY/ELEC5506/8.2 Diagrams and Continuous Control.md",
-    "UNIVERSITY/ELEC5506/7.2 Op-Amp Example and Errors.md",
-    "UNIVERSITY/ELEC5506/x.1 PackML Standards w.r.t. Assignment.md",
-    "Untitled.md",
-    "UNIVERSITY/ELEC5506/7.1 Signal Conditioning - Examples.md",
     "Untitled.base",
     "UNIVERSITY/GENG5507",
     "UNIVERSITY/CITS3200/Minutes",
