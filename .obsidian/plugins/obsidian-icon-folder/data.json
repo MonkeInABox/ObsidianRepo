@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMusic",
+      "LiRulerDimensionLine",
       "LiUniversity",
       "LiRoute",
-      "LiActivity",
-      "LiAlertOctagon",
-      "LiAudioWaveform"
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
+  "UNIVERSITY": "LiUniversity",
+  "UNIVERSITY/PastNotes/AUTO4508": "LiRoute",
+  "UNIVERSITY/PastNotes/ELEC5506": "LiActivity",
+  "UNIVERSITY/PastNotes/GENG5507": "LiAlertOctagon",
+  "UNIVERSITY/MECH3424 Measurement & Instrumentation": "LiRulerDimensionLine",
   "UNIVERSITY/Honours": "LiAudioWaveform",
-  "UNIVERSITY/GENG5507": "LiAlertOctagon",
-  "UNIVERSITY/ELEC5506": "LiActivity",
-  "UNIVERSITY/AUTO4508": "LiRoute",
-  "UNIVERSITY": "LiUniversity"
+  "UNIVERSITY/GENG5505 Project Management": "LiRoute",
+  "UNIVERSITY/MUSC1055 Electronic Music Methods and Means": "LiMusic"
 }

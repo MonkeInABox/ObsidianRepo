@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6298f13e09f6f757",
+            "id": "e3439b50b7807f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG5507/11.EW Incident Investigation.md",
+                "file": "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11.EW Incident Investigation"
+              "title": "2. Organisational Capability"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -144,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG5507/11.EW Incident Investigation.md",
+                "file": "UNIVERSITY/GENG5507/12.PW Safety Case.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11.EW Incident Investigation"
+              "title": "Outline of 12.PW Safety Case"
             }
           },
           {
@@ -168,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,53 +182,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6298f13e09f6f757",
+  "active": "76affa6f8098c2bb",
   "lastOpenFiles": [
-    "UNIVERSITY/GENG5507/10.EW Fault Tree Analysis.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260514141024.png",
-    "UNIVERSITY/GENG5507/11.EW Incident Investigation.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260514141209.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260514141150.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260514141132.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260514141120.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260514141052.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260507152756.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260507151654.png",
-    "UNIVERSITY/GENG5507/4.EW - What is Reliability - Designing an Electronics System.md",
-    "UNIVERSITY/GENG5507/3.SL - Hazard Rate and MTTF.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260507135455.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260507135440.png",
-    "UNIVERSITY/GENG5507/9.PW Functional Safety.md",
-    "UNIVERSITY/ELEC5506/10.1 - Examples.md",
-    "UNIVERSITY/ELEC5506/9.1 PID Controllers.md",
-    "UNIVERSITY/AUTO4508/7.2 Artificial Intelligence - GA.md",
-    "UNIVERSITY/AUTO4508/8.1 Mobile Walking.md",
-    "UNIVERSITY/AUTO4508/4.1 Navigation.md",
-    "UNIVERSITY/AUTO4508/3.2 Navigation 1.md",
-    "UNIVERSITY/AUTO4508/3.0 Driving Robots.md",
-    "UNIVERSITY/AUTO4508/2.0 ROS Basics.md",
-    "UNIVERSITY/GENG5507/9.EW Functional Safety - BHP Guy.md",
-    "UNIVERSITY/GENG5507/8.PW - Process Safety Management.md",
-    "UNIVERSITY/AUTO4508/8.2 Mobile Robots - AUV and UAV.md",
-    "UNIVERSITY/AUTO4508/7.1 Artificial Intelligence Neural Networks.md",
-    "UNIVERSITY/AUTO4508/6.1 Vision.md",
-    "UNIVERSITY/AUTO4508/5.1 Mapping.md",
-    "UNIVERSITY/AUTO4508/4.2 Localisation.md",
-    "UNIVERSITY/AUTO4508/3.1 Kinematics.md",
-    "UNIVERSITY/AUTO4508/1.2 Robot APIs.md",
-    "UNIVERSITY/AUTO4508/1.1 Encoders and Motors.md",
-    "UNIVERSITY/AUTO4508/1.0 Lecture 1.md",
-    "UNIVERSITY/Honours/1.1 Automotive LiDAR.md",
+    "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
+    "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260728154458.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728120842.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260728143507.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728142644.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728142400.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728141211.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728131709.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728131653.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728131630.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260728131339.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1. Measurement Terminology.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.WS.md",
+    "UNIVERSITY/Honours/Setting up Simulation.md",
+    "UNIVERSITY/Honours/4.1 Meeting.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Tutorial.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Q.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 8 - Continuation of Analytical Dynamics.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Topic 9 - Moments of Inertia.md",
+    "UNIVERSITY/PastNotes/MECH3001 1/Student Presentations.md",
+    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/1. A Brief History of Electronic Music.md",
+    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means",
+    "UNIVERSITY/Honours/3.2 Coherent Point Drift with Skewed Distribution for Accurate Point Cloud Registration.md",
+    "UNIVERSITY/Honours/3.1 Meeting.md",
+    "UNIVERSITY/Honours/2.1 Kieran PhD Literary Review Ch. 6.md",
+    "UNIVERSITY/Honours/1.2 Efficient Deep LiDAR Odometry.md",
+    "UNIVERSITY/GENG5505 Project Management",
+    "UNIVERSITY/PastNotes/GENG5507/12.PW Safety Case.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation",
+    "UNIVERSITY/PastNotes/GENG5507/11.PW Incident Investigation.md",
+    "UNIVERSITY/PastNotes/GENG5507/11.EW Incident Investigation.md",
+    "UNIVERSITY/PastNotes/GENG5507/10.EW Fault Tree Analysis.md",
+    "UNIVERSITY/PastNotes/GENG5507/9.PW Functional Safety.md",
+    "UNIVERSITY/PastNotes/GENG5507/9.EW Functional Safety - BHP Guy.md",
+    "UNIVERSITY/PastNotes/GENG5507/8.PW - Process Safety Management.md",
+    "UNIVERSITY/PastNotes/GENG5507/6.EW - Risks of Using AI and Data Driven Methods For Risk Assessment.md",
     "Untitled.base",
-    "UNIVERSITY/GENG5507",
+    "UNIVERSITY/PastNotes/GENG5507",
     "UNIVERSITY/CITS3200/Minutes",
     "UNIVERSITY/PastNotes/CITS3011",
     "UNIVERSITY/CITS3200",
     "UNIVERSITY/PastNotes/ELEC3016",
     "UNIVERSITY/PastNotes/MECH3001 1",
-    "UNIVERSITY/PastNotes/CITS4402 Computer Vision/images",
-    "UNIVERSITY/PastNotes/AUTO4507 Robot Manipulators/images",
-    "UNIVERSITY/PastNotes/AUTO4507/ur5_camera.py",
     "Untitled.canvas"
   ]
 }
