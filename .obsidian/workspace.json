@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
+                "file": "UNIVERSITY/Honours/Setting up Simulation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. Organisational Capability"
+              "title": "Setting up Simulation"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG5507/9.EW Functional Safety - BHP Guy.md",
+                "file": "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9.EW Functional Safety - BHP Guy"
+              "title": "Backlinks for 3. Stakeholder Management"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/MECH3001/Topic 2 - Kinetics of Systems of Particles.md",
+                "file": "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Topic 2 - Kinetics of Systems of Particles"
+              "title": "Outgoing links from 3. Stakeholder Management"
             }
           },
           {
@@ -143,23 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/GENG5507/12.PW Safety Case.md",
+                "file": "UNIVERSITY/Honours/Setting up Simulation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12.PW Safety Case"
-            }
-          },
-          {
-            "id": "e14ea8861c97857c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "title": "Outline of Setting up Simulation"
             }
           }
         ],
@@ -167,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,31 +171,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "76affa6f8098c2bb",
+  "active": "e3439b50b7807f0d",
   "lastOpenFiles": [
-    "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
-    "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260728154458.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728120842.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260728143507.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728142644.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728142400.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728141211.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728131709.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728131653.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728131630.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260728131339.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1. Measurement Terminology.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.WS.md",
+    "UNIVERSITY/Honours/convertlidar.md",
     "UNIVERSITY/Honours/Setting up Simulation.md",
-    "UNIVERSITY/Honours/4.1 Meeting.md",
+    "UNIVERSITY/Honours/to run convertLidarData.py.md",
+    "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
+    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/1. A Brief History of Electronic Music.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260730134003.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730130548.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730130350.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730125703.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730120211.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.Tutorial.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260730122057.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730121842.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730121727.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730120932.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260730120256.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.WS.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Tutorial.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Q.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
+    "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
+    "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1. Measurement Terminology.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.WS.md",
+    "UNIVERSITY/Honours/4.1 Meeting.md",
     "UNIVERSITY/PastNotes/MECH3001 1/Topic 8 - Continuation of Analytical Dynamics.md",
     "UNIVERSITY/PastNotes/MECH3001 1/Topic 9 - Moments of Inertia.md",
     "UNIVERSITY/PastNotes/MECH3001 1/Student Presentations.md",
-    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/1. A Brief History of Electronic Music.md",
     "UNIVERSITY/MUSC1055 Electronic Music Methods and Means",
     "UNIVERSITY/Honours/3.2 Coherent Point Drift with Skewed Distribution for Accurate Point Cloud Registration.md",
     "UNIVERSITY/Honours/3.1 Meeting.md",
@@ -217,11 +211,6 @@
     "UNIVERSITY/MECH3424 Measurement & Instrumentation",
     "UNIVERSITY/PastNotes/GENG5507/11.PW Incident Investigation.md",
     "UNIVERSITY/PastNotes/GENG5507/11.EW Incident Investigation.md",
-    "UNIVERSITY/PastNotes/GENG5507/10.EW Fault Tree Analysis.md",
-    "UNIVERSITY/PastNotes/GENG5507/9.PW Functional Safety.md",
-    "UNIVERSITY/PastNotes/GENG5507/9.EW Functional Safety - BHP Guy.md",
-    "UNIVERSITY/PastNotes/GENG5507/8.PW - Process Safety Management.md",
-    "UNIVERSITY/PastNotes/GENG5507/6.EW - Risks of Using AI and Data Driven Methods For Risk Assessment.md",
     "Untitled.base",
     "UNIVERSITY/PastNotes/GENG5507",
     "UNIVERSITY/CITS3200/Minutes",
