@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/Honours/Setting up Simulation.md",
+                "file": "UNIVERSITY/MECH3424 Measurement & Instrumentation/3.WS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Setting up Simulation"
+              "title": "3.WS"
             }
           }
         ]
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -143,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/Honours/Setting up Simulation.md",
+                "file": "UNIVERSITY/MECH3424 Measurement & Instrumentation/3.WS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Setting up Simulation"
+              "title": "Outline"
             }
           }
         ],
@@ -173,30 +175,35 @@
   },
   "active": "e3439b50b7807f0d",
   "lastOpenFiles": [
-    "UNIVERSITY/Honours/convertlidar.md",
-    "UNIVERSITY/Honours/Setting up Simulation.md",
-    "UNIVERSITY/Honours/to run convertLidarData.py.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260805140947.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/3.WS.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260805153505.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805153503.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805151638.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805151111.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805145916.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805145535.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805144613.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805143601.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/3. Signal Conditioning.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260805142230.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260805142043.png",
+    "UNIVERSITY/GENG5505 Project Management/5. Time Management.md",
+    "UNIVERSITY/GENG5505 Project Management/4. Scope Management.md",
     "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
-    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/1. A Brief History of Electronic Music.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260730134003.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730130548.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730130350.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730125703.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730120211.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.Tutorial.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260730122057.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730121842.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730121727.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730120932.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260730120256.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.WS.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Tutorial.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Q.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
     "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
     "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1. Measurement Terminology.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.WS.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.Tutorial.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.WS.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Tutorial.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1. Measurement Terminology.md",
+    "UNIVERSITY/Honours/to run convertLidarData.py.md",
+    "UNIVERSITY/Honours/Setting up Simulation.md",
+    "UNIVERSITY/Honours/convertlidar.md",
+    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/1. A Brief History of Electronic Music.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Q.md",
     "UNIVERSITY/Honours/4.1 Meeting.md",
     "UNIVERSITY/PastNotes/MECH3001 1/Topic 8 - Continuation of Analytical Dynamics.md",
     "UNIVERSITY/PastNotes/MECH3001 1/Topic 9 - Moments of Inertia.md",
@@ -205,12 +212,8 @@
     "UNIVERSITY/Honours/3.2 Coherent Point Drift with Skewed Distribution for Accurate Point Cloud Registration.md",
     "UNIVERSITY/Honours/3.1 Meeting.md",
     "UNIVERSITY/Honours/2.1 Kieran PhD Literary Review Ch. 6.md",
-    "UNIVERSITY/Honours/1.2 Efficient Deep LiDAR Odometry.md",
     "UNIVERSITY/GENG5505 Project Management",
-    "UNIVERSITY/PastNotes/GENG5507/12.PW Safety Case.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation",
-    "UNIVERSITY/PastNotes/GENG5507/11.PW Incident Investigation.md",
-    "UNIVERSITY/PastNotes/GENG5507/11.EW Incident Investigation.md",
     "Untitled.base",
     "UNIVERSITY/PastNotes/GENG5507",
     "UNIVERSITY/CITS3200/Minutes",
