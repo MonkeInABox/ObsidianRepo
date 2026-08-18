@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/Honours/Setting up Simulation.md",
+                "file": "UNIVERSITY/GENG5505 Project Management/8. HR Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Setting up Simulation"
+              "title": "8. HR Management"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/Honours/Setting up Simulation.md",
+                "file": "UNIVERSITY/GENG5505 Project Management/8. HR Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,41 +176,42 @@
   },
   "active": "66d2e3a6e25842b5",
   "lastOpenFiles": [
+    "Pasted image 20260818111946.png",
+    "Pasted image 20260818110908.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818092319.png",
+    "UNIVERSITY/GENG5505 Project Management/8. HR Management.md",
+    "UNIVERSITY/GENG5505 Project Management/7. Quality Management.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. Data Representation.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260818095606.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818095546.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818095525.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818095116.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818094035.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818093830.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818092946.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260818092930.png",
+    "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
+    "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
+    "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
+    "UNIVERSITY/Honours/to run convertLidarData.py.md",
+    "UNIVERSITY/Honours/Setting up Simulation.md",
+    "UNIVERSITY/Honours/Lit Review Feedback.md",
+    "UNIVERSITY/Honours/convertlidar.md",
+    "UNIVERSITY/Honours/4.1 Meeting.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/4. Probability and Statistics.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/4. WS.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/4.Tutorial.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260812135536.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260812142828.png",
-    "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
-    "UNIVERSITY/GENG5505 Project Management/4. Scope Management.md",
-    "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
-    "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
     "UNIVERSITY/GENG5505 Project Management/6. Cost Management.md",
-    "UNIVERSITY/GENG5505 Project Management/7. Quality Management.md",
+    "UNIVERSITY/Honours/1.1 Automotive LiDAR.md",
+    "UNIVERSITY/Honours/1.0 Week 1.md",
+    "UNIVERSITY/GENG5505 Project Management/4. Scope Management.md",
     "UNIVERSITY/GENG5505 Project Management/5. Time Management.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260811143014.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/4. Probability and Statistics.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260811105500.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260811110241.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260811105617.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260811105557.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260811105525.png",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/3.WS.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.WS.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/1.Tutorial.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/3.Tutorial.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/3. Signal Conditioning.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260810141748.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260810151940.png",
-    "UNIVERSITY/Honours/2.1 Kieran PhD Literary Review Ch. 6.md",
-    "UNIVERSITY/Honours/1.2 Efficient Deep LiDAR Odometry.md",
-    "UNIVERSITY/Honours/1.1 Automotive LiDAR.md",
-    "UNIVERSITY/Honours/1.0 Week 1.md",
-    "UNIVERSITY/Honours/to run convertLidarData.py.md",
-    "UNIVERSITY/Honours/Setting up Simulation.md",
-    "UNIVERSITY/Honours/Lit Review Feedback.md",
-    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/1.Q History.md",
-    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/2. Rythms, Sampling and Harmony.md",
     "UNIVERSITY/MUSC1055 Electronic Music Methods and Means",
     "UNIVERSITY/GENG5505 Project Management",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation",
