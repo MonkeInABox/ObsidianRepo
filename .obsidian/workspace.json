@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/GENG5505 Project Management/12. Integration Management.md",
+                "file": "UNIVERSITY/GENG5505 Project Management/Exam Review Questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12. Integration Management"
+              "title": "Exam Review Questions"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2fa1a31129388d7e",
@@ -177,28 +176,34 @@
   },
   "active": "66d2e3a6e25842b5",
   "lastOpenFiles": [
-    "UNIVERSITY/Notes Images/Pasted image 20260909111658.png",
+    "UNIVERSITY/GENG5505 Project Management/13. Ethics and Values in Engineering.md",
+    "UNIVERSITY/GENG5505 Project Management/Exam Review Questions.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260922121227.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260922140513.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922140235.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922135830.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922135523.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922135438.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922132110.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922131928.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922131920.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260922131649.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/8. Least Squares Data Analysis.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/6. The Guide to the Expression of Uncertainty in Measurement (GUM).md",
+    "UNIVERSITY/Honours/Future works.md",
+    "UNIVERSITY/Honours/Lit Review Feedback.md",
+    "UNIVERSITY/Honours/Setting up Simulation.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/6.1 Filling in the table guide.md",
+    "UNIVERSITY/Honours/to run convertLidarData.py.md",
+    "UNIVERSITY/Honours/convertlidar.md",
     "UNIVERSITY/GENG5505 Project Management/12. Integration Management.md",
     "UNIVERSITY/GENG5505 Project Management/11. Procurement Management.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260909121502.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260909121146.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260909120959.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260909120221.png",
     "UNIVERSITY/GENG5505 Project Management/10. Risk Management.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260909112633.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260909112448.png",
     "UNIVERSITY/GENG5505 Project Management/9. Communication Management.md",
     "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
     "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/6. The Guide to the Expression of Uncertainty in Measurement (GUM).md",
-    "UNIVERSITY/Notes Images/Pasted image 20260824151724.png",
     "UNIVERSITY/GENG5505 Project Management/6. Cost Management.md",
-    "UNIVERSITY/Honours/to run convertLidarData.py.md",
-    "UNIVERSITY/Honours/convertlidar.md",
-    "UNIVERSITY/Honours/Lit Review Feedback.md",
-    "UNIVERSITY/Honours/Setting up Simulation.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260825104057.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260825103618.png",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. Data Representation.md",
     "UNIVERSITY/GENG5505 Project Management/8. HR Management.md",
     "UNIVERSITY/GENG5505 Project Management/7. Quality Management.md",
@@ -207,11 +212,6 @@
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/3. Signal Conditioning.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.WS.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. Tutorial.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. WS.md",
-    "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
-    "UNIVERSITY/Honours/4.1 Meeting.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/4. WS.md",
     "UNIVERSITY/MUSC1055 Electronic Music Methods and Means",
     "UNIVERSITY/GENG5505 Project Management",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation",
