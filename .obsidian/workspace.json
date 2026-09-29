@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "ffe0ac89069c8b95",
+    "id": "842981cc089e1d82",
     "type": "split",
     "children": [
       {
-        "id": "50e820d7e98452c9",
+        "id": "8d6fbd036b5a723d",
         "type": "tabs",
         "children": [
           {
-            "id": "9ddc9eb6ab8307f9",
+            "id": "74955d6a994084cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSITY/Honours/to run convertLidarData.py.md",
+                "file": "UNIVERSITY/MECH3424 Measurement & Instrumentation/11. Characterisation of Systems and Noise.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "to run convertLidarData.py"
+              "title": "11. Characterisation of Systems and Noise"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9c1a0975632059ca",
+    "id": "dbc0bba044cb026b",
     "type": "split",
     "children": [
       {
-        "id": "64513d2271c1d9cd",
+        "id": "65feba4d8e7523dd",
         "type": "tabs",
         "children": [
           {
-            "id": "76affa6f8098c2bb",
+            "id": "1c5949ed9adbb6ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "46f0d5dc5476bd36",
+            "id": "36bb699c28ce21b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,11 +68,14 @@
             }
           },
           {
-            "id": "850139f478155244",
+            "id": "15e70e75c2c798a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -81,51 +84,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "2fa1a31129388d7e",
+    "id": "7b6071ef7ec4f9f7",
     "type": "split",
     "children": [
       {
-        "id": "c3e9f5e9bd71f137",
+        "id": "ef417962cdb9b190",
         "type": "tabs",
         "children": [
           {
-            "id": "443b8d4847aef1ed",
+            "id": "0886356634397d61",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
+                "file": "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Stakeholder Management"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "cf5b4d1bc7d6d255",
+            "id": "f4238b921a6d1186",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
+                "file": "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Stakeholder Management"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "d3c50baec903fb57",
+            "id": "5ad620fff967ce65",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +144,12 @@
             }
           },
           {
-            "id": "2568dd7f10c030a2",
+            "id": "b701d03a48b71413",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIVERSITY/Honours/to run convertLidarData.py.md",
+                "file": "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -154,72 +158,40 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "bases:Create new base": false
     }
   },
-  "active": "9ddc9eb6ab8307f9",
+  "active": "74955d6a994084cd",
   "lastOpenFiles": [
-    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/2. Q History II.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260826140823.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/6. Tutorial.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260827123644.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260827122537.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/6. WS.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/6. The Guide to the Expression of Uncertainty in Measurement (The GUM).md",
-    "UNIVERSITY/Notes Images/Pasted image 20260826150535.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260826141557.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260826141411.png",
+    "Pasted image 20260929102924.png",
+    "Pasted image 20260929102910.png",
+    "Pasted image 20260929102816.png",
+    "Pasted image 20260929102647.png",
+    "Pasted image 20260929102431.png",
+    "Pasted image 20260929102247.png",
+    "Pasted image 20260929101936.png",
+    "Pasted image 20260929101624.png",
+    "Pasted image 20260929101429.png",
+    "Pasted image 20260929101333.png",
+    "Pasted image 20260929101244.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/11. Characterisation of Systems and Noise.md",
     "UNIVERSITY/Honours/to run convertLidarData.py.md",
-    "UNIVERSITY/Honours/Setting up Simulation.md",
-    "UNIVERSITY/GENG5505 Project Management/11. Procurement Management.md",
-    "UNIVERSITY/GENG5505 Project Management/10. Risk Management.md",
-    "UNIVERSITY/GENG5505 Project Management/9. Communication Management.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "UNIVERSITY/Notes Images/Pasted image 20260825112613.png",
-    "UNIVERSITY/Honours/convertlidar.md",
-    "UNIVERSITY/Honours/Lit Review Feedback.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260825112554.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260825112539.png",
-    "UNIVERSITY/GENG5505 Project Management/2. Organisational Capability.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260825110307.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. Data Representation.md",
-    "UNIVERSITY/GENG5505 Project Management/8. HR Management.md",
-    "UNIVERSITY/GENG5505 Project Management/7. Quality Management.md",
-    "UNIVERSITY/GENG5505 Project Management/6. Cost Management.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/4. Probability and Statistics.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/1. Measurement Terminology.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2. Sensors.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/3. Signal Conditioning.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/2.WS.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. Tutorial.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/5. WS.md",
-    "UNIVERSITY/GENG5505 Project Management/1. Introduction to Sustainability and Project Management.md",
-    "UNIVERSITY/GENG5505 Project Management/3. Stakeholder Management.md",
-    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means",
-    "UNIVERSITY/GENG5505 Project Management",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation",
-    "UNIVERSITY/PastNotes/GENG5507",
-    "UNIVERSITY/CITS3200/Minutes",
-    "UNIVERSITY/PastNotes/CITS3011",
-    "UNIVERSITY/CITS3200",
-    "UNIVERSITY/PastNotes/ELEC3016",
-    "Untitled.canvas"
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md"
   ]
 }
