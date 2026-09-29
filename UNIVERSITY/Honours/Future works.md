@@ -22,7 +22,9 @@ Unweighted MAE
 - Get a adversarial masked point cloud image
 - Logging for deadmans
 - Record incidents and what happened
-- Development of robust SSM LiDAR end to end model for dynamic environments
+- |   |
+|---|
+|Development of a Robust End-to-End Model LiDAR Model for Autonomous Vehicles in Dynamic Environments|
 - ~~Check for csv of outputs from adv masking training~~
 
 

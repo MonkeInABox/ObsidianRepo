@@ -11,10 +11,15 @@
             "id": "3372e181e5e568f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSITY/GENG5505 Project Management/Exam Review Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exam Review Questions"
             }
           }
         ]
@@ -79,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b6071ef7ec4f9f7",
@@ -174,20 +178,23 @@
   },
   "active": "3372e181e5e568f1",
   "lastOpenFiles": [
+    "UNIVERSITY/Notes Images/Pasted image 20260929150025.png",
+    "UNIVERSITY/GENG5505 Project Management/Exam Review Questions.md",
     "UNIVERSITY/GENG5505 Project Management/14. Moral Frameworks - Ethical Theories.md",
-    "Pasted image 20260929114955.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260929152053.png",
+    "UNIVERSITY/Notes Images/Pasted image 20260929150116.png",
+    "UNIVERSITY/Honours/1.0 Week 1.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260929140207.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/11. Characterisation of Systems and Noise.md",
+    "UNIVERSITY/Honours/Future works.md",
+    "UNIVERSITY/Notes Images/Pasted image 20260929114955.png",
     "UNIVERSITY/GENG5505 Project Management/13. Ethics and Values in Engineering.md",
     "UNIVERSITY/GENG5505 Project Management/12. Integration Management.md",
     "UNIVERSITY/Notes Images/Pasted image 20260929102924.png",
     "UNIVERSITY/Notes Images/Pasted image 20260929102816.png",
     "UNIVERSITY/Notes Images/Pasted image 20260929090110.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/11. Characterisation of Systems and Noise.md",
     "UNIVERSITY/Notes Images/Pasted image 20260929102910.png",
     "UNIVERSITY/Notes Images/Pasted image 20260929102647.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929102431.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929102247.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929101936.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929101624.png",
     "UNIVERSITY/Honours/to run convertLidarData.py.md",
     "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md"
   ]
