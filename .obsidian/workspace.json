@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8454345c491e4b2",
+        "id": "503119d506da4af3",
         "type": "tabs",
         "children": [
           {
-            "id": "3372e181e5e568f1",
+            "id": "de5042872937b04c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "UNIVERSITY/GENG5505 Project Management/Exam Review Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "UNIVERSITY/Notes Images/Pasted image 20261006144050.png"
               },
-              "icon": "lucide-file",
-              "title": "Exam Review Questions"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261006144050"
             }
           }
         ]
@@ -176,26 +173,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "3372e181e5e568f1",
+  "active": "1c5949ed9adbb6ac",
   "lastOpenFiles": [
-    "UNIVERSITY/Notes Images/Pasted image 20260929150025.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006115226.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/11. Digitisation.md",
+    "UNIVERSITY/Notes Images/Pasted image 20261006144050.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143903.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143733.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143613.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143601.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143532.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143436.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143434.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006143300.png",
+    "UNIVERSITY/Notes Images/Pasted image 20261006142439.png",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/10. Characterisation of Systems and Noise.md",
+    "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md",
+    "UNIVERSITY/GENG5505 Project Management/15. Managing Cross Cultural Business Ethics.md",
+    "UNIVERSITY/MUSC1055 Electronic Music Methods and Means/4. Modulation, Modulators and Audio Effects.md",
     "UNIVERSITY/GENG5505 Project Management/Exam Review Questions.md",
     "UNIVERSITY/GENG5505 Project Management/14. Moral Frameworks - Ethical Theories.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260929152053.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929150116.png",
     "UNIVERSITY/Honours/1.0 Week 1.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260929140207.png",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/11. Characterisation of Systems and Noise.md",
     "UNIVERSITY/Honours/Future works.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260929114955.png",
     "UNIVERSITY/GENG5505 Project Management/13. Ethics and Values in Engineering.md",
     "UNIVERSITY/GENG5505 Project Management/12. Integration Management.md",
-    "UNIVERSITY/Notes Images/Pasted image 20260929102924.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929102816.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929090110.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929102910.png",
-    "UNIVERSITY/Notes Images/Pasted image 20260929102647.png",
-    "UNIVERSITY/Honours/to run convertLidarData.py.md",
-    "UNIVERSITY/MECH3424 Measurement & Instrumentation/9. Time and Frequency Analysis.md"
+    "UNIVERSITY/Honours/to run convertLidarData.py.md"
   ]
 }
